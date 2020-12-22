@@ -16,7 +16,7 @@ What is the field of the question?
 
 - Topic restatement
 
-Paraphrase =\&gt; Intro + Conclusion
+Paraphrase => Intro + Conclusion
 
 State all the alternatives
 
