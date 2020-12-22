@@ -1,9 +1,10 @@
-Task2 - Independent
-Tips:
+#Task2 - Independent
+##Tips:
 •	Planning is of utmost/crucial importance
 •	27-23-16-8-4
 •	agree/disagree, reasons, words
-Introduction:
+
+###Introduction:
 •	General statement 
 What is the field of the question?
 Only 1 sentence (not that general or complicated that take long to narrow down)
@@ -19,7 +20,7 @@ Should be very clear
 
 •	Transition sentence
 Use a simple template
-Topic sentence:
+###Topic sentence:
 	Reader should guess the question from topic sentence.
 	No pronoun in topic sentence
 	Not long
