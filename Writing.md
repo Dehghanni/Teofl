@@ -1,5 +1,7 @@
 #Task2 - Independent
+
 ##Tips:
+
 •	Planning is of utmost/crucial importance
 •	27-23-16-8-4
 •	agree/disagree, reasons, words
