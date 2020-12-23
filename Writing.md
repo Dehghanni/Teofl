@@ -1,16 +1,16 @@
-**Task2 - Independent**
+# **Task2 - Independent**
 
-**Tips** :
+## **Tips** :
 
 - Planningis of utmost/crucial importance
 - 27-23-16-8-4
 - agree/disagree, reasons, words
 
-**Introduction:**
+### **Introduction:**
 
 - General statement
 
-What is the field of the question?
+ What is the field of the question?
  Only 1 sentence (not that general or complicated that take long to narrow down)
  Do not spend a lot of time – relevant – Not too general or too detailed – Do not answer the question
 
@@ -34,7 +34,7 @@ All of the alternatives should be mentioned
 
 Use a simple template
 
-**Topic sentence:**
+### **Topic sentence:**
 
 1. Reader should guess the question from topic sentence.
 2. No pronoun in topic sentence
@@ -54,7 +54,7 @@ There should be no irrelevant sentence.
 Concluding sentences transitions:
 **All in all, In short,** In conclusion **, In summ**** a ****ry**
 
-**Conclusion:**
+### **Conclusion:**
 
 Read the question before writing the conclusion
 
