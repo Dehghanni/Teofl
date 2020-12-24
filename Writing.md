@@ -6,21 +6,21 @@
 - 27-23-16-8-4
 - agree/disagree, reasons, words
 
-### **Introduction:**
+**Introduction:**
 
 - General statement
 
- What is the field of the question?
+What is the field of the question?
  Only 1 sentence (not that general or complicated that take long to narrow down)
  Do not spend a lot of time – relevant – Not too general or too detailed – Do not answer the question
 
 - Topic restatement
 
-Paraphrase => Intro + Conclusion
+Paraphrase =\&gt; Intro + Conclusion
 
 State all the alternatives
 
-Suppose that the reader do not know about the question
+Suppose that the reader does not know about the question
 
 - Thesis statement
 
@@ -34,7 +34,7 @@ All of the alternatives should be mentioned
 
 Use a simple template
 
-### **Topic sentence:**
+**Topic sentence:**
 
 1. Reader should guess the question from topic sentence.
 2. No pronoun in topic sentence
@@ -52,9 +52,9 @@ concluding sentence is rephrased of topic sentence or summary of major sentences
 There should be no irrelevant sentence.
 
 Concluding sentences transitions:
-**All in all, In short,** In conclusion **, In summ**** a ****ry**
+**All in all, In short, Consequently, In summ**** a ****ry**
 
-### **Conclusion:**
+**Conclusion:**
 
 Read the question before writing the conclusion
 
@@ -92,19 +92,21 @@ A vexed question amongst the myriad of questions which arise here is ~~that~~ �
 
 But whose relative importance is still debatable /is open to debate/ is a matter of debate.
 
-3 options: Although … and … are important, my impression is that … is of utmost significance/of essence.
+My impression is that …
 
-I am not, nor have I ever been an opponent of .../ a proponent of ...
+In my opinion …
 
 I am of the opinion that both … and … have their own merits and demerits.
 
 I don&#39;t subscribe to the theory that …
 
-My impression is that …
+I am not, nor have I ever been an opponent of .../ a proponent of ...
 
-In my opinion …
+3 options: Although … and … are important, my impression is that … is of utmost significance/of essence.
 
 Despite the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
+
+The following explanations will further elaborate **on** this perspective.
 
 There are numerous reasons, two of which I will explain.
 
@@ -116,8 +118,6 @@ In following paragraphs, my viewpoint will be elucidated.
 
 In what follows, I will boil this down to a couple of main reasons.
 
-The following explanations will further elaborate **on** this perspective.
-
 **First Body:**
 
 First, and most obvious,
@@ -127,8 +127,6 @@ First and foremost,
 First of all,
 
 To begin with,
-
-In short,
 
 This exemplar will suffice to illustrate the point that ...
 
@@ -154,37 +152,37 @@ To wrap it up,
 
 To bring everything into conclusion,
 
-It is too difficult to pinpoint whether the role … plays is of more significance or that of …
-
-taking all the aforementioned reasons into consideration, we can conclude that
-
-all the aforementioned reasons lead us to the conclusion that
-
-all the above enumerated reasons converge to the point that ..
-
-Considering the aforementioned reasons, we can conclude that …
-
-It is highly anticipated that
+It is too difficult/far from straightforward to pinpoint whether the role … plays is of more significance or that of …
 
 Whether … or not ~~,~~ need further considerations.
 
-It is suggested that a through and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
+taking all the aforementioned reasons into consideration, we can conclude that
 
-It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen if ... was ... .
+Considering the aforementioned reasons, we can conclude that …
 
-Consequently, unpleasantly surprising is the fact that …
+all the aforementioned reasons lead us to the conclusion that
 
-Other factors are also at work in the …
+all the above-enumerated reasons converge to the point that …
 
 Based on the aforementioned reasons, it can be surmised that … has deleterious/detrimental/devastating effects on ….
 
-Obviously, … constitutes a serious threat to the future. Therefore, a prompt action must be taken, otherwise, a terrible fate awaits us.
+Other factors are also at work in the …
 
-Otherwise, a spirit of hopelessness may pervade the society.
+It is suggested that a thorough and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
 
-It would be palpably unwise to draw firm conclusions from the results of a few researches.
+It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen if ... was ... .
 
-Should the government do .... ....
+unpleasantly surprising is the fact that …
+
+Obviously, … constitutes a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us.
+
+Otherwise, a spirit of hopelessness may pervade society.
+
+It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
+
+It is highly anticipated that
+
+Should the government does …, …
 
 Once again, it must be stressed that ...
 
@@ -200,7 +198,7 @@ The number of people studying tertiary education is more than all in history.
 
 Because -\&gt; for
 
-Children&#39;s emotional development depends to a great extent on their earliest relationships, which is why the bond between children and their parents or caregivers is of great importance.
+Children&#39;s emotional development depends to a great extent on their earliest relationships, which is why the bond between children and their parents or caregivers is of paramount importance.
 
 Education, or the lack thereof, plays a major role in every society.
 
@@ -216,7 +214,7 @@ tedious/humdrum/mundane/monotonous work/job/task
 
 do a menial job to earn a living
 
-hard/wearing/enervating/boring/grueling/tiring/fatiguing homework/assgmnt
+hard/wearing/enervating/boring/grueling/tiring/fatiguing homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -258,27 +256,25 @@ crush their enthusiasm
 
 More important than …, is …
 
+Also important is …, …(define the term)
+
+Of importance is the fact that ...
+
 pivotal reason
 
 … is of paramount concern (to …) …
 
+Of paramount concern is …
+
 … must be given precedence.
 
 … is a chief concern.
-
-Of paramount concern is …
 
 … with scant regard for …
 
 Until recently, there hadn&#39;t been a whole lot of attention paid to …
 
 … is usually more … the more … the …
-
-Also important is …, …(define the term)
-
-Of importance is the fact that ...
-
-Examples of this abound in the world.
 
 . But prior to that, …
 
@@ -536,61 +532,43 @@ Claim = statement = assertion = contention
 # which in turn
  |
 
-For example, a steel plant was built near my town. Owing to incorrect location, this factory is exposed to winds towards the city and all its pollutants enter the city, which has caused dissatisfaction among residents. People even assembled in front of municipality building and protested, but due to the large number of unemployed workers, the government failed to tackle the problem, and the factory resumed operation.
+# Brainstorm
 
--
-# Teamwork
-
-The importance of teamwork is essential in today&#39;s multidisciplinary world.
-
-In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
-
-Teamwork enables the members to split an enormously mammoth task to simpler ones -\&gt; every person develop specialized skills, therefore there would be the best person for each task that can accomplish it in a more excellent way. -\&gt; lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
-
-Teammates observe and depend on the quality of each other&#39;s work. When one team member&#39;s performance declines, others have knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
-
-Approach your colleague with friendly questions, rather than accusations.
-
-They might be **ostracized**.
-
-In a team, all members must work towards the main goals of the team
-
-Take my personal experience as example, I was in a robotics group preparing for an international competition. Our group consisted of 6 people, each with his own task. The rivalry between teams was fierce and we had to work diligently to meet the deadline. One of the members of the group, who was in charge of documenting the group&#39;s activities, always objected, and this affects the whole group adversely. Such terrible was the situation that despite winning that year&#39;s tournament, the members refused to cooperate again for next years.
-
-I remember once working for a content providing company. My job was to produce technical content about new cars. One of my co-workers always objected, and we were always changing schedules, and that slowed things down a lot and we fell behind the market.
-
-If a member of the group moves in the opposite direction, it slows down the process.
-
-**BrainStorm**
-
+- Playing sports can teach people lessons about life
+  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. It gradually teaches you that failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to score in the second half and snatch victory from jaws of defeat.
+  - Playing sports will inculcate/instill an attitude of teamwork spirit in individuals.-\&gt;
+ When engaging in sports activities, one learns how to cooperate with others in order to fulfill the common objective of the group -\&gt;
+ his quality is a must-have and sought-after skill in the workplace -\&gt;
+ lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
+  - The ability to take failure and success alike is a valuable life experience that sports can teach us. When asked to what they attribute their outstanding achievements, successful individuals mention their mental outlook to embrace both triumph and defeat. This quality can be achieved by playing sports as it makes us understand that mistakes and failures can teach us valuable things.
 - Which kind of professors will you choose when selecting the courses?
-1. Some professors who are voted to be the most popular one
-2. Some professors who are rewarded of outstanding research
+ 1. Some professors who are voted to be the most popular one
+ 2. Some professors who are rewarded of outstanding research
   - Uni offer diversity of teachers and profs.
   - Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students; Ex: prof. thrun-who won the Darpa urban challenge in 2005; minute details of the project
   - More institutions will commission him to do other researches; know you -\&gt; opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
 - It is important to have rules about the types of clothes that people wear in their
-workplace and at school.
+ workplace and at school.
   - No; improper to force people what to wear; wear whatever they want to feel comfortable; from pedagogically standpoint increase productivity; school uniform; inconvenient I couldn&#39;t understand well in class
   - Feel free; differect tastes; based on their temperament; I wear fashion but casual ; look approachable; don&#39;t spent a lot of time in front of the mirror
 - Some people think it is the best approach for students to learn if school start the day
-at an early time in the morning. But someone think the school should start the day at
-late time.
-Which one do you prefer?
+ at an early time in the morning. But someone think the school should start the day at
+ late time.
+ Which one do you prefer?
 
 One of the most talked about things[** related to studying**](http://www.bellakulture.com/2015/04/the-best-study-tips-for-finals.html) is when exactly is the best time to hit the books? While this is most certainly affected by lifestyle and preferences, they are some pretty good reasons why as a college student you should study in the mornings.
 
   - Morning; after a tiring day it is hard to retain what you studied; eventful day, read the matters more than one; the later you study, the more tired your brain is; the less you understand; in morning you had the chance to clear your mind and is easy to maintain focus; Ex: I am a morning person,
   - As imp as brain condition is you physical condition, Mornings are great because you are at the most energetic level you&#39;ll be for the rest of the day. The more energetic you are, the more you are able to concentrate. One night I was studying I was sleepy next day I start reading the rest of the book I read about 10 pages and sud
 - Which one of the following is the best approach to reduce living expense?
-A. share the rent with roommate
-B. do not buy the latest technology products like cellphone frequently
-C. cook food at home.
+ A. share the rent with roommate
+ B. do not buy the latest technology products like cellphone frequently
+ C. cook food at home.
   - House costs are exceedingly high. Difficult for people to afford rentals. Share house with others is a cost-effective decision
   - It is not impossible to live w/o having latest tech products, so we do not usually spend a stupefying amount of money on them. There are local restaurants that sell economical food or you can use TV-dinner. I lived in dorm and I ate out most of the time, whereas I was student and did not have much money.
 - Do you agree or disagree with the following statement?
-Students do reading by their own personality is as important as, or more important
-than reading assigned by teachers.
+ Students do reading by their own personality is as important as, or more important
+ than reading assigned by teachers.
   - –
   - –
 - People should buy the products made in their own country.
@@ -598,20 +576,20 @@ than reading assigned by teachers.
   - Help national companies to grow, produce finer products. It obviates the need for importing goods. Raise GNP and export the commodities, develop international trade . People can dramatically increase their foreign exchange earnings by buying domestic products
   - People can create many jobs by buying products in their own country. Unemployment rate is high. Young people need job.
 - When working on a project, it&#39;s better for classmates or colleagues to communicate
-face to face than sending emails
+ face to face than sending emails
   - Convey better -\&gt; obviates the risk of misunderstanding, assemble together, deliberation make collective decisions -\&gt; Ex: work on the same tasks
   - If only one member does not have access to net -\&gt; project will be stopped, lead to project postponement -\&gt; meet the deadlines -\&gt; fall behind on their works and lose the market.
   - Email/video conference obviates the need to collocate members and reduces ambiguity in commander&#39;s intention.
 - It&#39;s better to complete a project and then start another one than to do several things at
-the same time.
+ the same time.
   - Focus better
   - Come up with new idea, splendid inventions …
 - Do you agree or disagree with the following statement?
-Nowadays it is not important for people to have regularly family meals together
+ Nowadays it is not important for people to have regularly family meals together
   - Advancement in tech
   - Hustle and bustle of modern life
 - Do you agree or disagree with the following statement?
-The more money a person has, the more he or she should give away to the charities
+ The more money a person has, the more he or she should give away to the charities
   - It is the duty of every member of society to think of one another. Make the society a better more humane place.
   - &quot;Human beings are all members of one frame,
  since all from the same essence came,
@@ -623,23 +601,23 @@ The more money a person has, the more he or she should give away to the charitie
   - Get required knowledge – find better solutions – lead to better productivity, more efficacy, greater profitability, and many other benefits. Ex: research that shows well-educated ppl are more successful
   - Boost their mental and intellectual abilities – devise creative ways – increase speed – reduce cost Ex: I worked as a sideline to make a living. Was not in line of my profession – I could see my colleagues who had been majored in pertinent areas worded much better.
 - People in communities can make decisions that protect and improve the natural
-environment. Which one is the most useful?
+ environment. Which one is the most useful?
 A. plant trees and create parks
 B. persuade local shops to stop providing plastic bags to customers
 C. increase access to public transportation to reduce the number of automobiles on
-local roads
+ local roads
   - –
   - –
   - Ex: our city is devoid of amusement park. Entice customers to use reusable bags. The paucity of green areas in city.
   - The cars that release a prodigious amounts of greenhouse gases.
-- After making a presentation in class, you want to evaluate it. Which of the following doyou think would be better for you?
-1. watch the recording by yourself
-2. invite other attenders to discuss and give opinions
+- After making a presentation in class, you want to evaluate it. Which of the following do you think would be better for you?
+ 1. watch the recording by yourself
+ 2. invite other attenders to discuss and give opinions
   - Imp to rehearse or practice before make a presentation/ give a lecture / … to be well prepared.
   - Attenders; resemble real audience – be accustomed to the atmosphere of the lecture – boost your confidence – control your speech, take care of your body language … Ex: I am a good presenter, I always ask my classmates to participate in my training presentation and it substantially helps me
   - Diff ppl have diff opinions –feed back their comments – size your speech more reasonable – eliminate unimportant and trivial matters – Ex: I attended to my friend&#39;s rehearsal – he devoted half of his speech to the introduction
 - Is it as important for older people to learn and study new things as young people to do
-so？
+ so？
   - Seek the knowledge from the cradle to grave, as the old saying goes. Age is just a number. It seems more rational to keep yourself up-to-date in this fast-paced world.
   - ---
 - Which one do you think is important to long-lasting friendship?
@@ -653,7 +631,7 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
 - Honest friends will never lead you astray – they will never lie to you and will never give you wrong info – you can count on them whenever you run into difficulties- Ex: I was studying for exam, one my classmates who was terribly jealous, came up to me and said, &quot;have you studied these chapters? The teacher told me that there will be some questions from these chapters.&quot; I spend the rest of the time studying those trivial matters which I later discovered were
 
 - Are government doing good in educating people to pay attention to the importance
-of the food nutrition and healthy eating?
+ of the food nutrition and healthy eating?
   - Eating impotance ----
   - No; government should pay painstaking attention in young people eating habits, the prevalence of obesity is exceedingly high among teenagers, TV advertisements are the main culprit. Kids today badger their parents to buy them junk foods. Ex: my cousin in only 13 years old and his weight is 130 pounds which is excruciatingly bad for a boy at that age.
   - Another culprit of obesity among people is social medium. you can hardly scroll through Instagram without passing by a must-try fat-laden and sugar-rich meals. Governments should try to dissuade people from eating unhealthy food. Ex: You might have seen such video clips of Big burgers, French fries, choice succulent steaks, pizzas and so forth.
@@ -664,7 +642,7 @@ of the food nutrition and healthy eating?
   - ---find a suitable sentence for the time you cannot decide
   - The books and movies one like shows their taste. Your taste in choosing books and movies depends on your temperament. Knowing one&#39;s temperament, you can learn about them in an excellent way and find out their idiosyncrasy. Ex: I do not usually read a lot of books but the ones I like tend to be like serious, scientific books, concerning real issues and describing ppl in a realistic way. I am an engineer, I cannot find any point in those fiction books.
   - Personality and predisposition of a person is inextricably linked to the books and movies they like. Movies and books at times are for recreation and people may try different types of them. But they would not like all of them. If they like a specific genera, it means that it was in their line of thought or character. Ex: An extensive body of research that examine the link between human characteristics and region they live showed that people of different countries have different tastes in movies. Therefore can say one can learn about a person by watching movies.
-- 190126WR ) In order to succeed in study or job, the ability to adjust or adapt to changing conduction orcircumstance is more important than having knowledge.
+- 190126WR ) In order to succeed in study or job, the ability to adjust or adapt to changing conduction or circumstance is more important than having knowledge.
   - Merits and demerits to each one
   - On the one hand, having relevant knowledge, one have the ability to know the tasks the job may entail and how to tackle them. They would be able to make timely decisions. Increase efficacy Ex: I worked at a company as a content provider as a sideline while finishing for my masters. My responsibilities were not in the line of my education, but I saw my colleagues who had studied in pertinent areas worked much better than me.
   - On the other hand, life is chaotic and it is impossible to predict all the circumstances. There might be abrupt changes in the life which one has to be able to adapt to them or devise a new way to surmount the obstacles; otherwise, they might wreak havoc on their lives. Ex: During the COVID-19 outbreak, a lot of people have been laid off, many other employees have been forced to work outsource. The people who were not familiar with internet, computer and stuff couldn&#39;t survive.
@@ -720,3 +698,35 @@ of the food nutrition and healthy eating?
   - -------
 - use elec devices in class
   - no; distraction – cannot focus – reduce performance – class is not useful waste of time
+
+**Example for environmental problems and government duties**
+
+For example, a steel plant was built near my town. Due to the incorrect location, this factory is located in the direction of the winds toward the city, and all of its pollutions enter the city, which has caused dissatisfaction among residents. People even assembled in front of the municipality building and protested, but because of the large number of unemployed workers, the government failed to tackle the problem and the factory resumed operation.
+
+**Example for my own experience in a job and benefit of relevant education**
+
+I remember once working for a content providing company. My job was to produce technical content about new cars.
+
+## Teamwork
+
+The importance of teamwork is essential in today&#39;s multidisciplinary world.
+
+In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
+
+**Teamwork enables the members to split an enormously mammoth task into simpler ones -\&gt;
+ every person develops specialized skills, therefore there would be the best person for each task that can accomplish it in a more excellent way. -\&gt;
+ lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.**
+
+Teammates observe and depend on the quality of each other&#39;s work. When one team member&#39;s performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
+
+Approach your colleague with friendly questions, rather than accusations.
+
+In a team, all members must work towards the main goals of the team
+
+If a member of the group moves in the opposite direction, it slows down the process.
+
+They might be **ostracized**.
+
+Take my personal experience as an example, I was in a robotics group preparing for an international competition. Our group consisted of 6 people, each with his own task. The rivalry between teams was extraordinarily fierce and we had to work diligently to meet the deadline. One of the members of the group, who was in charge of documenting the group&#39;s activities, always objected, and this affects the whole group adversely. Such terrible was the situation that despite winning that year&#39;s tournament, the members refused to cooperate again for next years.
+
+I remember once working for a content-providing company in which my responsibilities included producing technical content about new cars. One of my co-workers always objected, and we were changing schedules constantly, which slowed things down to a great extent, and we fell behind the market.
