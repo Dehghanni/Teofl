@@ -308,6 +308,8 @@ For instance, …, once a luxury for privileged few, is now well within the reac
 
 In retrospect, …
 
+I wouldn&#39;t be seen dead doing ….
+
 **Task 1 – Integrated**
 
 **Tips**
@@ -534,36 +536,36 @@ Claim = statement = assertion = contention
 
 # Brainstorm
 
-- Playing sports can teach people lessons about life
-  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. It gradually teaches you that failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to score in the second half and snatch victory from jaws of defeat.
-  - Playing sports will inculcate/instill an attitude of teamwork spirit in individuals.-\&gt;
- When engaging in sports activities, one learns how to cooperate with others in order to fulfill the common objective of the group -\&gt;
- his quality is a must-have and sought-after skill in the workplace -\&gt;
+- **Playing sports can teach people lessons about life.**
+  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. Failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to score in the second half and snatch victory from jaws of defeat.
+  - Playing sports will inculcate/instill an attitude of teamwork spirit into individuals.-\&gt;
+ When engaging in sports activities, one learns how to cooperate with others in order to achieve the common objective of the group -\&gt;
+ this quality is a must-have and sought-after skill in the workplace -\&gt;
  lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
   - The ability to take failure and success alike is a valuable life experience that sports can teach us. When asked to what they attribute their outstanding achievements, successful individuals mention their mental outlook to embrace both triumph and defeat. This quality can be achieved by playing sports as it makes us understand that mistakes and failures can teach us valuable things.
-- Which kind of professors will you choose when selecting the courses?
+- **Which kind of professors will you choose when selecting the courses?
  1. Some professors who are voted to be the most popular one
- 2. Some professors who are rewarded of outstanding research
-  - Uni offer diversity of teachers and profs.
-  - Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students; Ex: prof. thrun-who won the Darpa urban challenge in 2005; minute details of the project
+ 2. Some professors who are rewarded of outstanding research**
+  - Universities offer diversity of teachers and profs.
+  - Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students. Ex: I was enrolled in a class whose instructor had a wealth of experience in conducting industrial projects and explained minute details about his projects. That course was, without exaggeration, the best course in my undergraduate years, and I learned a lot in that lesson.
   - More institutions will commission him to do other researches; know you -\&gt; opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
-- It is important to have rules about the types of clothes that people wear in their
- workplace and at school.
+- **It is important to have rules about the types of clothes that people wear in their
+ workplace and at school.**
   - No; improper to force people what to wear; wear whatever they want to feel comfortable; from pedagogically standpoint increase productivity; school uniform; inconvenient I couldn&#39;t understand well in class
-  - Feel free; differect tastes; based on their temperament; I wear fashion but casual ; look approachable; don&#39;t spent a lot of time in front of the mirror
-- Some people think it is the best approach for students to learn if school start the day
+  - Feel free; different tastes; based on their temperament; I wear fashion but casual ; look approachable; don&#39;t spent a lot of time in front of the mirror
+- **Some people think it is the best approach for students to learn if school start the day
  at an early time in the morning. But someone think the school should start the day at
  late time.
- Which one do you prefer?
+ Which one do you prefer?**
 
 One of the most talked about things[** related to studying**](http://www.bellakulture.com/2015/04/the-best-study-tips-for-finals.html) is when exactly is the best time to hit the books? While this is most certainly affected by lifestyle and preferences, they are some pretty good reasons why as a college student you should study in the mornings.
 
   - Morning; after a tiring day it is hard to retain what you studied; eventful day, read the matters more than one; the later you study, the more tired your brain is; the less you understand; in morning you had the chance to clear your mind and is easy to maintain focus; Ex: I am a morning person,
   - As imp as brain condition is you physical condition, Mornings are great because you are at the most energetic level you&#39;ll be for the rest of the day. The more energetic you are, the more you are able to concentrate. One night I was studying I was sleepy next day I start reading the rest of the book I read about 10 pages and sud
-- Which one of the following is the best approach to reduce living expense?
+- **Which one of the following is the best approach to reduce living expense?
  A. share the rent with roommate
  B. do not buy the latest technology products like cellphone frequently
- C. cook food at home.
+ C. cook food at home.**
   - House costs are exceedingly high. Difficult for people to afford rentals. Share house with others is a cost-effective decision
   - It is not impossible to live w/o having latest tech products, so we do not usually spend a stupefying amount of money on them. There are local restaurants that sell economical food or you can use TV-dinner. I lived in dorm and I ate out most of the time, whereas I was student and did not have much money.
 - Do you agree or disagree with the following statement?
@@ -571,25 +573,23 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  than reading assigned by teachers.
   - –
   - –
-- People should buy the products made in their own country.
+- **People should buy the products made in their own country.**
   - Economies are failing
   - Help national companies to grow, produce finer products. It obviates the need for importing goods. Raise GNP and export the commodities, develop international trade . People can dramatically increase their foreign exchange earnings by buying domestic products
   - People can create many jobs by buying products in their own country. Unemployment rate is high. Young people need job.
-- When working on a project, it&#39;s better for classmates or colleagues to communicate
- face to face than sending emails
+- **When working on a project, it&#39;s better for classmates or colleagues to communicate
+ face to face than sending emails**
   - Convey better -\&gt; obviates the risk of misunderstanding, assemble together, deliberation make collective decisions -\&gt; Ex: work on the same tasks
   - If only one member does not have access to net -\&gt; project will be stopped, lead to project postponement -\&gt; meet the deadlines -\&gt; fall behind on their works and lose the market.
   - Email/video conference obviates the need to collocate members and reduces ambiguity in commander&#39;s intention.
-- It&#39;s better to complete a project and then start another one than to do several things at
- the same time.
+- **It&#39;s better to complete a project and then start another one than to do several things at
+ the same time.**
   - Focus better
   - Come up with new idea, splendid inventions …
-- Do you agree or disagree with the following statement?
- Nowadays it is not important for people to have regularly family meals together
+- **Nowadays it is not important for people to have regularly family meals together**
   - Advancement in tech
   - Hustle and bustle of modern life
-- Do you agree or disagree with the following statement?
- The more money a person has, the more he or she should give away to the charities
+- **The more money a person has, the more he or she should give away to the charities**
   - It is the duty of every member of society to think of one another. Make the society a better more humane place.
   - &quot;Human beings are all members of one frame,
  since all from the same essence came,
@@ -597,106 +597,109 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  other limbs at rest cannot remain,&quot; or so Sa&#39;adi is quoted as saying.
  Ex: people are deprived from education, food, etc.
   - Reduce the gap between wealth and poverty. Alleviate destitution. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
-- Company should pay for employees to get university degree.
+- **Company should pay for employees to get university degree.**
   - Get required knowledge – find better solutions – lead to better productivity, more efficacy, greater profitability, and many other benefits. Ex: research that shows well-educated ppl are more successful
   - Boost their mental and intellectual abilities – devise creative ways – increase speed – reduce cost Ex: I worked as a sideline to make a living. Was not in line of my profession – I could see my colleagues who had been majored in pertinent areas worded much better.
-- People in communities can make decisions that protect and improve the natural
+- **People in communities can make decisions that protect and improve the natural
  environment. Which one is the most useful?
-A. plant trees and create parks
-B. persuade local shops to stop providing plastic bags to customers
-C. increase access to public transportation to reduce the number of automobiles on
- local roads
+ A. plant trees and create parks
+ B. persuade local shops to stop providing plastic bags to customers
+ C. increase access to public transportation to reduce the number of automobiles on
+ local roads**
   - –
   - –
   - Ex: our city is devoid of amusement park. Entice customers to use reusable bags. The paucity of green areas in city.
   - The cars that release a prodigious amounts of greenhouse gases.
-- After making a presentation in class, you want to evaluate it. Which of the following do you think would be better for you?
- 1. watch the recording by yourself
+- **After making a**  **presentation**  **in class, you want to evaluate it. Which of the following do you think would be better for you?**
+1. watch the recording by yourself
  2. invite other attenders to discuss and give opinions
   - Imp to rehearse or practice before make a presentation/ give a lecture / … to be well prepared.
   - Attenders; resemble real audience – be accustomed to the atmosphere of the lecture – boost your confidence – control your speech, take care of your body language … Ex: I am a good presenter, I always ask my classmates to participate in my training presentation and it substantially helps me
   - Diff ppl have diff opinions –feed back their comments – size your speech more reasonable – eliminate unimportant and trivial matters – Ex: I attended to my friend&#39;s rehearsal – he devoted half of his speech to the introduction
-- Is it as important for older people to learn and study new things as young people to do
- so？
+- **Is it as important for older people to learn and study new things as young people to do
+ so?**
   - Seek the knowledge from the cradle to grave, as the old saying goes. Age is just a number. It seems more rational to keep yourself up-to-date in this fast-paced world.
   - ---
-- Which one do you think is important to long-lasting friendship?
-A. help you when you need
-B. share same interest and hobby
-C. mutual trust
+- **Which one do you think is important to long-lasting friendship?
+ A. help you when you need
+ B. share same interest and hobby
+ C. mutual trust**
 
 Human beings have perpetually been seeking a way to communicate with others. Friendship actually doesn&#39;t fit into any definition. It&#39;s a relationship that cannot be described with words. [friendship](https://www.mydomaine.com/what-is-friendship-1385639) is as important to our wellbeing as eating right and exercising. A vexed question that arises here is whether having common interests and hobbies plays a more significant role in friendship or friends solicitousness when they need one another. My impression is that mutual confidence of utmost importance.
 
 - Honest friends would never talk behind your back – let you diagnose your weaknesses – you will work on them and be a better prsn which is invaluable. Ex: I had this roommate who always tried to criticize me in a friendly way. I learned a lot from eating habits to how manage work-life conflict.
 - Honest friends will never lead you astray – they will never lie to you and will never give you wrong info – you can count on them whenever you run into difficulties- Ex: I was studying for exam, one my classmates who was terribly jealous, came up to me and said, &quot;have you studied these chapters? The teacher told me that there will be some questions from these chapters.&quot; I spend the rest of the time studying those trivial matters which I later discovered were
 
-- Are government doing good in educating people to pay attention to the importance
- of the food nutrition and healthy eating?
+- **Are government doing good in educating people to pay attention to the importance
+ of the food nutrition and healthy eating?**
   - Eating impotance ----
   - No; government should pay painstaking attention in young people eating habits, the prevalence of obesity is exceedingly high among teenagers, TV advertisements are the main culprit. Kids today badger their parents to buy them junk foods. Ex: my cousin in only 13 years old and his weight is 130 pounds which is excruciatingly bad for a boy at that age.
   - Another culprit of obesity among people is social medium. you can hardly scroll through Instagram without passing by a must-try fat-laden and sugar-rich meals. Governments should try to dissuade people from eating unhealthy food. Ex: You might have seen such video clips of Big burgers, French fries, choice succulent steaks, pizzas and so forth.
-- Speaking courses should be mandatory for students
+- **Speaking courses should be mandatory for students**
   - Incongruous courses may waste Ss time. My friend speech was barely comprehensible
   - Speaking is hard. While speaking you should tread lightly. Helps ss to conquer their stage fright and get the better of their fear.
-- 190112WR) One can learn about another person from the books and movies that the person likes.
+- 190112WR) **One can learn about another person from the books and movies that the person likes.**
   - ---find a suitable sentence for the time you cannot decide
   - The books and movies one like shows their taste. Your taste in choosing books and movies depends on your temperament. Knowing one&#39;s temperament, you can learn about them in an excellent way and find out their idiosyncrasy. Ex: I do not usually read a lot of books but the ones I like tend to be like serious, scientific books, concerning real issues and describing ppl in a realistic way. I am an engineer, I cannot find any point in those fiction books.
   - Personality and predisposition of a person is inextricably linked to the books and movies they like. Movies and books at times are for recreation and people may try different types of them. But they would not like all of them. If they like a specific genera, it means that it was in their line of thought or character. Ex: An extensive body of research that examine the link between human characteristics and region they live showed that people of different countries have different tastes in movies. Therefore can say one can learn about a person by watching movies.
-- 190126WR ) In order to succeed in study or job, the ability to adjust or adapt to changing conduction or circumstance is more important than having knowledge.
+- 190126WR ) **In order to succeed in study or job, the ability to adjust or adapt to changing conduction or circumstance is more important than having knowledge.**
   - Merits and demerits to each one
   - On the one hand, having relevant knowledge, one have the ability to know the tasks the job may entail and how to tackle them. They would be able to make timely decisions. Increase efficacy Ex: I worked at a company as a content provider as a sideline while finishing for my masters. My responsibilities were not in the line of my education, but I saw my colleagues who had studied in pertinent areas worked much better than me.
   - On the other hand, life is chaotic and it is impossible to predict all the circumstances. There might be abrupt changes in the life which one has to be able to adapt to them or devise a new way to surmount the obstacles; otherwise, they might wreak havoc on their lives. Ex: During the COVID-19 outbreak, a lot of people have been laid off, many other employees have been forced to work outsource. The people who were not familiar with internet, computer and stuff couldn&#39;t survive.
-- Leadership abilities
+- **Leadership abilities**
   - Leader must be able to resolve/settle the sporadic conflicts/arguments among the members of the group.
   - Leader has to bear in mind that members of the group -------------------. Leader has to bear the responsibility for …-
--
 
-- Teamwork
-  - -\&gt; potion work out among members -- dedicate single task – avoid multitasking – not boring, dull, enervating
-  - social skills, communication,
-- pay fee to drive in busy streets
+- **Teamwork**
+  - The importance of teamwork is essential in today&#39;s multidisciplinary world. In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
+
+  - Teamwork enables the members to split an enormously mammoth task into simpler ones -\&gt;
+ every person develops specialized skills and avoids multitasking, therefore there would be the best person for each task that can accomplish it in a more excellent way, and the work will not be daunting and wearing anymore. -\&gt;
+ lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
+  - Teammates observe and depend on the quality of each other&#39;s work. When one team member&#39;s performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
+- **pay fee to drive in busy streets**
   - reduce # of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
   - use the revenue -\&gt; incentives for green activity, establish recycling companies
-- secure job low pay or high salary not secur
+- **secure job low pay or high salary not secure**
   - consistent, afford opp to make master plan rather than living in a haphazard way or being in a precarious position, reduce anxiety and facilitate control, life-long desires,
   - unemployment rate is high – hard to find another job – possible to stay solvent – half a loaf is better than no bread
-- Stop reading or listening to news
+- **Stop reading or listening to news**
   - news is often about bad events – stressful because sometimes, try as one might, they cannot make any change – makes you tense – affect your life adversely – even may lead to mental disorder –
-  - on the other hand, raise your awareness, dvlp realistic perspective on life and world – make better and timely decisions – tax , ...
-- company -\&gt; better working env or technologies
+  - n the other hand, raise your awareness, dvlp realistic perspective on life and world – make better and timely decisions – tax , ...
+- **company -\&gt; better working env or technologies**
   - better env -\&gt; comfortable – convival and cordial atmos – willing to work – retain their employees , lower turnover - passion ..
   - more meeting rooms -\&gt; more meeting – collective decisions – common goals – passionate – solve individual prblms together – more eager
-- long assgnmnt for young students
+- **long assgnmnt for young students**
   - ---------
-- people who always criticise are not good teammembers
+- **people who always criticise are not good teammembers**
   - although criticism is a good thing as a fault-finding behavior – eye-opener – hard for evbdy to be told they are wrong – continuing criticsm will lead to conflics
   - continual criticism impede the way to progress – better to be proactive and try to make change not only disapprove of others
-- digital devices for children
+- **digital devices for children**
   - affect ppl&#39;s mental health advrsly, this is especially true **in respect of** children. Appealing and gained massive popularity, spend hours, scenes in games or net. also imp is physical health, prevalent obesity plus spinal discomfort, bad posture,
   - Stifle their creativity, creativity does not constitute an inherent talent, UI/UX designers , easy to use, crush their eagerness to seek challenges, hinder dvlpmnt of brain
-- first-year ss lack of study skills
+- **first-year ss lack of study skills**
   - --------
   - ----------
-- personal resolution
+- **personal resolution**
   - -------
   - -------
-- history courses
+- **history courses**
   - although history is important – boring – ss dissatisfaction – lose their interest – impinge on their education – may grad later and become employed later
   - take their time – not advantageous – better to learn required knowldg and ess prerequisites – useful for their future life
   - hist repeats itself – raise their awareness of their cultural heritage - learn from history – make better decisions – better society or world –
-- career prospect or interest
+- **career prospect or interest**
   - sig fact b4 chsing mjr is interest – hard ok – successful , passion, effort. You will be able to achieve anything providing that you keep plugging away at it.
-  - other factors
-- know how your donation to a charity is going to be spent
+  - ther factors
+- **know how your donation to a charity is going to be spent**
   - no; trust org, manifest rubric, experts know better, not as wasy as you might thing,
   - live your life and let them do their work, just find a good org, dont interfere, anonymous,
-- prepare children for school;
+- **prepare children for school;**
   - communication -\&gt; ess skills
   - It will help them to enjoy higher self-confidence and self-esteem, which in turn may affect their social relationship positively.
-- how to know a new city in short time
+- **how to know a new city in short time**
   - ---------
   - -------
-- use elec devices in class
+- **use elec devices in class**
   - no; distraction – cannot focus – reduce performance – class is not useful waste of time
 
 **Example for environmental problems and government duties**
