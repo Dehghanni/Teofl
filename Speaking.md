@@ -72,7 +72,7 @@ Another strategy is to...
 
 - **Family**
 
-- Family is the sole group who truly cares for us and, we can count on them whenever we run into difficulties. For example, on a rainy day, you can cadge money from your family and they might help you without reservation.
+- Family is the sole group who truly cares for us and, we can count on them whenever we run into difficulties. They subordinate their personal interests to those of us. For example, on a rainy day, you can cadge money from your family and they might help you without reservation.
 - Our family members are the ones who know us the best and can advise us better than any other people. For example, when you wanna choose a major to study, it seems more rational to consult your family because they know your interests in a superior way.
 
 - **Children**
@@ -90,7 +90,7 @@ Another strategy is to...
 
 - **Parents should not be allowed to watch children&#39;s grades without their permissions**
 
-- Some parents might always keep an eye on their children&#39;s performance, which intensifies the student&#39;s tension. parents may blame them for their failure in a course without deep knowledge for reasons. They intensify the tension on students. Which aggravate the student&#39;s spirit and crush their motivation.
+- Some parents might always keep an eye on their children&#39;s performance, which intensifies the student&#39;s tension. Parents may blame them for their failure in a course without deep knowledge for reasons. They intensify the tension on students. Which aggravate the student&#39;s spirit and crush their motivation.
 - It is immensely significant to respect individual&#39;s privacy, including children. Privacy is tied to freedom. It helps us to protect our thoughts and even physical safety. Parents&#39; intervention might cause a lot of pressure on children. For example, When I was in primary school, my parents had to sign my transcripts and it made me faintly tense.
 
 - **Children should learn paint or draw**
@@ -103,52 +103,49 @@ Another strategy is to...
 - Some gifted children may develop highly inflated and unrealistic expectations for themselves. They might desire to be the best in perpetuity. And, any divergence from this path will be perceived as a failure and make them disappointed. Were I a father, I would never treat my children as overly special to let them enjoy their lives to the full.
 - On the other hand, gifted children have unique educational needs due to their intellectual difference and require special academic services. For example, children who are strong in math should have extracurricular classes.
 
-3
-
 - **Study**
 
-- Had I
-- known about different subjects at an early age, I would have studied other majors like music which I fell in love with.
-- It can help students study throughout the semester and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always cramped before exams. So not only did I get bad grades, but I also had terrible nights back then.
-- Homework will help students diagnose their weaknesses and work on them. Also, teachers will provide them with optimal feedback, which will help students stay on the right track. I took a course on electronics, and I really learned everything in homework questions.
-- … will help students keep track of class discussions and lessons more efficiently and learn the lessons in depth.
+- Had I known about different subjects at an early age, I would have studied other majors like music which I fell in love with.
 - … arouse students&#39; curiosity.
+- They will gradually metamorphose to industrious people.
 
 - **Homework for students**
 
-- Students will keep track of class discussions better. They will work on a regular basis and avoid procrastination. They will gradually metamorphose to industrious people.
-- In addition to consolidate the lessons, it helps students avoid cramming before the tests and you won&#39;t be overwhelmed.
--
+- It can help students study throughout the semester and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
+- Homework will help students diagnose their weaknesses and work on them. Also, teachers will provide them with optimal feedback, which will help students stay on the right track. I took a course on electronics, and I really learned everything in homework questions/assignments.
+- Homework helps students keep track of class discussions and lessons more efficiently, work on a regular basis, avoid procrastination, and learn the lessons in depth and consolidate them.
 
 - **Study in the morning**
 
 - It&#39;s easier to maintain focus in the morning. For some demanding courses, it&#39;s enormously important to fully focus. I&#39;m a morning person
 
 -   **Schools**
-  - Schools should provide congenial atmosphere not an oppressive one. The more delight intermingle with education, the more the students will learn in depth.
-  - Student life obviously encompasses a vast range of activities and is of bewildering complexity, which stress them out and makes them tense.
-  - Student life is replete with assignments, homework, seminars, conferences, etc. Psychologically speaking, stress-induced diseases are prevalent among students.
+  - Schools should provide a congenial atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
+  - Student life obviously encompasses a vast range of activities and is of bewildering complexity, which stresses them out and makes them tense.
+  - Student life is replete with assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are prevalent among students.
   - By joining such activities students can unwind and get the good vibes to study more efficaciously.
   - Quality is of more importance than quantity.
 
 -   **Online classes or actual classes**
-  - Actual classes wil help students fortify their social skills
+  - Actual classes will help students fortify their social skills. Students will boost their self-esteem and self-confidence by interacting with others and participating in class discussions. I myself for example was an introverted child and school brought me out of my shell.
   - Students will take part in classes more willingly and will participate in class discussions
+
+------
 
 -   **Expel students who cheat on exam**
   - It&#39;s not a good idea to expel students who cheat in an exam. Expulsion and suspension should only be used as a last resort. Schools should consider other aspects beyond the scope of education.
-  - Expulsion would have serious serious repercussions such as increase in unemployment.
+  - Expulsion would have serious repercussions such as increase in unemployment.
   - Students should be disciplined when they cheat in a test like fail and force to pass the course again or extra assignments and so forth.
 
 -   **Coed dormitory**
-  - Dormitory is a miniature society indeed where you eill learn how to get along with people other than your family members.
+  - Dormitory is a miniature society indeed where you will learn how to get along with people other than your family members.
   - Students can get to know members of the opposite sex, and they will learn to get to grips with differences
 
 -   **University require Students to buy their own laptops**
   - It is too improper for university to force students to buy their own laptops.
   - First, students might not be able to afford personal computers. Laptops are exceedingly expensive. At least, uni had better give students loan.
   - Ex: I myself didn&#39;t have my own laptop when I was freshman and bought it much later.
-  - On the other hand, some say students need to have their own laptops to be able to work or study at anytime whenever they can or they want. Furthermore it ensures privacy. You can have your files saved on your laptop and block access for others.
+  - On the other hand, some say students need to have their own laptops to be able to work or study at any time whenever they can or they want. Furthermore it ensures privacy. You can have your files saved on your laptop and block access for others.
 
 -   **Work on one field or several fields**
   - Nowadays multidisciplinary majors are in things. Most of the inventions are the results of using advantages if one field in other fields&#39; applications.
@@ -252,8 +249,8 @@ Ex: look at the oceans that are fouled almost beyond recovery.
 - **Share room or not**
 
 - There are pros and cons to either route.
-- first, sharing room/house with others is cost-effective. It is more economical because everybody shares bill payment or rent. It will cost a fortune to rent an exclusive house and As a student you might not be able it.
-- secondly, living with others will boost your self-esteem and self-confidence.
+- First, sharing room/house with others is cost-effective. It is more economical because everybody shares bill payment or rent. It will cost a fortune to rent an exclusive house and as a student you might not be able it.
+- Secondly, living with others will boost your self-esteem and self-confidence.
 
 - **Making mistakes**
 
@@ -262,7 +259,7 @@ Ex: look at the oceans that are fouled almost beyond recovery.
 - **Solitude or crowd**
 
 - Solitude significantly increases productivity. I perform immensely better when I&#39;m alone, I can stay focused on my work and won&#39;t be distracted.
-- Secondly, the more privacy you have, the more enjoyment you will get. You can enjoy your life to the full like listening to your favorite music without headphones.
+- Secondly, the more privacy you have, the more enjoyment you will get. You can enjoy your life to the full like listening to your favorite music without headphones. I wouldn&#39;t be seen dead sharing my room with others, even if it&#39;ll cost me a lot more.
 - It will also enable you to move toward complete independence.
 
 - **Travel alone or with others**
