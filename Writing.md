@@ -6,7 +6,7 @@
 - 27-23-16-8-4
 - agree/disagree, reasons, words
 
-**Introduction:**
+### **Introduction:**
 
 - General statement
 
@@ -34,7 +34,7 @@ All of the alternatives should be mentioned
 
 Use a simple template
 
-**Topic sentence:**
+### **Topic sentence:**
 
 1. Reader should guess the question from topic sentence.
 2. No pronoun in topic sentence
@@ -54,7 +54,7 @@ There should be no irrelevant sentence.
 Concluding sentences transitions:
 **All in all, In short, Consequently, In summ**** a ****ry**
 
-**Conclusion:**
+### **Conclusion:**
 
 Read the question before writing the conclusion
 
@@ -66,7 +66,7 @@ It is possible to end the conclusion with a suggestion or rhetorical question.
 
 conclusion should be reviewing two reasons.
 
-**Intro** :
+### **Intro** :
 
 In modern era,
 
@@ -118,7 +118,7 @@ In following paragraphs, my viewpoint will be elucidated.
 
 In what follows, I will boil this down to a couple of main reasons.
 
-**First Body:**
+### **First Body:**
 
 First, and most obvious,
 
@@ -132,7 +132,7 @@ This exemplar will suffice to illustrate the point that ...
 
 A case in point is ...
 
-**Second Body:**
+### **Second Body:**
 
 Another equally important factor to take into consideration is …
 
@@ -142,7 +142,7 @@ On the other hand,
 
 Examples of this abound in the world.
 
-**Conclusion:**
+### **Conclusion:**
 
 In conclusion,
 
@@ -186,7 +186,7 @@ Should the government does …, …
 
 Once again, it must be stressed that ...
 
-**General:**
+### **General:**
 
 From campus to city or the other way around
 
