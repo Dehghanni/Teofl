@@ -72,7 +72,7 @@ Another strategy is to...
 
 - **Family**
 
-- Family is the sole group who truly cares for us and, we can count on them whenever we run into difficulties. They subordinate their personal interests to those of us. For example, on a rainy day, you can cadge money from your family and they might help you without reservation.
+- Family is the sole group who truly cares for us and, we can count on them whenever we run into difficulties. They give us their unqualified support and subordinate their personal interests to those of us. For example, on a rainy day, you can cadge money from your family and they might help you without reservation.
 - Our family members are the ones who know us the best and can advise us better than any other people. For example, when you wanna choose a major to study, it seems more rational to consult your family because they know your interests in a superior way.
 
 - **Children**
@@ -80,13 +80,14 @@ Another strategy is to...
 - Parents should not constrain their children from doing what they want. They should incent them without incensing them.
 - Were I a father, I would never interfere in my children&#39;s lives and would let them do whatever they want at their own free will. My parents used to force me to be a doctor, which was utterly preposterous.
 - Parents who give their children preferential treatment are sowing the seeds of future problems.
-- Children who engage in competition earn critical social skills through interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
+- Children who engage in competition earn critical social skills by interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
 - It will boost their ego.
 - This will gradually teach them how to take care of responsibilities later in life and how to be disciplined.
 - It provides the opportunity to make friends with new people. They can socialize and get to know people with different perspectives and cultures which can be a real eye-opener.
 - Joining such activities will boost their self-confidence and self-esteem. It will bring them out of their shell.
-- Living in society is a give and take relationship. Children should fulfill their civic duty and role in society. They will learn to be wholly committed to their duties.
+- Living in society is a give and take relationship. Children should fulfill their civic duty and role in society and never shirk their responsibility. They will learn to be wholly committed to their duties.
 - They will appreciate others&#39; efforts.
+- Parents should have patient to answer inquisitive children&#39;s questions.
 
 - **Parents should not be allowed to watch children&#39;s grades without their permissions**
 
@@ -108,12 +109,12 @@ Another strategy is to...
 - Had I known about different subjects at an early age, I would have studied other majors like music which I fell in love with.
 - … arouse students&#39; curiosity.
 - They will gradually metamorphose to industrious people.
+- Teachers should have patient to answer inquisitive children&#39;s question.
 
 - **Homework for students**
 
-- It can help students study throughout the semester and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
+- It can help students study throughout the semester, on a regular basis, and avoid procrastination and keep track of class discussions, thus consolidate the lessons and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
 - Homework will help students diagnose their weaknesses and work on them. Also, teachers will provide them with optimal feedback, which will help students stay on the right track. I took a course on electronics, and I really learned everything in homework questions/assignments.
-- Homework helps students keep track of class discussions and lessons more efficiently, work on a regular basis, avoid procrastination, and learn the lessons in depth and consolidate them.
 
 - **Study in the morning**
 
@@ -122,24 +123,22 @@ Another strategy is to...
 -   **Schools**
   - Schools should provide a congenial atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
   - Student life obviously encompasses a vast range of activities and is of bewildering complexity, which stresses them out and makes them tense.
-  - Student life is replete with assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are prevalent among students.
+  - Student life is full of assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are intensely prevalent among students. For example, when I was a student, I was under enormous pressure to do my senior project, which turned into anxiety, and made me indulge myself in eating junk food and gain extra weight.
   - By joining such activities students can unwind and get the good vibes to study more efficaciously.
   - Quality is of more importance than quantity.
 
 -   **Online classes or actual classes**
-  - Actual classes will help students fortify their social skills. Students will boost their self-esteem and self-confidence by interacting with others and participating in class discussions. I myself for example was an introverted child and school brought me out of my shell.
-  - Students will take part in classes more willingly and will participate in class discussions
-
-------
+  - Actual classes will help students fortify their social skills. Students will boost their self-esteem and self-confidence by interacting with others and participating in class discussions. For example, I was an introverted child, and university brought me out of my shell.
+  - Actual classes will encourage students to take part in classes more willingly, and they will feel the competition between classmates to get the better of each other. Like their effort to answer the lecturer&#39;s questions.
+  - I took a course on robotics in which students were allowed to ask questions whenever they had, and it made everyone want to be the most knowledgeable at any discussion.
 
 -   **Expel students who cheat on exam**
-  - It&#39;s not a good idea to expel students who cheat in an exam. Expulsion and suspension should only be used as a last resort. Schools should consider other aspects beyond the scope of education.
-  - Expulsion would have serious repercussions such as increase in unemployment.
-  - Students should be disciplined when they cheat in a test like fail and force to pass the course again or extra assignments and so forth.
+  - It&#39;s not a good idea to expel students who cheat in an exam. Expulsion and suspension should only be used as a last resort. Schools should consider other aspects beyond the scope of education. Students should be disciplined when they cheat in a test like fail and force to pass the course again or extra assignments and so forth.
+  - Expulsion would have serious repercussions such as increase in unemployment. For example, I had a classmate who was expelled from university for cheating and dropped out of school, leading to misery and losing everything in his life.
 
 -   **Coed dormitory**
-  - Dormitory is a miniature society indeed where you will learn how to get along with people other than your family members.
-  - Students can get to know members of the opposite sex, and they will learn to get to grips with differences
+  - Dormitory is a miniature society indeed where you will learn how to get along with people other than your family members. Students can make friends with new people or even find their lifelong soulmates who they want to spend the rest of their life with.
+  - Students can get to know members of the opposite sex, and they will learn to get to grips with differences. It can be seen that sexism is more common in countries with segregated education systems.
 
 -   **University require Students to buy their own laptops**
   - It is too improper for university to force students to buy their own laptops.
@@ -148,7 +147,7 @@ Another strategy is to...
   - On the other hand, some say students need to have their own laptops to be able to work or study at any time whenever they can or they want. Furthermore it ensures privacy. You can have your files saved on your laptop and block access for others.
 
 -   **Work on one field or several fields**
-  - Nowadays multidisciplinary majors are in things. Most of the inventions are the results of using advantages if one field in other fields&#39; applications.
+  - Nowadays multidisciplinary majors are in things. Most of the inventions are the results of using the advantages of one field in other fields&#39; applications. For instance, nowadays majors like Mechatronics are very popular because students will learn a wide variety of fields during their education.
   - People need to use each other&#39;s specialties in groups, and it is not possible for a person to be knowledgeable enough in all fields.
 
 - **Experienced teachers**
@@ -259,7 +258,7 @@ Ex: look at the oceans that are fouled almost beyond recovery.
 - **Solitude or crowd**
 
 - Solitude significantly increases productivity. I perform immensely better when I&#39;m alone, I can stay focused on my work and won&#39;t be distracted.
-- Secondly, the more privacy you have, the more enjoyment you will get. You can enjoy your life to the full like listening to your favorite music without headphones. I wouldn&#39;t be seen dead sharing my room with others, even if it&#39;ll cost me a lot more.
+- Secondly, the more privacy you have, the more enjoyment you will get. You can enjoy your life to the full like listening to your favorite music without headphones. I wouldn&#39;t be seen dead sharing my room with others, even if it&#39;ll cost me disproportionately.
 - It will also enable you to move toward complete independence.
 
 - **Travel alone or with others**
@@ -324,7 +323,8 @@ Ex: look at the oceans that are fouled almost beyond recovery.
 
 - **Happiness**
 
-- We&#39;re brought up to believe that happiness means having lots of money – a big house and everything.
+- We&#39;re brought up to believe that happiness means having a
+- stronomical amounts of money – a big house and everything.
 - You can&#39;t define happiness in terms of what you own.
 - No possession in the world can make you truly happy.
 - When it comes to being truly happy, it&#39;s about doing things that have meaning. You can&#39;t just sit around, waiting to be happy.
