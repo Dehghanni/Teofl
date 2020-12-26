@@ -1,12 +1,12 @@
-# **Task2 - Independent**
+**Task2 - Independent**
 
-## **Tips** :
+**Tips** :
 
 - Planningis of utmost/crucial importance
 - 27-23-16-8-4
 - agree/disagree, reasons, words
 
-### **Introduction:**
+**Introduction:**
 
 - General statement
 
@@ -34,7 +34,7 @@ All of the alternatives should be mentioned
 
 Use a simple template
 
-### **Topic sentence:**
+**Topic sentence:**
 
 1. Reader should guess the question from topic sentence.
 2. No pronoun in topic sentence
@@ -54,7 +54,7 @@ There should be no irrelevant sentence.
 Concluding sentences transitions:
 **All in all, In short, Consequently, In summ**** a ****ry**
 
-### **Conclusion:**
+**Conclusion:**
 
 Read the question before writing the conclusion
 
@@ -66,7 +66,7 @@ It is possible to end the conclusion with a suggestion or rhetorical question.
 
 conclusion should be reviewing two reasons.
 
-### **Intro** :
+**Intro** :
 
 In modern era,
 
@@ -118,7 +118,7 @@ In following paragraphs, my viewpoint will be elucidated.
 
 In what follows, I will boil this down to a couple of main reasons.
 
-### **First Body:**
+**First Body:**
 
 First, and most obvious,
 
@@ -132,7 +132,7 @@ This exemplar will suffice to illustrate the point that ...
 
 A case in point is ...
 
-### **Second Body:**
+**Second Body:**
 
 Another equally important factor to take into consideration is …
 
@@ -142,7 +142,7 @@ On the other hand,
 
 Examples of this abound in the world.
 
-### **Conclusion:**
+**Conclusion:**
 
 In conclusion,
 
@@ -152,7 +152,9 @@ To wrap it up,
 
 To bring everything into conclusion,
 
-It is too difficult/far from straightforward to pinpoint whether the role … plays is of more significance or that of …
+It is far from straightforward/ too difficult to pinpoint (the cause of …)whether the role … plays is of more significance or that of …
+
+It is far from straightforward to pinpoint exactly what/how/why … (It is too difficult to pinpoint the cause of )
 
 Whether … or not ~~,~~ need further considerations.
 
@@ -168,25 +170,25 @@ Based on the aforementioned reasons, it can be surmised that … has deleterious
 
 Other factors are also at work in the …
 
-It is suggested that a thorough and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
-
-It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen if ... was ... .
-
 unpleasantly surprising is the fact that …
 
 Obviously, … constitutes a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us.
 
 Otherwise, a spirit of hopelessness may pervade society.
 
-It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
-
-It is highly anticipated that
-
 Should the government does …, …
 
 Once again, it must be stressed that ...
 
-### **General:**
+It is highly anticipated that
+
+It is suggested that a thorough and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
+
+It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen if ... was ... .
+
+It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
+
+**General:**
 
 From campus to city or the other way around
 
@@ -206,15 +208,15 @@ Not only do the students benefit from it, but so do the professors.
 
 It is human nature to …, that is how our brain works.
 
-enormously arduous/mammoth/formidable/daunting/unenviable task
+(5)enormously arduous/mammoth/formidable/daunting/unenviable task
 
 heavy workload/ work overtime
 
-tedious/humdrum/mundane/monotonous work/job/task
+(4)tedious/humdrum/mundane/monotonous work/job/task
 
 do a menial job to earn a living
 
-hard/wearing/enervating/boring/grueling/tiring/fatiguing homework/assignment
+(7)hard/wearing/enervating/boring/grueling/tiring/fatiguing homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -247,8 +249,6 @@ To what extent …
 … extent to which …
 
 …; however(.However), one cannot play down the significance/importance of …
-
-It is far from straightforward to pinpoint exactly what/how/why … (It is too difficult to pinpoint the cause of )
 
 … may impinge on/upon …
 
@@ -290,7 +290,7 @@ Governments had better use revenues from environmentally related taxes to provid
 
 It takes an inordinate amount of time to ....
 
-Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of them are not bona fide and are prone to trick people to get money. They might have political affiliation and ….
+Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of them are not bona fide and are prone to trick people to make a fortune. They might have political affiliation and ….
 
 Had I known about ...., I would have been ...
 
@@ -309,6 +309,8 @@ For instance, …, once a luxury for privileged few, is now well within the reac
 In retrospect, …
 
 I wouldn&#39;t be seen dead doing ….
+
+If you do not give the wrong people in your life a wide berth, you will never meet the right ones.
 
 **Task 1 – Integrated**
 
@@ -537,15 +539,49 @@ Claim = statement = assertion = contention
 # Brainstorm
 
 - **Playing sports can teach people lessons about life.**
-  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. Failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to score in the second half and snatch victory from jaws of defeat.
+  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. Failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team in the second half and snatch victory from jaws of defeat.
   - Playing sports will inculcate/instill an attitude of teamwork spirit into individuals.-\&gt;
  When engaging in sports activities, one learns how to cooperate with others in order to achieve the common objective of the group -\&gt;
  this quality is a must-have and sought-after skill in the workplace -\&gt;
  lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
+ EX: Going back to earlier example of a football match, a case in point is that a player in attacking position must be humble enough to pass to his teammate if he is in a better position to score a goal.
   - The ability to take failure and success alike is a valuable life experience that sports can teach us. When asked to what they attribute their outstanding achievements, successful individuals mention their mental outlook to embrace both triumph and defeat. This quality can be achieved by playing sports as it makes us understand that mistakes and failures can teach us valuable things.
+- **One of the best ways to learn about a country&#39;s culture is through watching its TV shows.**
+  - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents represent the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. The footage of American traditional life explains that they prefer to live in large properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
+  - Shows broadcast by television have some indirect or direct messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably connected to the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens to the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. Socially speaking, for example, European TV shows usually promote interracial marriage in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
+- **It is better for government to spend money on building modern housing than on preserving historic or traditional buildings and homes..**
+  - These ancient constructions have educational values and represent the rich cultural heritage of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate the contribution of their forefathers in the glamorous history of their nation.
+  - The old relics serve as tourist hotspots and attract an influx of domestic and foreign visitors to the country. There are many tourists around the world who have an insatiable desire to discover new historic places. They travel to quench their curiosity no matter how far they have to go or how hazardous they travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
+- **Celebrities, such as actors, musicians and athletes, sometimes express their political views in public. Some people appreciate knowing the political views of celebrities. Others think it is not appropriate or useful to know the political views of celebrities. Which opinion do you agree with?**
+  - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people to make a fortune. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They boy off public figures to represent their products way better than what they really are. In this case, gullible and easily persuaded people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
+  - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should be taken with a grain of salt. Needless to say, celebrities are more known for their wealth, fame, glamor, and physical attractiveness. They have neither a superior academic credential nor valuable experiences in important fields such as economics and politics. The only thing that has made them well known is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. That cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
+
+- **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
+  - -----
+  - -----
+- **Which one can make friendship stronger?**
+
+**-Having a good time with your friend (Enjoy good time)**
+
+**-Solving your problem with him or her (talk about problem)**
+
+**-Supporting each other**
+
+  - **Supporting each other.** Supporting each other will make both friends successful, and they will enjoy their friendship. One can count on their supportive friend whenever they run into difficulties. -\&gt; supportive friends subordinate their interests to those of their friends and help them to climb the ladder of success -\&gt; reciprocally their friend will keep their hand and help them be successful, which would be like snowball effect. Eventually they would be more successful and enjoy their relationship.
+  - Supportive friends will never be green with envy, and they never cause conflicts. They are happy to help. Supportive friends are not jealous, so they will never lead their friends astray. They will never misguide their friends with wrong information. Therefore, there would not be any conflict among them; on the contrary this will cement the bond between them. For example: studying with your friend at school.
+- **Which one do you think is important to long-lasting friendship?
+ A. help you when you need
+ B. share same interest and hobby
+ C. mutual trust**
+
+Human beings have perpetually been seeking a way to communicate with others. Friendship actually doesn&#39;t fit into any definition. It&#39;s a relationship that cannot be described with words. [friendship](https://www.mydomaine.com/what-is-friendship-1385639) is as important to our wellbeing as eating right and exercising. A vexed question that arises here is whether having common interests and hobbies plays a more significant role in friendship or friends solicitousness when they need one another. Although both of these are important, my impression is that mutual confidence of utmost importance.
+
+- Honest friends would never talk behind your back – let you diagnose your weaknesses – you will work on them and be a better person which is invaluable. Ex: I could not help being furious when someone talks behind my back. On the other hand, some years back, I had this roommate who always tried to criticize me in a friendly way. I learned a lot from eating habits to how manage work-life conflict from him.
+- Trustworthy friends will never lead you astray – they are not covetous or envious, so they will never misguide you by lying to you and giving you wrong info – you can count on them whenever you run into difficulties- Ex: I was studying for an exam, one my classmates who was terribly jealous, came up to me and said, &quot;have you studied these chapters? The teacher told me that there will be some questions from these chapters.&quot; I spend the rest of the time studying those trivial matters which I later discovered were
+
 - **Which kind of professors will you choose when selecting the courses?
  1. Some professors who are voted to be the most popular one
- 2. Some professors who are rewarded of outstanding research**
+ 2. Some professors who **** are rewarded of outstanding research**
   - Universities offer diversity of teachers and profs.
   - Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students. Ex: I was enrolled in a class whose instructor had a wealth of experience in conducting industrial projects and explained minute details about his projects. That course was, without exaggeration, the best course in my undergraduate years, and I learned a lot in that lesson.
   - More institutions will commission him to do other researches; know you -\&gt; opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
@@ -567,10 +603,9 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  B. do not buy the latest technology products like cellphone frequently
  C. cook food at home.**
   - House costs are exceedingly high. Difficult for people to afford rentals. Share house with others is a cost-effective decision
-  - It is not impossible to live w/o having latest tech products, so we do not usually spend a stupefying amount of money on them. There are local restaurants that sell economical food or you can use TV-dinner. I lived in dorm and I ate out most of the time, whereas I was student and did not have much money.
-- Do you agree or disagree with the following statement?
- Students do reading by their own personality is as important as, or more important
- than reading assigned by teachers.
+  - It is not impossible to live w/o having latest tech products, so we do not usually spend a stupefying amount of money on them. There are local restaurants that sell economical food or you can use TV-dinner. I lived in dorm and I ate out most of the time, whereas I was student and did not have a great deal of money.
+- **Students do reading by their own personality is as important as, or more important
+ than reading assigned by teachers.**
   - –
   - –
 - **People should buy the products made in their own country.**
@@ -596,7 +631,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  when time afflicts a limb with pain,
  other limbs at rest cannot remain,&quot; or so Sa&#39;adi is quoted as saying.
  Ex: people are deprived from education, food, etc.
-  - Reduce the gap between wealth and poverty. Alleviate destitution. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
+  - Reduce the gap between wealth and poverty. Alleviate destitution. The seeds of many social maladies can be traced back to poverty. Many social maladies stem from poverty. Poverty is a breeding ground for many social maladies. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
 - **Company should pay for employees to get university degree.**
   - Get required knowledge – find better solutions – lead to better productivity, more efficacy, greater profitability, and many other benefits. Ex: research that shows well-educated ppl are more successful
   - Boost their mental and intellectual abilities – devise creative ways – increase speed – reduce cost Ex: I worked as a sideline to make a living. Was not in line of my profession – I could see my colleagues who had been majored in pertinent areas worded much better.
@@ -610,9 +645,9 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - –
   - Ex: our city is devoid of amusement park. Entice customers to use reusable bags. The paucity of green areas in city.
   - The cars that release a prodigious amounts of greenhouse gases.
-- **After making a**  **presentation**  **in class, you want to evaluate it. Which of the following do you think would be better for you?**
-1. watch the recording by yourself
- 2. invite other attenders to discuss and give opinions
+- **After making a**  **presentation** **in class, you want to evaluate it. Which of the following do you think would be better for you?
+ 1. watch the recording by yourself
+ 2. invite other attenders to discuss and give opinions**
   - Imp to rehearse or practice before make a presentation/ give a lecture / … to be well prepared.
   - Attenders; resemble real audience – be accustomed to the atmosphere of the lecture – boost your confidence – control your speech, take care of your body language … Ex: I am a good presenter, I always ask my classmates to participate in my training presentation and it substantially helps me
   - Diff ppl have diff opinions –feed back their comments – size your speech more reasonable – eliminate unimportant and trivial matters – Ex: I attended to my friend&#39;s rehearsal – he devoted half of his speech to the introduction
@@ -620,15 +655,6 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  so?**
   - Seek the knowledge from the cradle to grave, as the old saying goes. Age is just a number. It seems more rational to keep yourself up-to-date in this fast-paced world.
   - ---
-- **Which one do you think is important to long-lasting friendship?
- A. help you when you need
- B. share same interest and hobby
- C. mutual trust**
-
-Human beings have perpetually been seeking a way to communicate with others. Friendship actually doesn&#39;t fit into any definition. It&#39;s a relationship that cannot be described with words. [friendship](https://www.mydomaine.com/what-is-friendship-1385639) is as important to our wellbeing as eating right and exercising. A vexed question that arises here is whether having common interests and hobbies plays a more significant role in friendship or friends solicitousness when they need one another. My impression is that mutual confidence of utmost importance.
-
-- Honest friends would never talk behind your back – let you diagnose your weaknesses – you will work on them and be a better prsn which is invaluable. Ex: I had this roommate who always tried to criticize me in a friendly way. I learned a lot from eating habits to how manage work-life conflict.
-- Honest friends will never lead you astray – they will never lie to you and will never give you wrong info – you can count on them whenever you run into difficulties- Ex: I was studying for exam, one my classmates who was terribly jealous, came up to me and said, &quot;have you studied these chapters? The teacher told me that there will be some questions from these chapters.&quot; I spend the rest of the time studying those trivial matters which I later discovered were
 
 - **Are government doing good in educating people to pay attention to the importance
  of the food nutrition and healthy eating?**
@@ -649,6 +675,8 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
 - **Leadership abilities**
   - Leader must be able to resolve/settle the sporadic conflicts/arguments among the members of the group.
   - Leader has to bear in mind that members of the group -------------------. Leader has to bear the responsibility for …-
+  - A leader should contain his/her anger and never lose their composure even if others lose theirs. They should never let their emotion get the better of them.
+  - A leader should never shirk his responsibilities.
 
 - **Teamwork**
   - The importance of teamwork is essential in today&#39;s multidisciplinary world. In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
@@ -671,11 +699,11 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
   - more meeting rooms -\&gt; more meeting – collective decisions – common goals – passionate – solve individual prblms together – more eager
 - **long assgnmnt for young students**
   - ---------
-- **people who always criticise are not good teammembers**
+- **people who always criticize are not good team members**
   - although criticism is a good thing as a fault-finding behavior – eye-opener – hard for evbdy to be told they are wrong – continuing criticsm will lead to conflics
   - continual criticism impede the way to progress – better to be proactive and try to make change not only disapprove of others
 - **digital devices for children**
-  - affect ppl&#39;s mental health advrsly, this is especially true **in respect of** children. Appealing and gained massive popularity, spend hours, scenes in games or net. also imp is physical health, prevalent obesity plus spinal discomfort, bad posture,
+  - affect people&#39;s mental health adversely, this is especially true **in respect of** children. Appealing and gained massive popularity, spend hours, scenes in games or net, which glorify violence and bully behavior and make children fall prey to juvenile delinquencies a few years down the road.. also imp is physical health, prevalent obesity plus spinal discomfort, bad posture,
   - Stifle their creativity, creativity does not constitute an inherent talent, UI/UX designers , easy to use, crush their eagerness to seek challenges, hinder dvlpmnt of brain
 - **first-year ss lack of study skills**
   - --------
@@ -733,3 +761,5 @@ They might be **ostracized**.
 Take my personal experience as an example, I was in a robotics group preparing for an international competition. Our group consisted of 6 people, each with his own task. The rivalry between teams was extraordinarily fierce and we had to work diligently to meet the deadline. One of the members of the group, who was in charge of documenting the group&#39;s activities, always objected, and this affects the whole group adversely. Such terrible was the situation that despite winning that year&#39;s tournament, the members refused to cooperate again for next years.
 
 I remember once working for a content-providing company in which my responsibilities included producing technical content about new cars. One of my co-workers always objected, and we were changing schedules constantly, which slowed things down to a great extent, and we fell behind the market.
+
+In this day and age of information explosion, news and opinions broadening people&#39;s understanding are given preference
