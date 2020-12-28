@@ -190,6 +190,8 @@ It would be palpably unwise to draw firm conclusions from the results of a few p
 
 **General:**
 
+The Internet has become a double-edged sword. On the one hand, …
+
 From campus to city or the other way around
 
 … is reflective of …
@@ -216,7 +218,7 @@ heavy workload/ work overtime
 
 do a menial job to earn a living
 
-(7)hard/wearing/enervating/boring/grueling/tiring/fatiguing homework/assignment
+(8)hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -284,7 +286,7 @@ The main essence of media should be to heighten the public awareness.
 
 Seek knowledge from the cradle to the grave, as the old saying goes.
 
-Governments had better impose stringent restrictions on … companies
+(As the biggest organization in the country,) governments had better impose stringent restrictions on … companies
 
 Governments had better use revenues from environmentally related taxes to provide incentives for green activities or to establish recycling companies.
 
@@ -316,9 +318,9 @@ If you do not give the wrong people in your life a wide berth, you will never me
 
 **Tips**
 
-- First, read the reading carefully.
+- Split the page into two sections. Write gender options.
 - Write what you&#39;ve got from reading and listening.
-- Write down the gender of lecturer ;)
+- Checkmark the gender of lecturer ;)
 - Don&#39;t think a lot about templates, rush it.
 - **First, Moreover, Finally**
 - Useful grammars for this task(4):
@@ -328,130 +330,127 @@ If you do not give the wrong people in your life a wide berth, you will never me
 
 **Intro**
 
-The reading passage and the lecture mainly discuss ... and its attendant/and its causes .... In this regard, the article states that …. With this in mind, the author cites/sets out three supportive/dissenting reasons in order to elucidate ~~s~~ it.
+The reading passage and the lecture mainly discuss ... and its attendant/and its causes .... In this regard, the article states that …. With this in mind, the author cites/sets out three supportive/dissenting reasons/troubles in order to elucidate ~~s~~ it.
 
-The problems ensued from ...
+In this regard, the article points to a research addressing the …
+
+In this regard, the article presents some evidence which indicates that …
+
+In this regard, the article presents different factors that could have worked in concert to account for …
 
 **Problem/Solution**
 
-The reading passage and the lecture mainly discuss acute problems associated with … (Problem)
+The reading passage and the lecture mainly discuss acute problems associated with/induced from … (Problem)
 
-The author states that some acute problems have arisen regarding/have arisen ensued from … .(Problem)
+In this regard, the article states that some acute problems have arisen regarding/have arisen ensued from/ have been brought about by … .(Problem)
 
-The reading states that some acute problems have been brought about by … (Problem)
-
-The lecturer, on the other hand, suggests some possible/viable solutions.(Solution)
+In an accordance with the problems mentioned by the author, the lecturer suggests some possible/viable solutions.(Solution)
 
 **Support**
 
-The lecturer agrees with the proposed claim/idea and verifies the view with examples.
+Consistent with/In an accordance with the points mentioned in the passage, the lecture...
 
-The lecturer find the ideas brought up by the author **credible**.
+The lecturer&#39;s view is in line with that of the author and finds the ideas brought up by the author **credible** / and verifies the view with examples.
 
 The lecturer agrees in principle, but he/she finds the reasons brought up by the
 
 While acknowledging the fact that ..., the lecturer asserts that ...
 
-**Refute**
-
-In this regard, the reading passage presents some evidence which indicates that …
-
-The author points to a research addressing the …
-
-The author presents different factors that could have worked in concert to account for …
+**Contradict**
 
 The lecturer, however, finds the evidence brought up by the critics wholly inadmissible and allege that these ideas are inconsistent with the truth.
 
 The lecturer, however, finds the ideas brought up by the critics wholly implausible and categorically refutes them all.
 
-The lecturer, however, finds the ideas brought up by the critics wholly implausible and categorically repudiates them in every respect.
+The lecturer, however, gainsays the ideas brought up by the critics and categorically repudiates them in every respect.
 
 The lecturer, however, rules out the conjectures brought up by the author and asserts that the ideas are not backed by any scientific evidence.
 
 The lecturer, however, discounts the possibility of ... and asserts that there is only scanty evidence of ...
 
+**Contradict**
+
 **First**
 
-**Problem/Solution**
+First, the reading brings up/puts forth the idea that …
 
-The first serious problem mentioned by the author is …. (Problem)
+In contrast, the lecturer holds the idea that (… renders this claim impossible.)
 
-To tackle this issue/ To combat this crucial problem, the professor states that….(Solution)
-
-**Support**
-
-First, the passage says that … The lecturer, in addition, supports/reinforces/ **corroborates** the claim by adding that …
-
----------------------------
- First, the reading brings up the idea that …
-
-In contrast, the lecturer holds the idea that … renders … impossible.
-
-First, the author puts forth ~~that~~ sth …
-
-The lecturer, conversely, finds the claim unfounded/groundless .... He/she further added that …
-
-which confounds the idea that ....
+In contrast, the lecturer finds the claim unfounded/groundless, and he/she further adds that …
 
 **This directly refutes the reading passage which states that**
 
 **Second**
 
-**Problem/Solution**
+Moreover, the reading highlights the idea that …
 
-Moreover, the reading highlights…….as another concern.(Problem)
-
-As a feasible/viable solution, the speaker asserts that … should be taken into account(sol)
-
-**Support**
-
-Moreover, the passage claims that … The lecturer validates the idea emphasizing that …
-
-----------------------------------------------------------
- Moreover, the reading highlights the idea that …
-
-Conversely, the lecturer underlines the fact that
+The lecturer, Conversely, underlines the fact that…
 
 Moreover, the author mentioned …, an idea which the lecturer excludes as a reason for …. She/he further asserts that …
 
-**Again this contradicts what is stated in the reading which stated that**
+**Again this contradicts what is claimed in the reading which states that…**
 
 **Third**
 
-**Problem/Solution**
-
-The final challenge mentioned by the writer is….(Problem)
-
-On the other side, the speaker proposes that … (Solution)
-
-**Support**
-
-Finally, the passage says that …. The lecturer supports this by holding the idea that …
-
-----------------------------------------------------------
- Finally, the author argues that …
+Finally, the author argues that …
 
 On the other hand, the lecturer dismisses this idea by stressing the fact that
 
-Finally, both the reading passage and the lecture discuss …. While the author maintains that …, the lecturer opposes to this notion. He/she asserts that …
+Finally, both the reading passage and the lecture discuss …. While the author maintains that …, the lecturer opposes this notion. He/she asserts that …
 
-**, a statement that seems to be at odds with (author&#39;s claim)(…).**
+**, an assertion/a statement that seems to be at odds with (author&#39;s claim)(…).**
+
+**Problem/reason**
+
+**First**
+
+The first serious problem mentioned by the author is …. (Problem)
+
+To tackle/ To combat this crucial problem, the professor states that….(Solution)
+
+**Second**
+
+Moreover, the reading highlights… as another concern. (Problem)
+
+As a feasible/viable solution, the speaker asserts that … should be taken into account(sol)
+
+**Third**
+
+The final challenge mentioned by the writer is….(Problem)
+
+On the other side, the speaker propounds that … (Solution)
+
+**Support**
+
+**First**
+
+First, the passage says that … The lecturer, in addition, **corroborates** /supports/reinforces the claim by adding that …
+
+**Second**
+
+Moreover, the passage claims that … The lecturer validates the idea emphasizing that …
+
+**Third**
+
+Finally, the passage says that …. The lecturer supports this by holding the idea that …
 
 **General**
 
+Problem/trouble/challenge/concern
+
 It will put their lives in peril.
 
-set on fire/ablaze/alight / cause sth to burst into flames
+set ablaze/alight/on fire/set fire to sth/ cause sth to burst into flames
 
 **At** the height
 
 The author exemplifies … in order to vindicate this theory.
 
-Some (500)(50%)(100$)
+Some (500)(50%)($100)
 
 Apart from this, he/she mentioned that …
 
-Their population have been severely swelled/depleted.
+Their population has been severely swelled/depleted.
 
 The reading passage and the lecturer mainly discuss hitherto unknown structures.
 
@@ -467,7 +466,7 @@ The features that typify ancient birds
 
 The lecturer, on the contrary, asserts that … is more akin to … than ….
 
-It requires prodigious amounts of energy to ...
+It requires prodigious amounts of energy to...
 
 Such high is the ...
 
@@ -490,11 +489,11 @@ Corroborate, confirm, verify, substantiate author&#39;s claims, back up, As evid
 
 **Refutes** :
 
-rejects, repudiates, dismisses, **contradicts** , gainsay the author(&#39;s claims), negates author&#39;s claim, discounts the possibility of
+gainsay the author(&#39;s claims), **contradicts** , negates author&#39;s claim, discounts the possibility of, rejects, repudiates, dismisses,
 
 **solution** :
 
-propose, suggest, propound,
+propound, propose, suggest,
 
 Claim = statement = assertion = contention
 
@@ -541,21 +540,92 @@ Claim = statement = assertion = contention
 - **Playing sports can teach people lessons about life.**
   - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. Failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team in the second half and snatch victory from jaws of defeat.
   - Playing sports will inculcate/instill an attitude of teamwork spirit into individuals.-\&gt;
- When engaging in sports activities, one learns how to cooperate with others in order to achieve the common objective of the group -\&gt;
+ When engaging in sports activities, one learns how to avoid social loafing and cooperate with others in order to achieve the common objective of the group -\&gt;
  this quality is a must-have and sought-after skill in the workplace -\&gt;
  lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
- EX: Going back to earlier example of a football match, a case in point is that a player in attacking position must be humble enough to pass to his teammate if he is in a better position to score a goal.
+ EX: Going back to earlier example of a football match, a case in point is that a striker must be humble enough to pass to his teammate if he is in a better position to score a goal.
   - The ability to take failure and success alike is a valuable life experience that sports can teach us. When asked to what they attribute their outstanding achievements, successful individuals mention their mental outlook to embrace both triumph and defeat. This quality can be achieved by playing sports as it makes us understand that mistakes and failures can teach us valuable things.
 - **One of the best ways to learn about a country&#39;s culture is through watching its TV shows.**
-  - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents represent the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. The footage of American traditional life explains that they prefer to live in large properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
-  - Shows broadcast by television have some indirect or direct messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably connected to the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens to the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. Socially speaking, for example, European TV shows usually promote interracial marriage in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
+  - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents represent the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. A footage of American traditional life explains that they prefer to live in spacious properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in tiny apartments in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
+  - Shows broadcast by television have some direct or indirect messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably intertwined with the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens to the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. Socially speaking, for example, European TV shows usually promote interracial marriage in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
 - **It is better for government to spend money on building modern housing than on preserving historic or traditional buildings and homes..**
   - These ancient constructions have educational values and represent the rich cultural heritage of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate the contribution of their forefathers in the glamorous history of their nation.
   - The old relics serve as tourist hotspots and attract an influx of domestic and foreign visitors to the country. There are many tourists around the world who have an insatiable desire to discover new historic places. They travel to quench their curiosity no matter how far they have to go or how hazardous they travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
 - **Celebrities, such as actors, musicians and athletes, sometimes express their political views in public. Some people appreciate knowing the political views of celebrities. Others think it is not appropriate or useful to know the political views of celebrities. Which opinion do you agree with?**
   - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people to make a fortune. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They boy off public figures to represent their products way better than what they really are. In this case, gullible and easily persuaded people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
   - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should be taken with a grain of salt. Needless to say, celebrities are more known for their wealth, fame, glamor, and physical attractiveness. They have neither a superior academic credential nor valuable experiences in important fields such as economics and politics. The only thing that has made them well known is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. That cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
+- **Which of the following choice do you think has the greatest impact on environmental protection?
+ a. Governmental Regulations
+ b. Environmental Awareness Groups
+ c. Individual Efforts.**
+  - To save the environment and the God-given tranquil haven of peace and serenity:
 
+A: Government regulation
+
+  - ✔As the biggest organization in the country, the government can enact rules to put a curb on the ever-growing contamination of big companies. They do so by:
+  - 🔰Prosecuting contaminative activities
+  - 🔰Suspending companies&#39; commercial activities
+  - 🔰applying prohibitive measures such as the threat of shutting down the companies which exceed the mandated maximum level of pollution.
+  - 🔰Not issuing the commencement certification for businesses that are not well-equipped with a proper waste disposal system.
+  - 🔰Monetary punishment and levying a high tax on contaminative industries
+  - 🔰Offering incentive packages such as giving low-interest loans, tax exemption, and tax costs if companies employ green technologies and modern waste disposal plants.
+  - All these regulations will keep the gloomy clouds of exhaust spewed by factories in check.
+  - ✔✔The rules defined by governments have been assessed by well-rounded experts and are excellent measures to take, with the low risk of hurting the environment.
+
+B: Environmental awareness groups
+
+  - ✔environmentally-conscious organizations are usually non-profit and conduct their activities for the sake of nature itself. They expose companies and industries&#39; pollution and put the government under immense pressure to take proper measures to deal with them. They foreground this important issue which might have otherwise gone unnoticed.
+  - ✔✔Launching such campaigns will promote public awareness about the environment. Many people unknowingly contaminate their surroundings because of a lack of proper education. These campaigns and groups can teach citizens the best ways of disposing of their trash such as waste segregation and using suitable trash cans. These groups may reduce the number of streets and beaches littered with cans, bottles, and papers by educating people.
+
+C: Individual efforts
+
+  - ✔Human activities are the major source of pollution and human effort can control this serious source of contamination. People take a toll on the environment by:
+  - 🔰Dust and debris created in construction sites
+  - 🔰Household waste and inefficient air conditioner system
+  - 🔰Animal farming by dedicating land to farms and producing excessive methane gas.
+  - 🔰Factory farming and using toxic substances and chemical fertilizers in private farms and yards.
+  - 🔰Using SOVs (single-occupant vehicles) which brings vehicular movements to a standstill.
+  - 🔰Improper ways of waste disposal, intentionally or unintentionally.
+  - Using fuel-inefficient vehicles or imbalanced wheels of the car
+  - All these practices are threatening to nature and should be reversed by individual effort.
+  - ✔✔When people contribute their bit individually in saving nature, this will become a civic responsibility and a social obligation because citizens will start doing the same when they see others as environmentally-conscious citizens.
+
+- **Do you agree or disagree that it is important for young people to learn some domestic skills like cooking, sewing and taking care of children?.**
+  - In this globally interconnected world, where living away from one&#39;s family is of high probability, learning practical skills can ease the difficulty of running a single-person household and standing on one&#39;s own feet. It will eliminate the need for other&#39;s help and is a good practice of self-reliance.
+  - Domestic skills, craftsmanship, and taking care of children are no longer at-home skills; rather, they can be extra or even the main source of revenue. By developing proficiency in these skill sets, one can make a lot of money, even beyond the dreams of avarice. To be financially independent and have a potential job opportunity, children should learn these skills.
+- **Which one of the following values is the most important to share with a young child (5-10 years old)?
+ 1. Being helpful
+ 2. Being honest
+ 3. Being well organized.**
+  - From a social standpoint, nothing better than sharing integrity and truthfulness can grow young children into God-fearing, law-abiding citizens when they attend the society a few years down the road. A child aged between 5 to 10 spends his formative years. In this period, the mind is like a sponge, soaking up and absorbing countless drops of the behaviors of its surroundings. Share honesty with the kid, see the fruits of this practice remaining forever; it—the fruit—neither spoils nor falls from the tree. It continues to grow to be the most distinguished characteristic of the person. The years of sharing integrity with children at their critical juncture of lives will teach them to stay true to their conscious and choose the right path when facing ethical quandaries. Once established and nurtured adequately, the honesty will carry over to one&#39;s adulthood, making his or her an ethical and morally competent person. There is the main reason behind this conclusion: an honest person has a monopoly on all acclaimed and acceptable dispositions and virtues.
+  - Furthermore, sharing honesty and presenting it in a positive light means taking a promising step to meet one of the most consequential responsibilities toward little ones: ensuring emotional security. Early childhood is identified with the time of play, fooling around, and causing troubles. Children—these little, professional troublemakers—have the fear of punishment and being blamed for their wrongdoing. Whether they have permissive, overindulgent, or overprotective parents, children know that they cannot get away with everything; punishment or asking to be answerable lies ahead of them. To get around the punishment, they resort to concealing the truth by choosing to be dishonest. If this trend continues, it will be only a question of time before they fall into the spiral of hiding the truth. Escaping accountability by lying, children will end up suffering malignant emotional consequences. They constantly tear apart inside as they never receive emotional support or sympathy in the case of making mistakes because they have chosen to conceal the truth as the relief to their wounds. If children learn to be honest from an early age, they will always reveal the reality no matter what. They know that the emotional support, warmth, and sympathy of their family members, friends, or teachers will outweigh the pain of the possible punishment and accountability.
+- **The extended family (grandparents, cousins,aunts, and uncles) is less important now than it was in the past..**
+  - People in this complicated life are notoriously preoccupied and pressed for time. They rarely communicate with their immediate family members, let alone with their distant relatives.
+  - Given that family members, whether they are immediate or extended, are sometimes annoyingly inquisitive about one&#39;s matters, today&#39;s people are inclined toward being away from their distant relatives whose meddling in personal matters interferes with one&#39;s very independence and self-confidence.
+- **Some people prefer to go and visit tourist attractions where there are many people. Others like the tourist attractions with fewer people.**
+  - crowded tourist attractions are breeding grounds for illegal activities or morally and ethically questionable practices. For example, maimed begging, prostitution, and theft are an inseparable part of every bustling location. These practices mainly target foreign visitors who stick out like a sore thumb among local people. What&#39;s more, these places are the potential targets of terrorist attacks.-----
+  - Going sightseeing in less populated locations and tourist sites means saving valuable resources—time and pecuniary reserves— on hotel bookings, staying in long queues, and restaurants. When the location is the destination of a large influx of travelers and visitors, every good and service become exorbitantly expensive.
+- **When people succeed, it is because of hard work. Luck has nothing to do with success. &quot; Do you agree or disagree with the quotation above?.**
+  - Whether a person achieves his goals or not is not the question of luck, as it is a short-lived and infrequent experience. The factors contributing to one&#39;s success and progression are ones that are available whenever and wherever they face a problem. In many times, the only thing that assists the person to surmount their difficulties is perseverance and hard work. Just because we are called a lucky guy doesn&#39;t mean that we have a tool named &#39;luck&#39; for removing barriers. It is beyond our control to use it. But this is not the case with hard work. When facing a challenge, we know that putting strenuous effort will solve the problem, no matter whether we are perceived as &#39;lucky&#39; or not.
+  - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the lack of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are an excellent epitome of how hard work can beat unluckiness.
+- **it is important to learn about other cultures.**
+  - Learning about other cultures, you can find similarities between the customs and traditions of those cultures with yours. This may change your possible prejudgment, negative preconceived notion, or even blatant hostility against other minority groups. Understanding similarities while respecting unique differences can lead to an inclusive and ethnically and racially diverse society, without discriminative and racially prejudiced feelings toward minorities. Maybe, if Edinson Cavani had learned about Britainain culture, he would not have hurt black-skinned people&#39;s feelings by his racially stereotyped comments.
+  - In this globally interconnected world, one should learn about other cultures to climb the ladder of success. This sophisticated world is characterized by its opportunities and being a global village. People leave their homeland to find greener pastures in their job or academic career. Having information about other cultures can facilitate the process of this movement and modern immigration to a great extent. For example, for those who are inclined toward studying in the US, knowing about its culture, language, and dominant lifestyle can be of great help.
+  - Since language and culture are inextricably connected, having a broad range of information about other cultures can boost one&#39;s job prospects. In this modern job market, being bilingual or even polyglot is the mandatory prerequisite of many professions. Acquiring knowledge about other cultures can equip you with what it takes to secure these kinds of positions.
+- **It is important to read or watch the news presented by people whose views are different from your own or presented by people whose views are similar to your own?**
+  - Exposure to news presented by someone cherishing opposite views to one&#39;s ideologies and perspectives can foster out of the box thinking. over-consumption of favorable news is an impediment to viewing problems, situations, and realities from different perspectives. It never helps one to think critically. On the other hand, in the case of being exposed to opposite views, one learns how to see the world from the lens of someone cherishing beliefs completely conflicting with those of one. This situation is a contributor to developing a big-picture perspective.
+  - Embracing opposite views is a promising step toward enhancing the level of tolerance and accepting differences. Sad but true, in today&#39;s modern life, founded on individualism, &quot;my own view&quot; and &quot;my preference&quot; are phrases we hear frequently every day. People don&#39;t make a compromise, nor do they go beyond their selfish views. This autocratic and intransigent attitude is the byproduct of turning a deaf ear to opposite opinions. Listening to and reading news represented by people with whom we are not on the same page can make us more tolerant of different beliefs. We will no longer insult others&#39; uniqueness and will appreciate their unique views and principles. Maybe this practice can eradicate the hostility and contemptuous feelings prevalent in modern society.
+  - **Famouse entertainers and athletes deserve to have more privacy than they have now.**
+  - What makes celebrities a &quot;celebrity&quot; is media scrutiny and gossips. They owe the fame and adulation that they enjoy to these gossips and rumors. They know that media surveillance is like a double-edged sword: on the bright side, they get pleasure from the popularity and truckloads of money they make by means of being in the limelight. On the flip side, they should accept encroachment to their personal space. They do not have any right to complain about the circulation of their embarrassing images or rumors.
+  - Public figures have an insatiable desire to flaunt and show off, which justifies their violated privacy. When they post their photos to brag about their immaculate sense of dressing, flamboyant lifestyle, chauffeur-driven limousine, and their expansive mansion full of golden accessories they themselves invite intrusion in their personal life. They knowingly get their privacy violated and they do not deserve privacy.
+  - Everyone, be it a famous figure such as luminaries of stage and screen, icons of the music industry, and sports personalities or an ordinary citizen, needs privacy. It is a gross violation of human rights to get celebrities&#39; well-deserved personal space violated only for a simple reason: to quench our insatiable desire to learn more about their personal matters. Public figures are human beings too. They need to live a normal life with their families, children, and friends. But unfortunately, the inquisitive society has taken away this chance from them. We get their privacy violated to such an extent that they cannot step outside without security personnel because they are constantly subject to paparazzi or even terrorists and criminals. By respecting their privacy we may help them live a normal life just like any of us.
+  - Given the physically and intellectually demanding nature of athletes and artists&#39; profession, they deserve uninterrupted privacy to focus on their training. As convenient as it may seem, being a professional actor or an athlete requires one to put their strenuous effort every day. This can be done only by allowing them to concentrate on their performance and daily training. We only see the tip of the iceberg, not what is beneath. Celebrities, unfortunately, resort to drug and drinking to cope with the pressure they endure because we encroach on their personal space while practicing. We owe a debt of gratitude to public figures because of making us happy and entertained. Maybe, respecting their personal life is the best way to compensate for their
+- **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
+  - -----
+  - -----
+- **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
+  - -----
+  - -----
 - **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
   - -----
   - -----
@@ -669,7 +739,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - The books and movies one like shows their taste. Your taste in choosing books and movies depends on your temperament. Knowing one&#39;s temperament, you can learn about them in an excellent way and find out their idiosyncrasy. Ex: I do not usually read a lot of books but the ones I like tend to be like serious, scientific books, concerning real issues and describing ppl in a realistic way. I am an engineer, I cannot find any point in those fiction books.
   - Personality and predisposition of a person is inextricably linked to the books and movies they like. Movies and books at times are for recreation and people may try different types of them. But they would not like all of them. If they like a specific genera, it means that it was in their line of thought or character. Ex: An extensive body of research that examine the link between human characteristics and region they live showed that people of different countries have different tastes in movies. Therefore can say one can learn about a person by watching movies.
 - 190126WR ) **In order to succeed in study or job, the ability to adjust or adapt to changing conduction or circumstance is more important than having knowledge.**
-  - Merits and demerits to each one
+  - Both of these abilities are important.
   - On the one hand, having relevant knowledge, one have the ability to know the tasks the job may entail and how to tackle them. They would be able to make timely decisions. Increase efficacy Ex: I worked at a company as a content provider as a sideline while finishing for my masters. My responsibilities were not in the line of my education, but I saw my colleagues who had studied in pertinent areas worked much better than me.
   - On the other hand, life is chaotic and it is impossible to predict all the circumstances. There might be abrupt changes in the life which one has to be able to adapt to them or devise a new way to surmount the obstacles; otherwise, they might wreak havoc on their lives. Ex: During the COVID-19 outbreak, a lot of people have been laid off, many other employees have been forced to work outsource. The people who were not familiar with internet, computer and stuff couldn&#39;t survive.
 - **Leadership abilities**
@@ -689,7 +759,8 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - reduce # of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
   - use the revenue -\&gt; incentives for green activity, establish recycling companies
 - **secure job low pay or high salary not secure**
-  - consistent, afford opp to make master plan rather than living in a haphazard way or being in a precarious position, reduce anxiety and facilitate control, life-long desires,
+  - each of these cut both ways.
+  - A secure job with a guaranteed monthly paycheck consistent, afford opp to make master plan rather than living in a haphazard way or being in a precarious position, reduce anxiety and facilitate control, life-long desires,
   - unemployment rate is high – hard to find another job – possible to stay solvent – half a loaf is better than no bread
 - **Stop reading or listening to news**
   - news is often about bad events – stressful because sometimes, try as one might, they cannot make any change – makes you tense – affect your life adversely – even may lead to mental disorder –
@@ -700,8 +771,12 @@ One of the most talked about things[** related to studying**](http://www.bellaku
 - **long assgnmnt for young students**
   - ---------
 - **people who always criticize are not good team members**
-  - although criticism is a good thing as a fault-finding behavior – eye-opener – hard for evbdy to be told they are wrong – continuing criticsm will lead to conflics
+  - They do not work enthusiastically because of social loafing. People who always criticize Colleagues are in the habit of making their teammates the scapegoat for their mistakes. They are Toxic and notoriously hard-to-get-along-with and will be ostracized.
+  - although criticism is a good thing as a fault-finding behavior – eye-opener – hard for evbdy to be told they are wrong – continuing criticsm will add fuel to the fire of conflicts
   - continual criticism impede the way to progress – better to be proactive and try to make change not only disapprove of others
+- **Agree/disagree? In a team, those who do not accept others&#39; criticism cannot succeed.**
+  - Turning a deaf ear to the opposite voice of other teammates is nothing but sowing the seeds of one&#39;s own downfall because they will be deprived of others&#39; help. Success is not something to be achieved all on your own; rather, you need to have others&#39; supports, in any form, in your shared journey toward the team&#39;s established goals. When being indifferent toward criticism, you will present yourself stubbornly believer to the universal validity of your opinion. In this situation, no one in the group will show a tendency to help because they know their assistance and advice will not be taken into account. When no advice is given and no recommendation is made, the stubborn person will have difficulty living a normal life, let alone climb the ladder of success.
+  - Standing rigidly on one&#39;s own side, no matter what, is self-sabotage as it will engage one in tensions and confrontations with others in collective activities. Taking part in a team is nothing but interacting and coming into contact with different opinions, ideas, suggestions, and ways of conduct. In this circumstance, opinions and ideas will be bounced back and forth inevitably. If you choose to be an autocratic person, dismissive to others&#39; oppositions, you are inviting never-ending contentious discussions and debates in your life. These heated quarrels will drain you of your energy that should be spent in your circuitous path toward success and fulfilling your commitments. It is, therefore, evident that you should be open to criticism to avoid meaningless discussions and enjoy your symbiotically reciprocal relationships with other teammates to walk in the right direction.
 - **digital devices for children**
   - affect people&#39;s mental health adversely, this is especially true **in respect of** children. Appealing and gained massive popularity, spend hours, scenes in games or net, which glorify violence and bully behavior and make children fall prey to juvenile delinquencies a few years down the road.. also imp is physical health, prevalent obesity plus spinal discomfort, bad posture,
   - Stifle their creativity, creativity does not constitute an inherent talent, UI/UX designers , easy to use, crush their eagerness to seek challenges, hinder dvlpmnt of brain
@@ -734,6 +809,8 @@ One of the most talked about things[** related to studying**](http://www.bellaku
 
 For example, a steel plant was built near my town. Due to the incorrect location, this factory is located in the direction of the winds toward the city, and all of its pollutions enter the city, which has caused dissatisfaction among residents. People even assembled in front of the municipality building and protested, but because of the large number of unemployed workers, the government failed to tackle the problem and the factory resumed operation.
 
+This problem could be nipped in the bud.
+
 **Example for my own experience in a job and benefit of relevant education**
 
 I remember once working for a content providing company. My job was to produce technical content about new cars.
@@ -763,3 +840,7 @@ Take my personal experience as an example, I was in a robotics group preparing f
 I remember once working for a content-providing company in which my responsibilities included producing technical content about new cars. One of my co-workers always objected, and we were changing schedules constantly, which slowed things down to a great extent, and we fell behind the market.
 
 In this day and age of information explosion, news and opinions broadening people&#39;s understanding are given preference
+
+**Fairy books or scientific books**
+
+Some readers live vicariously through the main character of the book.
