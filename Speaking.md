@@ -32,7 +32,7 @@ According to the announcement, the university is going to adopt a new policy
 
 According to the letter the university has been asked to …
 
-The man/woman agrees with the idea up to a point
+The man/woman agrees with the idea up to a point/ agrees in principle but …
 
 The man/woman disagrees
 
@@ -78,7 +78,7 @@ Another strategy is to...
 - **Children**
 
 - Parents should not constrain their children from doing what they want. They should incent them without incensing them.
-- Were I a father, I would never interfere in my children&#39;s lives and would let them do whatever they want at their own free will. My parents used to force me to be a doctor, which was utterly preposterous.
+- Were I a father, I would never interfere in my children&#39;s lives and would let them do whatever they want at their own free will.Some parents want to project their unfulfilled dreams onto their children. My parents used to force me to be a doctor, which was utterly preposterous.
 - Parents who give their children preferential treatment are sowing the seeds of future problems.
 - Children who engage in competition earn critical social skills by interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
 - It will boost their ego.
@@ -101,7 +101,7 @@ Another strategy is to...
 
 - **Gifted children should be treated differently**
 
-- Some gifted children may develop highly inflated and unrealistic expectations for themselves. They might desire to be the best in perpetuity. And, any divergence from this path will be perceived as a failure and make them disappointed. Were I a father, I would never treat my children as overly special to let them enjoy their lives to the full.
+- Some gifted children may develop highly inflated and unrealistic expectations for themselves. They might desire to be the best for good. And, any divergence from this path will be perceived as a failure and make them disappointed. Were I a father, I would never treat my children as overly special to let them enjoy their lives to the full.
 - On the other hand, gifted children have unique educational needs due to their intellectual difference and require special academic services. For example, children who are strong in math should have extracurricular classes.
 
 - **Study**
@@ -157,6 +157,7 @@ Another strategy is to...
 
 - **Internship**
 
+- New graduates often face a chatch-22 situation when they look to enter the job market.
 - Students can gain experience doing an internship. Furthermore, it could lead to an opportunity to get an entry-level job at the same company. Although you might start with minimum wage, if you do excellent work and be a good team player. You could get a promotion or get a raise, hopefully both. A friend of mine got an internship in a company in 2015 and now he works in the same company and continues to prosper.
 
 - **Part-time job before college**
