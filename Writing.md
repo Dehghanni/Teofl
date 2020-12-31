@@ -104,7 +104,7 @@ I am not, nor have I ever been an opponent of .../ a proponent of ...
 
 3 options: Although … and … are important, my impression is that … is of utmost significance/of essence.
 
-Despite the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
+Notwothstanding the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
 
 The following explanations will further elaborate **on** this perspective.
 
@@ -172,7 +172,7 @@ Other factors are also at work in the …
 
 unpleasantly surprising is the fact that …
 
-Obviously, … constitutes a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us.
+Obviously, … constitutes a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us in the not too distant future.
 
 Otherwise, a spirit of hopelessness may pervade society.
 
@@ -196,7 +196,7 @@ From campus to city or the other way around
 
 … is reflective of …
 
-There are a number of factors at play.
+There are a number of factors at play, most of which we have no control over.
 
 The number of people studying tertiary education is more than all in history.
 
@@ -204,7 +204,7 @@ Because -\&gt; for
 
 Children&#39;s emotional development depends to a great extent on their earliest relationships, which is why the bond between children and their parents or caregivers is of paramount importance.
 
-Education, or the lack thereof, plays a major role in every society.
+Education, or the lack thereof, plays a prominent role in every society.
 
 Not only do the students benefit from it, but so do the professors.
 
@@ -218,7 +218,7 @@ heavy workload/ work overtime
 
 do a menial job to earn a living
 
-(8)hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting homework/assignment
+(8) excruciatingly hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -232,7 +232,7 @@ incredibly/outstandingly/extraordinarily/astonishingly/
 
 The whole world experienced a phenomenal growth in population, and there are grave environmental warnings, which we ignore at our peril.
 
-It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably ....
+It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably ....
 
 The team would make headway toward ...
 
@@ -292,7 +292,7 @@ Governments had better use revenues from environmentally related taxes to provid
 
 It takes an inordinate amount of time to ....
 
-Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of them are not bona fide and are prone to trick people to make a fortune. They might have political affiliation and ….
+Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some of them are not bona fide and are prone to trick people to line their own pockets. Some celebrities are inveterate liars. They might have political affiliation and ….
 
 Had I known about ...., I would have been ...
 
@@ -448,6 +448,8 @@ The author exemplifies … in order to vindicate this theory.
 
 Some (500)(50%)($100)
 
+50 odd years
+
 Apart from this, he/she mentioned that …
 
 Their population has been severely swelled/depleted.
@@ -489,7 +491,7 @@ Corroborate, confirm, verify, substantiate author&#39;s claims, back up, As evid
 
 **Refutes** :
 
-gainsay the author(&#39;s claims), **contradicts** , negates author&#39;s claim, discounts the possibility of, rejects, repudiates, dismisses,
+gainsay the author(&#39;s claims), **contradicts** , negates author&#39;s claim, discounts the possibility of, rejects, repudiates, dismisses, refute, rebut
 
 **solution** :
 
@@ -546,11 +548,11 @@ Claim = statement = assertion = contention
  EX: Going back to earlier example of a football match, a case in point is that a striker must be humble enough to pass to his teammate if he is in a better position to score a goal.
   - The ability to take failure and success alike is a valuable life experience that sports can teach us. When asked to what they attribute their outstanding achievements, successful individuals mention their mental outlook to embrace both triumph and defeat. This quality can be achieved by playing sports as it makes us understand that mistakes and failures can teach us valuable things.
 - **One of the best ways to learn about a country&#39;s culture is through watching its TV shows.**
-  - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents represent the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. A footage of American traditional life explains that they prefer to live in spacious properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in tiny apartments in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
-  - Shows broadcast by television have some direct or indirect messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably intertwined with the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens to the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. Socially speaking, for example, European TV shows usually promote interracial marriage in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
+  - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents reflect the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. A footage of American traditional life explains that they prefer to live in spacious properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in tiny apartments in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
+  - Shows broadcast by television convey some direct or indirect messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably intertwined with the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens at the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. From a sociological standpoint, for example, European TV shows usually promote interracial marriage and egalitarianism in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
 - **It is better for government to spend money on building modern housing than on preserving historic or traditional buildings and homes..**
-  - These ancient constructions have educational values and represent the rich cultural heritage of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate the contribution of their forefathers in the glamorous history of their nation.
-  - The old relics serve as tourist hotspots and attract an influx of domestic and foreign visitors to the country. There are many tourists around the world who have an insatiable desire to discover new historic places. They travel to quench their curiosity no matter how far they have to go or how hazardous they travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
+  - These ancient constructions have educational values and represent the rich cultural heritage of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate their forefathers&#39; contribution to the glamorous history of their nation.
+  - The archaic buildings serve as tourist hotspots and spawn a huge influx of domestic and foreign visitors to the place. There are a whole host of tourists around the world who have an insatiable desire to discover new historic places. They travel to quench their curiosity no matter how far they have to go or how hazardous the travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
 - **Celebrities, such as actors, musicians and athletes, sometimes express their political views in public. Some people appreciate knowing the political views of celebrities. Others think it is not appropriate or useful to know the political views of celebrities. Which opinion do you agree with?**
   - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people to make a fortune. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They boy off public figures to represent their products way better than what they really are. In this case, gullible and easily persuaded people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
   - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should be taken with a grain of salt. Needless to say, celebrities are more known for their wealth, fame, glamor, and physical attractiveness. They have neither a superior academic credential nor valuable experiences in important fields such as economics and politics. The only thing that has made them well known is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. That cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
@@ -701,7 +703,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  when time afflicts a limb with pain,
  other limbs at rest cannot remain,&quot; or so Sa&#39;adi is quoted as saying.
  Ex: people are deprived from education, food, etc.
-  - Reduce the gap between wealth and poverty. Alleviate destitution. The seeds of many social maladies can be traced back to poverty. Many social maladies stem from poverty. Poverty is a breeding ground for many social maladies. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
+  - Reduce the gap between wealth and poverty. Alleviate destitution by doing philanthropic activities. The seeds of many social maladies can be traced back to poverty. Many social maladies stem from poverty. Poverty is a breeding ground for many social maladies. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
 - **Company should pay for employees to get university degree.**
   - Get required knowledge – find better solutions – lead to better productivity, more efficacy, greater profitability, and many other benefits. Ex: research that shows well-educated ppl are more successful
   - Boost their mental and intellectual abilities – devise creative ways – increase speed – reduce cost Ex: I worked as a sideline to make a living. Was not in line of my profession – I could see my colleagues who had been majored in pertinent areas worded much better.
@@ -766,7 +768,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - news is often about bad events – stressful because sometimes, try as one might, they cannot make any change – makes you tense – affect your life adversely – even may lead to mental disorder –
   - n the other hand, raise your awareness, dvlp realistic perspective on life and world – make better and timely decisions – tax , ...
 - **company -\&gt; better working env or technologies**
-  - better env -\&gt; comfortable – convival and cordial atmos – willing to work – retain their employees , lower turnover - passion ..
+  - better env -\&gt; comfortable – convival and cordial atmos – willing to work, boost employees morale – retain their employees , lower turnover - passion ..
   - more meeting rooms -\&gt; more meeting – collective decisions – common goals – passionate – solve individual prblms together – more eager
 - **long assgnmnt for young students**
   - ---------
@@ -807,7 +809,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
 
 **Example for environmental problems and government duties**
 
-For example, a steel plant was built near my town. Due to the incorrect location, this factory is located in the direction of the winds toward the city, and all of its pollutions enter the city, which has caused dissatisfaction among residents. People even assembled in front of the municipality building and protested, but because of the large number of unemployed workers, the government failed to tackle the problem and the factory resumed operation.
+For example, a steel plant was built near my town. Due to the incorrect positioning, this factory is located in the direction of the winds toward the city, and all of its pollutions enter the city, which has caused dissatisfaction among residents. People even assembled in front of the municipality building and protested, but because of the large number of unemployed workers, the government failed to tackle the problem and the factory resumed operation.
 
 This problem could be nipped in the bud.
 
