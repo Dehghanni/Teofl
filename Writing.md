@@ -2,8 +2,8 @@
 
 **Tips** :
 
-- Planningis of utmost/crucial importance
 - 27-23-16-8-4
+- Planningis of utmost/crucial importance
 - agree/disagree, reasons, words
 
 **Introduction:**
@@ -104,7 +104,7 @@ I am not, nor have I ever been an opponent of .../ a proponent of ...
 
 3 options: Although … and … are important, my impression is that … is of utmost significance/of essence.
 
-Notwothstanding the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
+Notwithstanding the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
 
 The following explanations will further elaborate **on** this perspective.
 
@@ -202,7 +202,7 @@ The number of people studying tertiary education is more than all in history.
 
 Because -\&gt; for
 
-Children&#39;s emotional development depends to a great extent on their earliest relationships, which is why the bond between children and their parents or caregivers is of paramount importance.
+Children&#39;s emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount importance.
 
 Education, or the lack thereof, plays a prominent role in every society.
 
@@ -232,7 +232,7 @@ incredibly/outstandingly/extraordinarily/astonishingly/
 
 The whole world experienced a phenomenal growth in population, and there are grave environmental warnings, which we ignore at our peril.
 
-It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably ....
+It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably/ Needless to say ....
 
 The team would make headway toward ...
 
@@ -262,11 +262,11 @@ Also important is …, …(define the term)
 
 Of importance is the fact that ...
 
+Of paramount concern is …
+
 pivotal reason
 
 … is of paramount concern (to …) …
-
-Of paramount concern is …
 
 … must be given precedence.
 
@@ -292,7 +292,7 @@ Governments had better use revenues from environmentally related taxes to provid
 
 It takes an inordinate amount of time to ....
 
-Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some of them are not bona fide and are prone to trick people to line their own pockets. Some celebrities are inveterate liars. They might have political affiliation and ….
+Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some public figures are not bona fide and are prone to trick people to line their own pockets. Some celebrities are inveterate liars. They might have political affiliation and ….
 
 Had I known about ...., I would have been ...
 
@@ -338,13 +338,25 @@ In this regard, the article presents some evidence which indicates that …
 
 In this regard, the article presents different factors that could have worked in concert to account for …
 
+**Contradict**
+
+The lecturer, however, finds the evidence brought up by the critics wholly **inadmissible** and allege that these ideas are **inconsistent with the truth**.
+
+The lecturer, however, finds the ideas brought up by the critics wholly **implausible** and **categorically refutes them all**.
+
+The lecturer, however, **rules out** the ideas brought up by the critics and categorically repudiates them in every respect.
+
+The lecturer, however, **gainsays** the **conjectures** brought up by the author and asserts that the ideas are not **backed by any scientific evidence**.
+
+The lecturer, however, **discounts the possibility** of ... and asserts that there is only **scanty evidence** of ...
+
 **Problem/Solution**
 
-The reading passage and the lecture mainly discuss acute problems associated with/induced from … (Problem)
+The reading passage and the lecture mainly **discuss acute problems associated** with/induced from … (Problem)
 
-In this regard, the article states that some acute problems have arisen regarding/have arisen ensued from/ have been brought about by … .(Problem)
+In this regard, the article states **that some acute problems have arisen** regarding/have arisen ensued from/ have been brought about by … .(Problem)
 
-In an accordance with the problems mentioned by the author, the lecturer suggests some possible/viable solutions.(Solution)
+**In an accordance with** the problems mentioned by the author, the lecturer propounds some possible/viable solutions.(Solution)
 
 **Support**
 
@@ -358,21 +370,9 @@ While acknowledging the fact that ..., the lecturer asserts that ...
 
 **Contradict**
 
-The lecturer, however, finds the evidence brought up by the critics wholly inadmissible and allege that these ideas are inconsistent with the truth.
-
-The lecturer, however, finds the ideas brought up by the critics wholly implausible and categorically refutes them all.
-
-The lecturer, however, gainsays the ideas brought up by the critics and categorically repudiates them in every respect.
-
-The lecturer, however, rules out the conjectures brought up by the author and asserts that the ideas are not backed by any scientific evidence.
-
-The lecturer, however, discounts the possibility of ... and asserts that there is only scanty evidence of ...
-
-**Contradict**
-
 **First**
 
-First, the reading brings up/puts forth the idea that …
+First, the reading **brings up/puts forth the idea** that …
 
 In contrast, the lecturer holds the idea that (… renders this claim impossible.)
 
@@ -382,7 +382,7 @@ In contrast, the lecturer finds the claim unfounded/groundless, and he/she furth
 
 **Second**
 
-Moreover, the reading highlights the idea that …
+Moreover, the reading **highlights the idea** that …
 
 The lecturer, Conversely, underlines the fact that…
 
@@ -392,7 +392,7 @@ Moreover, the author mentioned …, an idea which the lecturer excludes as a rea
 
 **Third**
 
-Finally, the author argues that …
+Finally, the author **argues** that …
 
 On the other hand, the lecturer dismisses this idea by stressing the fact that
 
@@ -540,9 +540,9 @@ Claim = statement = assertion = contention
 # Brainstorm
 
 - **Playing sports can teach people lessons about life.**
-  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches that failure can be turned into success if you bounce back higher than you fall. Failures happen &quot;for&quot; you, not &quot;to&quot; you, and nothing more than losing hope can sabotage your success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team in the second half and snatch victory from jaws of defeat.
-  - Playing sports will inculcate/instill an attitude of teamwork spirit into individuals.-\&gt;
- When engaging in sports activities, one learns how to avoid social loafing and cooperate with others in order to achieve the common objective of the group -\&gt;
+  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen &quot;for&quot; us, not &quot;to&quot; us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team in the second half and snatch victory from jaws of defeat.
+  - Playing sports will **inculcate/instill** an attitude of teamwork spirit into individuals.-\&gt;
+ When engaging in sports activities, one learns how to **avoid social** loafing and cooperate with others in order to achieve the common objective of the group -\&gt;
  this quality is a must-have and sought-after skill in the workplace -\&gt;
  lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
  EX: Going back to earlier example of a football match, a case in point is that a striker must be humble enough to pass to his teammate if he is in a better position to score a goal.
@@ -551,11 +551,11 @@ Claim = statement = assertion = contention
   - TV shows hold up a mirror to society and its culture as they perfectly represent the preferences of people in their daily lives. What we view in a filmed entertainment is an average lifestyle, workplace dynamics, relationships, and preferences such as fashion trends, interior design styles, and popular cars, to name but a few. All the aforementioned details in televised contents reflect the culture of a country to a great extent. In other words, a TV show is a microcosm of the country and the best representative of the culture. Viewing prime-time programs, one can gain information as much as they would if they had lived in the country themselves. For example, comparing the televised contents of the US to those of European countries, we can acquire a wealth of information. A footage of American traditional life explains that they prefer to live in spacious properties and drive big cars such as pickup trucks, SUVs, or even muscle cars. These preferences have their root in the culture and lifestyle of the American people. On the other hand, living in tiny apartments in high-rise buildings and driving coupés is something that strikes us the most when viewing films about the Green continent&#39;s countries.
   - Shows broadcast by television convey some direct or indirect messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably intertwined with the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens at the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. From a sociological standpoint, for example, European TV shows usually promote interracial marriage and egalitarianism in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
 - **It is better for government to spend money on building modern housing than on preserving historic or traditional buildings and homes..**
-  - These ancient constructions have educational values and represent the rich cultural heritage of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate their forefathers&#39; contribution to the glamorous history of their nation.
-  - The archaic buildings serve as tourist hotspots and spawn a huge influx of domestic and foreign visitors to the place. There are a whole host of tourists around the world who have an insatiable desire to discover new historic places. They travel to quench their curiosity no matter how far they have to go or how hazardous the travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
+  - These ancient constructions have educational values and represent the **rich cultural heritage** of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate their forefathers&#39; contribution to the glamorous history of their nation. A recently conducted research in the Ohio State University reveals that
+  - The archaic buildings serve as tourist hotspots and spawn a huge influx of domestic and foreign visitors to the place. There are a whole host of tourists around the world who have an **insatiable** desire to discover new historic places. They travel to **quench their curiosity** no matter how far they have to go or how hazardous the travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
 - **Celebrities, such as actors, musicians and athletes, sometimes express their political views in public. Some people appreciate knowing the political views of celebrities. Others think it is not appropriate or useful to know the political views of celebrities. Which opinion do you agree with?**
-  - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people to make a fortune. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They boy off public figures to represent their products way better than what they really are. In this case, gullible and easily persuaded people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
-  - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should be taken with a grain of salt. Needless to say, celebrities are more known for their wealth, fame, glamor, and physical attractiveness. They have neither a superior academic credential nor valuable experiences in important fields such as economics and politics. The only thing that has made them well known is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. That cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
+  - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people in order to line their own pockets. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They offer public figures a bribe to represent their products way better than what they really are. In this case, gullible and susceptible people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
+  - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should not be taken seriously. Needless to say, celebrities are more known for their wealth, fame, glamor, and attractive appearance. They have neither a superior academic credential nor valuable experience in important fields such as economics and politics. The only thing that has made them noted and celebrated is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. In retrospect, that cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
 - **Which of the following choice do you think has the greatest impact on environmental protection?
  a. Governmental Regulations
  b. Environmental Awareness Groups
@@ -564,20 +564,20 @@ Claim = statement = assertion = contention
 
 A: Government regulation
 
-  - ✔As the biggest organization in the country, the government can enact rules to put a curb on the ever-growing contamination of big companies. They do so by:
-  - 🔰Prosecuting contaminative activities
-  - 🔰Suspending companies&#39; commercial activities
-  - 🔰applying prohibitive measures such as the threat of shutting down the companies which exceed the mandated maximum level of pollution.
-  - 🔰Not issuing the commencement certification for businesses that are not well-equipped with a proper waste disposal system.
-  - 🔰Monetary punishment and levying a high tax on contaminative industries
-  - 🔰Offering incentive packages such as giving low-interest loans, tax exemption, and tax costs if companies employ green technologies and modern waste disposal plants.
-  - All these regulations will keep the gloomy clouds of exhaust spewed by factories in check.
+  - ✔As the biggest organization in the country, the government had better to impose stringent restrictions in order to curb the ever-growing contamination of big companies. They do so by:
+    - Prosecuting contaminative activities
+    - Suspending companies&#39; commercial activities
+    - adopting prohibitive measures such as the threat of shutting down the companies which exceed the imposed maximum level of pollution.
+    - Not issuing the commencement certification for businesses that are not well-equipped with a proper waste disposal system.
+    - Monetary punishment and levying a high tax on contaminative industries
+    - Offering incentive packages such as giving low-interest loans, tax exemption, and tax costs if companies employ green technologies and modern waste disposal plants.
+    - All these regulations will keep the gloomy clouds of exhaust spewed by factories in check.
   - ✔✔The rules defined by governments have been assessed by well-rounded experts and are excellent measures to take, with the low risk of hurting the environment.
 
 B: Environmental awareness groups
 
-  - ✔environmentally-conscious organizations are usually non-profit and conduct their activities for the sake of nature itself. They expose companies and industries&#39; pollution and put the government under immense pressure to take proper measures to deal with them. They foreground this important issue which might have otherwise gone unnoticed.
-  - ✔✔Launching such campaigns will promote public awareness about the environment. Many people unknowingly contaminate their surroundings because of a lack of proper education. These campaigns and groups can teach citizens the best ways of disposing of their trash such as waste segregation and using suitable trash cans. These groups may reduce the number of streets and beaches littered with cans, bottles, and papers by educating people.
+    - ✔environmentally-conscious organizations are usually non-profit and conduct their activities for the sake of nature itself. They expose companies and industries&#39; pollution and put the government under immense pressure to adopt proper measures to curb them. They foreground this important issue which might have otherwise gone unnoticed.
+    - ✔✔Launching such campaigns will promote public awareness about the environment. Many people unknowingly contaminate their surroundings because of a lack of proper education. These campaigns and groups can teach citizens the best ways of disposing of their trash such as waste segregation and using suitable trash cans. These groups may reduce the number of streets and beaches littered with cans, bottles, and papers by educating people.
 
 C: Individual efforts
 
@@ -593,7 +593,8 @@ C: Individual efforts
   - ✔✔When people contribute their bit individually in saving nature, this will become a civic responsibility and a social obligation because citizens will start doing the same when they see others as environmentally-conscious citizens.
 
 - **Do you agree or disagree that it is important for young people to learn some domestic skills like cooking, sewing and taking care of children?.**
-  - In this globally interconnected world, where living away from one&#39;s family is of high probability, learning practical skills can ease the difficulty of running a single-person household and standing on one&#39;s own feet. It will eliminate the need for other&#39;s help and is a good practice of self-reliance.
+  - In this globally interconnected world, where living away from one&#39;s family is of high probability, learning practical skills can ease the difficulty of running a single-person household and standing on one&#39;s own feet. It will eliminate the need for other&#39;s help and is a good practice of self-reliance. It will also enable one to move toward complete independence.
+  - The ability to do household chores helps a person save a great deal of money. In this case, there is no need to ask a repairman to repair home appliances or hire a babysitter. In our family, we do everything ourselves, from soldering damaged electronic PCB(Printed Circuit Board) of the TV to servicing the car and building repairs such as mending plumbing system, to name but a few.
   - Domestic skills, craftsmanship, and taking care of children are no longer at-home skills; rather, they can be extra or even the main source of revenue. By developing proficiency in these skill sets, one can make a lot of money, even beyond the dreams of avarice. To be financially independent and have a potential job opportunity, children should learn these skills.
 - **Which one of the following values is the most important to share with a young child (5-10 years old)?
  1. Being helpful
@@ -605,19 +606,24 @@ C: Individual efforts
   - People in this complicated life are notoriously preoccupied and pressed for time. They rarely communicate with their immediate family members, let alone with their distant relatives.
   - Given that family members, whether they are immediate or extended, are sometimes annoyingly inquisitive about one&#39;s matters, today&#39;s people are inclined toward being away from their distant relatives whose meddling in personal matters interferes with one&#39;s very independence and self-confidence.
 - **Some people prefer to go and visit tourist attractions where there are many people. Others like the tourist attractions with fewer people.**
-  - crowded tourist attractions are breeding grounds for illegal activities or morally and ethically questionable practices. For example, maimed begging, prostitution, and theft are an inseparable part of every bustling location. These practices mainly target foreign visitors who stick out like a sore thumb among local people. What&#39;s more, these places are the potential targets of terrorist attacks.-----
-  - Going sightseeing in less populated locations and tourist sites means saving valuable resources—time and pecuniary reserves— on hotel bookings, staying in long queues, and restaurants. When the location is the destination of a large influx of travelers and visitors, every good and service become exorbitantly expensive.
+  - crowded tourist attractions are breeding grounds for illegal activities or morally and ethically questionable practices. For example, maimed begging, prostitution, and mugging are an inseparable part of every bustling location. These practices mainly target foreign visitors who stick out like a sore thumb among local people. What&#39;s more, these places are the potential targets of terrorist attacks.
+  - Going sightseeing in less populated locations and tourist sites means saving valuable resources—time and pecuniary reserves— on hotel bookings, staying in long queues, and restaurants. When the location is the destination of a large influx of travelers and visitors, goods and services become exorbitantly expensive.
 - **When people succeed, it is because of hard work. Luck has nothing to do with success. &quot; Do you agree or disagree with the quotation above?.**
-  - Whether a person achieves his goals or not is not the question of luck, as it is a short-lived and infrequent experience. The factors contributing to one&#39;s success and progression are ones that are available whenever and wherever they face a problem. In many times, the only thing that assists the person to surmount their difficulties is perseverance and hard work. Just because we are called a lucky guy doesn&#39;t mean that we have a tool named &#39;luck&#39; for removing barriers. It is beyond our control to use it. But this is not the case with hard work. When facing a challenge, we know that putting strenuous effort will solve the problem, no matter whether we are perceived as &#39;lucky&#39; or not.
-  - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the lack of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are an excellent epitome of how hard work can beat unluckiness.
+  - Whether a person achieves his goals or not is not the question of luck, as it is a short-lived and infrequent experience.
+ The factors contributing to one&#39;s success and progression are ones that are available whenever and wherever they face an obstruction.
+ In many times, the only things that assists the person to surmount the obstacles are perseverance and hard work.
+ Just because we are called a lucky person does not mean that we have a tool named &#39;luck&#39; for removing barriers.
+ It is beyond our control to use it. But this is not the case with hard work.
+ When facing a challenge, we know that putting strenuous effort will solve the problem, no matter whether we are known as &#39;lucky&#39; or not.
+  - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the lack of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are excellent epitomes of how hard work can beat unluckiness.
 - **it is important to learn about other cultures.**
-  - Learning about other cultures, you can find similarities between the customs and traditions of those cultures with yours. This may change your possible prejudgment, negative preconceived notion, or even blatant hostility against other minority groups. Understanding similarities while respecting unique differences can lead to an inclusive and ethnically and racially diverse society, without discriminative and racially prejudiced feelings toward minorities. Maybe, if Edinson Cavani had learned about Britainain culture, he would not have hurt black-skinned people&#39;s feelings by his racially stereotyped comments.
   - In this globally interconnected world, one should learn about other cultures to climb the ladder of success. This sophisticated world is characterized by its opportunities and being a global village. People leave their homeland to find greener pastures in their job or academic career. Having information about other cultures can facilitate the process of this movement and modern immigration to a great extent. For example, for those who are inclined toward studying in the US, knowing about its culture, language, and dominant lifestyle can be of great help.
   - Since language and culture are inextricably connected, having a broad range of information about other cultures can boost one&#39;s job prospects. In this modern job market, being bilingual or even polyglot is the mandatory prerequisite of many professions. Acquiring knowledge about other cultures can equip you with what it takes to secure these kinds of positions.
+  - Learning about other cultures, one can find similarities between the customs and traditions of those cultures with theirs. This may change your possible prejudgment, negative preconceived notion, or even blatant hostility against other minority groups. Understanding similarities while respecting unique differences can lead to an inclusive and ethnically and racially diverse society, without discriminative and racially prejudiced feelings toward minorities. Maybe, if Edinson Cavani had learned about British culture, he would not have hurt black-skinned people&#39;s feelings by his racially stereotyped comments.
 - **It is important to read or watch the news presented by people whose views are different from your own or presented by people whose views are similar to your own?**
   - Exposure to news presented by someone cherishing opposite views to one&#39;s ideologies and perspectives can foster out of the box thinking. over-consumption of favorable news is an impediment to viewing problems, situations, and realities from different perspectives. It never helps one to think critically. On the other hand, in the case of being exposed to opposite views, one learns how to see the world from the lens of someone cherishing beliefs completely conflicting with those of one. This situation is a contributor to developing a big-picture perspective.
   - Embracing opposite views is a promising step toward enhancing the level of tolerance and accepting differences. Sad but true, in today&#39;s modern life, founded on individualism, &quot;my own view&quot; and &quot;my preference&quot; are phrases we hear frequently every day. People don&#39;t make a compromise, nor do they go beyond their selfish views. This autocratic and intransigent attitude is the byproduct of turning a deaf ear to opposite opinions. Listening to and reading news represented by people with whom we are not on the same page can make us more tolerant of different beliefs. We will no longer insult others&#39; uniqueness and will appreciate their unique views and principles. Maybe this practice can eradicate the hostility and contemptuous feelings prevalent in modern society.
-  - **Famouse entertainers and athletes deserve to have more privacy than they have now.**
+  - **Famous entertainers and athletes deserve to have more privacy than they have now.**
   - What makes celebrities a &quot;celebrity&quot; is media scrutiny and gossips. They owe the fame and adulation that they enjoy to these gossips and rumors. They know that media surveillance is like a double-edged sword: on the bright side, they get pleasure from the popularity and truckloads of money they make by means of being in the limelight. On the flip side, they should accept encroachment to their personal space. They do not have any right to complain about the circulation of their embarrassing images or rumors.
   - Public figures have an insatiable desire to flaunt and show off, which justifies their violated privacy. When they post their photos to brag about their immaculate sense of dressing, flamboyant lifestyle, chauffeur-driven limousine, and their expansive mansion full of golden accessories they themselves invite intrusion in their personal life. They knowingly get their privacy violated and they do not deserve privacy.
   - Everyone, be it a famous figure such as luminaries of stage and screen, icons of the music industry, and sports personalities or an ordinary citizen, needs privacy. It is a gross violation of human rights to get celebrities&#39; well-deserved personal space violated only for a simple reason: to quench our insatiable desire to learn more about their personal matters. Public figures are human beings too. They need to live a normal life with their families, children, and friends. But unfortunately, the inquisitive society has taken away this chance from them. We get their privacy violated to such an extent that they cannot step outside without security personnel because they are constantly subject to paparazzi or even terrorists and criminals. By respecting their privacy we may help them live a normal life just like any of us.
