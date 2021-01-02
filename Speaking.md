@@ -34,17 +34,17 @@ Use **Transition** words rather than cheap words you usually use.
 
 **Speaking Task 2 common phrases:**
 
-Write down the Change right after you read it
+Write down the Change right after you read it.
 
-Write down two reasons after reading them all
+Write down two reasons (gerunds) after reading them all.
 
-Don&#39;t panic. In preparing time; complete your notes, circle important parts.
+Don&#39;t panic. In preparing time; complete your notes, **circle** important parts.
 
 According to the announcement, the university is going to adopt a new policy
 
 According to the letter the university has been asked to …
 
-The man/woman agrees with the idea up to a point/ agrees in principle but …
+The man/woman agrees with the idea up to a point/ agrees in principle but …(be genius)
 
 The man/woman disagrees
 
@@ -94,7 +94,7 @@ Another strategy is to...
 - Parents who give their children preferential treatment are sowing the seeds of future problems.
 - Children who engage in competition earn critical social skills by interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
 - It will boost their ego.
-- This will gradually teach them how to take care of responsibilities later in life and how to be disciplined.
+- This will gradually teach them how to take care of responsibilities a few years down the road and how to be disciplined.
 - It provides the opportunity to make friends with new people. They can socialize and get to know people with different perspectives and cultures which can be a real eye-opener.
 - Joining such activities will boost their self-confidence and self-esteem. It will bring them out of their shell.
 - Living in society is a give and take relationship. Children should fulfill their civic duty and role in society and never shirk their responsibility. They will learn to be wholly committed to their duties.
@@ -113,7 +113,7 @@ Another strategy is to...
 
 - **Gifted children should be treated differently**
 
-- Some gifted children may develop highly inflated and unrealistic expectations for themselves. They might desire to be the best for good. And, any divergence from this path will be perceived as a failure and make them disappointed. Were I a father, I would never treat my children as overly special to let them enjoy their lives to the full.
+- On the one hand, Some gifted children may develop highly inflated and unrealistic expectations for themselves. They might desire to be the best for good. And, any divergence from this path will be perceived as a failure and make them disappointed. Were I a father, I would never treat my children as overly special to let them enjoy their lives to the full.
 - On the other hand, gifted children have unique educational needs due to their intellectual difference and require special academic services. For example, children who are strong in math should have extracurricular classes.
 
 - **Study**
@@ -125,37 +125,37 @@ Another strategy is to...
 
 - **Homework for students**
 
-- It&#39;ll help students study throughout the semester, on a regular basis, and avoid procrastination and keep track of class discussions, thus consolidate the lessons and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
-- Secondly, homework will help students diagnose their weaknesses and work on them. Also, teachers will provide them with optimal feedback, which will help students stay on the right track. I took a course on electronics, and I really learned everything in homework questions/assignments.
+- It&#39;ll help students **study throughout the semester** , on a regular basis, and avoid procrastination and keep track of class discussions, thus consolidate the lessons and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
+- Secondly, homework will help students **diagnose their weaknesses** and work on them. Also, teachers will provide them with optimal feedback, which will help students stay on the right track. I took a course on electronics, and I really learned everything in homework questions/assignments.
 
 - **Study in the morning**
 
 - It&#39;s easier to maintain focus in the morning. For some demanding courses, it&#39;s enormously important to fully focus. I&#39;m a morning person
 
 -   **Schools**
-  - Schools should provide a congenial atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
-  - Student life obviously encompasses a vast range of activities and is of bewildering complexity, which stresses them out and makes them tense.
+  - Schools should provide a **congenial** atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
+  - **Student life** obviously encompasses a vast range of activities and is of bewildering complexity, which stresses them out and makes them tense.
   - Student life is full of assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are intensely prevalent among students. For example, when I was a student, I was under an intense pressure to do my senior project, which turned into anxiety, and made me indulge myself in eating junk food and gain extra weight.
-  - Joining such activities will help student be in good spirits, and they will unwind and get the good vibes to study more efficaciously.
+  - **Joining such activities** will help student be in good spirits, and they will unwind and get the good vibes to study more efficaciously.
   - Quality is of more importance than quantity.
 
 -   **Online classes or actual classes**
-  - Actual classes will help students remarkably fortify their social skills. Students will boost their self-esteem and self-confidence by interacting with others and participating in class discussions. For example, university or school can bring an introverted child out of his/her shell.
-  - Actual classes will encourage students to take part in classes more willingly, and they will feel the competition between classmates to get the better of each other. Like their effort to answer the lecturer&#39;s questions.
+  - Actual classes will help students remarkably fortify their **social skills**. Students will boost their self-esteem and self-confidence by interacting with others and participating in class discussions. For example, university or school can bring an introverted child out of his/her shell.
+  - Actual classes will encourage students to take part in classes **more willingly** , and they will feel the competition between classmates to get the better of each other. Like their effort to answer the lecturer&#39;s questions.
   - I took a course on robotics where students were allowed to ask questions whenever they had, and it made everyone want to be the most knowledgeable at any discussion.
 
 -   **Expel students who cheat on exam**
-  - It&#39;s not a good idea to expel students who cheat in an exam. First, Expulsion and suspension should only be used as a last resort. Therefore, students should be disciplined when they cheat in a test like being flunked and being forced to pass the course again or doing extra assignments and so forth.
-  - Secondly, Expulsion would have serious repercussions such as increase in unemployment. Schools should consider other aspects beyond the scope of education. For example, I had a classmate who expelled from university for cheating and dropped out of school, leading to misery, drug addiction and losing everything in his life.
+  - It&#39;s not a good idea to expel students who cheat in an exam. First, Expulsion and suspension should only be used **as a last resort**. Therefore, students should be disciplined when they cheat in a test like being flunked and being forced to pass the course again or doing extra assignments and so forth.
+  - Secondly, Expulsion would have serious **repercussions** such as increase in unemployment. Schools should consider other aspects beyond the scope of education. For example, I had a classmate who expelled from university for cheating and dropped out of school, leading to misery, drug addiction and losing everything in his life.
 
 -   **Coed dormitory**
-  - It is too improper for the university to establish segregated dorms.
-  - The dormitory is a miniature society indeed where you will learn how to get along with people other than your family members. Students can make friends with new people or even find their lifelong soulmates whom they want to spend the rest of their life with.
+  - It is too improper for the university to establish single-gender dorms.
+  - The dormitory is a miniature society indeed where you will learn how to get along with people other than your family members. Students can make friends with new people or even find their **lifelong soulmates** whom they want to spend the rest of their life with.
   - Students can get to know members of the opposite sex, and they will learn to get to grips with differences. It can be seen that **sexism** is more common in countries with segregated education systems.
 
 -   **University require Students to buy their own laptops**
-  - It is too improper for university to force students to buy their own laptops.
-  - First, students might not be able to afford personal computers. Laptops are exceedingly expensive. At least, uni had better give students loan.
+  - There are pros and cons to either route, but I think it&#39;s too improper for university to force students to buy their own laptops.
+  - On the one hand, students might not be able to afford personal computers. Laptops are exceedingly expensive. At least, uni had better give students loan.
   - Ex: I myself didn&#39;t have my own laptop when I was freshman and bought it much later.
   - On the other hand, some say students need to have their own laptops to be able to work or study at any time whenever they can or they want. Furthermore it ensures privacy. You can have your files saved on your laptop and **block access** for others.
 
@@ -165,19 +165,19 @@ Another strategy is to...
 
 - **Experienced teachers**
 
-- Experienced teachers are familiar with the kinds of students in the classes and know how to handle disruptive pupils. Furthermore, they can improve efficiency and raise test scores more excellently. When I was in high school, I used to hate chemistry, but we had an accomplished chemistry teacher who aroused my interest and piqued my curiosity.
-- Additionally, experienced teachers can help novices. Inexperienced teachers can heed their advice to be capable of demystifying matters better and be knowledgeable enough in teaching and education.
+- Experienced teachers are familiar with the kinds of students in the classes and know how to handle disruptive pupils. Furthermore, they can improve efficiency and **raise test scores** more excellently. When I was in high school, I used to hate chemistry, but we had an accomplished chemistry teacher who aroused my interest and piqued my curiosity.
+- Additionally, experienced teachers can help novices. **Inexperienced teachers** can heed their advice to be capable of demystifying matters better and be knowledgeable enough in teaching and education.
 
 - **Internship**
 
-- New graduates often face a chatch-22 situation when they look to enter the job market. So they can gain experience doing an internship on the side. Furthermore, it could lead to an opportunity to get an entry-level job at the same company. Although you might start with minimum wage, if you do excellent work and be a good team player. You could get a promotion or get a raise, hopefully both. A friend of mine got an internship in a company in 2015 and now he works in the same company and continues to prosper.
-- Internship at a company would highly improve one&#39;s versatility.
+- New graduates often face a chatch-22 situation when they look to enter the job market. So they can gain **experience** doing an internship on the side. Furthermore, it could lead to an opportunity to get an entry-level job at the same company. Although you might start with minimum wage, if you do excellent work and be a good team player. You could get a promotion or get a raise, hopefully both. A friend of mine got an internship in a company in 2015 and now he works in the same company and continues to prosper.
+- Internship at a company would highly improve one&#39;s **versatility**. One would brush up on their social skills beside their education and stand a better chance of getting a job after graduation.
 
 - **Part-time job before college**
 
 - It&#39;d be better for students to do some casual work.
-- First, they will earn a living, they can save up money to pay college expenses like buying textbooks, stationery, or paying the tuition fee, and stuff. For example, I myself worked at a company as a content provider as a sideline while finishing my masters. and was able to university expenses.
-- Secondly, it will give them a head start to fortify their soft skills like understanding the meaning of responsibility in addition to learning the value of hard work and developing their self-esteem and self-confidence.
+- First, they will earn a living, they can **save up money** to pay college expenses like buying textbooks, stationery, or paying the tuition fee, and stuff. For example, I myself worked at a company as a content provider as a sideline while finishing my masters. and was able to university expenses.
+- Secondly, it will give them a head start to fortify their **soft skills** like understanding the meaning of responsibility in addition to learning the value of hard work and developing their self-esteem and self-confidence.
 
 - **Job**
 
@@ -190,8 +190,8 @@ Another strategy is to...
 - **Education or work experience**
 
 - Both education and work experience are decisive factors.
-- On the one hand, you&#39;ll stand a better chance of getting a job with a degree. With education, you will be well prepared and will get the required knowledge and other prerequisites for the job. I myself worked at a company as a content provider as a sideline while finishing my masters. My responsibilities were not in line with my education, but I saw my colleagues who had studied in pertinent fields worked much better than me.
-- On the other hand, having some work experience, one can earn crucial skills like communicating with experts and know how to tackle the tasks and clear hurdles that the job may entail.
+- On the one hand, you&#39;ll stand a better chance of getting a job with a degree. With education, you will be well prepared and will get the **required knowledge** and other prerequisites for the job. I myself worked at a company as a content provider on the side while finishing my masters. My responsibilities were not in line with my education, but I saw my colleagues who had studied in pertinent fields worked much better than me.
+- On the other hand, having some work experience, one can earn **crucial skills** like communicating with experts and know how to tackle the tasks and clear hurdles that the job may entail.
 - It is more economical for a company to hire experienced people since a university education does not necessarily teach people all they need to start a career.
 
 - **Work as librarian, teacher, doctor, …**
@@ -201,7 +201,7 @@ Another strategy is to...
 - You can stand a great chance to have good workmates. Librarians are usually well-read and cultured people. Libraries have a convivial and cordial atmosphere and you will have a nice time. I genuinely believe that having good colleagues is the most important quality of the work environment.
 - Children are the future citizens of a country, one can derive a sense of satisfaction by helping them and contribute to the future progress of a country.
 
-- **Do we have to make enemies to be successful**
+- **Do we have to make enemies to be successful (1)**
 
 - It&#39;s too improper to say you must make enemies if you wanna climb the ladder of success. Although some successful people may have some enemies, there are whole host of successful people who are very self-effaced, gracious, and solicitous. So they have never tried to turn others against themselves. It depends to a great extent on one&#39;s temperament, and how one decides to treat the others around them. Namely, a popular pop singer, why he/she should make enemies.
 
@@ -218,8 +218,8 @@ Another strategy is to...
 - **Music**
 
 - Music is a crucial element of our lives.
-- Listening to music is a great way to get rid of gnawing anxiety and get the good vibes to stay focused and work more efficaciously. Music delights students. It floods your brain with endorphins and oxytocin which in turn boosts your mood.
-- Music will revitalize and energize students and will help them be in good spirits and to maintain focus for their assignments. I always try to listen to music when I am idling.
+- Listening to music is a great way to get rid of gnawing anxiety and get the good vibes to stay focused and work more efficaciously. Music delights students and helps you be in good spirits. It floods your brain with endorphins and oxytocin which in turn boosts your mood.
+- Music will revitalize and energize students. They can recharge their batteries by listening to music. I always try to listen to music when I am idling and it helps me increase my performance.
 
 - **Health**
 
@@ -236,21 +236,22 @@ Another strategy is to...
 
 - **Paper books or digital ones**
   - People don&#39;t show interest in reading books today because of the other sources of information available.
-  - With digital devices, you can carry a large number of books in a light-weight device with you wherever you want. For example, I have an e-reader with more than 53 books on it. I don&#39;t even have enough space in my room to hold this many books, let alone carrying them with me.
-  - Furthermore, electronic devices allow you to easily highlight any part of the book, add text, and delete it whenever you want. You can also easily search for a phrase or subject that you want to read about in a book, which is impossible in paper books.
+  - With digital devices, you can **carry** a large number of books in a light-weight device with you wherever you want. For example, I have an e-reader with more than 53 books on it. I don&#39;t even have enough space in my room to hold this many books, let alone carrying them with me.
+  - Furthermore, electronic devices allow you to easily **highlight** any part of the book, add text, and delete it whenever you want. You can also easily search for a phrase or subject that you want to read about in a book, which is utterly impossible in paper books.
 
 - **Environment**
 
   - Use reusable bags:
-  - It will reduce the use of plastic. The more plastic we use, the more dangers will occur in our environment, and the higher the risk of suffering from the negative effects of them. We have to prevent build up in landfill.
+  - It will reduce the use of **plastic**. The more plastic we use, the more dangers will occur in our environment, and the higher the risk of suffering from the negative effects of them. We have to prevent build up in landfill.
 
 For example, look at the oceans that are fouled almost beyond recovery.
 
-  - Additionally, the governments can use the revenue from environmentally related taxes to provide incentives for green activities like the campaigns that aim to raise awareness of the environment or set up recycling factories.
+  - Additionally, the governments can use the revenue from environmentally related **taxes** to provide incentives for green activities like the campaigns that aim to raise awareness of the environment or set up recycling factories.
+- This is definitely a cost-effective decision and helps you save money. It is also a great exercise in order to metamorphose to an environmentally-friendly person.
 
 - **Used stuff**
-  - It&#39;s not a good idea to collect used stuff. Unless they have a sentimental value or are being used on a regular basis. Otherwise, they will just clutter up your room. … is a less is more kind of person she throw things away easily or at best, donate them.
-  - It&#39;d be better to recycle scraps. That way, you can save up money as well as being environmentally friendly person. I myself have recently used a plastic shampoo bottle as a phone holder.
+  - It&#39;s not a good idea to collect used stuff. Unless they have a sentimental value or are being used on a regular basis. Otherwise, they will just **clutter up** your room. … is a less is more kind of person she throw things away easily or at best, donate them.
+  - It&#39;d be better to recycle scraps. That way, you can **save up money** as well as being environmentally friendly person. I myself have recently used a plastic shampoo bottle as a phone holder.
 
 - **Celebrities**
 
@@ -261,8 +262,8 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Share room or not**
 
-- First, sharing a room/house with others is cost-effective. It is more economical because everybody shares bill payment or rent. It will cost a fortune to rent an exclusive house and as a student, you might not be able it.
-- Secondly, living with others will boost your self-esteem and self-confidence. You will learn how to get along with people other than your family members. Get to grips with differences and be more disciplined and get a head start to know how to take care of responsibilities and fulfill your civic duties.
+- First, sharing a room/house with others is **cost-effective**. It is more economical because everybody shares bill payment or rent. It will cost a fortune to rent an exclusive house and as a student, you might not be able it.
+- Secondly, living with others will boost your **self-esteem** and self-confidence. You will learn how to get along with people other than your family members. Get to grips with differences and be more disciplined. It will give you a head start to know how to take care of responsibilities and fulfill your civic duties.
 
 - **Making mistakes**
 
@@ -318,7 +319,7 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - In the majority of cases, you should mull over important things before doing anything. If you make decisions in haste, you might be full of remorse. For example, some years back I was always
 - In some instances, if you make a mistake, you might be forced to start from scratch and that takes a long time.
-- In some situations, you need to be able to make timely decisions in the nick of time. You should think fast and take prompt action. For example, I once inadvertently pushed the accelerator instead of the brake in a panic I plowed into the car in front.
+- In some situations, you need to be able to make timely decisions in the nick of time. You should think fast and take prompt action. For example, I once inadvertently pushed the accelerator instead of the brake in a panic and plowed into the car in front.
 
 - **News**
 
@@ -354,8 +355,9 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Famous people privacy or not**
 
-- It is immensely significant to respect individual&#39;s privacy, including celebrities. Privacy is tied to freedom. It helps us to protect our thoughts and even physical safety. Media scrutiny and celebrity gossips have ruined a whole host of famous people&#39;s lives and lead them into trouble. For instance you can find many star couples divorced under the pressure made by society.
-- In addition, some celebrities are role model for teenagers and are an influence on them. Knowing their bad habitat, the youngsters will copy them and will be corrupted. Smoking is an exemplar that suffice to make the point.
+- It is immensely significant to respect individual&#39;s privacy, including celebrities. Privacy is tied to freedom. It helps us to protect our thoughts and even physical safety.
+ Media scrutiny and celebrity gossips have ruined the lives of many public figures and have led them into trouble. For instance, you can find many star couples divorced under the pressure made by society.
+- In addition, some celebrities are role models for teenagers and are influences on them. Knowing their bad habits, the youngsters will copy them and will be corrupted. Smoking is an exemplar that suffices to illustrate the point.
 
 - **Buy new products or wait for reviews**
 
@@ -369,15 +371,20 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Rich people should help poor ones**
 
-- Affluent people should help poor ones in order to make the society a better, more humane place.
-- The seeds of many social maladies can be traced back to poverty. If destitution is rife in a society, the crime rate will rise alarmingly, which affect all people&#39;s lives including the rich ones.
+- Affluent people should help poor ones in order to make society a better, more humane place.
+- The seeds of many social maladies can be traced back to poverty. If destitution is rife in a society, the crime rate will rise alarmingly, which profoundly affects all people&#39;s lives including the rich ones.
 - Help philanthropic organizations and do humanitarian activities and try to help the homeless, orphans, or disaster victims.
 
 - **Writing or speaking**
 
-- In writing there is the ability to revise and edit dozens of times. You can read what you have written several times and change it before you submit it. For example, it was enormously difficult for me to explain my master&#39;s senior project in the defense session, while my dissertation was extremely thick and I explained everything in complete detail there.
-- Speaking is harder than writing because it is performance. You should watch your tone of voice and tread lightly. You should pay painstaking attention to your vocal emphasis and body-language.
-- While speaking you would be able to convey what in your mind is in a more excellent way. Your intonation and vocal emphasis will help you as tools to better explain the subject to others. There is a lot of research showing that writing expresses only 7% of the author&#39;s intentions. For this reason, there are many cases in which text messages have led to misunderstandings and misinterpretations.
+- Speaking is harder than writing because it is performance. You should tread lightly and watch your tone of voice. You should pay painstaking attention to your vocal emphasis and body-language. For example, it was excruciatingly difficult for me to explain my master&#39;s senior project in the defense session, while my dissertation was extremely thick and I had explained everything in complete detail in that.
+- Furthermore, in writing there is the ability to revise and edit dozens of times. You can read what you have written several times and change it before you submit it.
+
+- While speaking you would be able to convey what in your mind is in a more excellent way. Your intonation and vocal emphasis will help you as tools to better demystify the subject. There is a lot of research showing that writing expresses only 7% of the writer&#39;s intentions. For this reason, there are many cases in which text messages led to misunderstandings and misinterpretations.
 - Writing must be self-contained. There isn&#39;t body language or vocal emphasis as everything must be in words.
+
+- **Go to concert and movies alone or with friends**
+
+- -----
 
 Speak in praise = extolling-extol
