@@ -190,6 +190,8 @@ It would be palpably unwise to draw firm conclusions from the results of a few p
 
 **General:**
 
+As pediatricians say, the more the children play video games, the more deteriorated their eyesight becomes.
+
 The Internet has become a double-edged sword. On the one hand, …
 
 From campus to city or the other way around
@@ -372,7 +374,7 @@ While acknowledging the fact that ..., the lecturer asserts that ...
 
 **First**
 
-First, the reading **brings up/puts forth the idea** that …
+First, the reading **brings up/puts forward the idea** that …
 
 In contrast, the lecturer holds the idea that (… renders this claim impossible.)
 
@@ -435,6 +437,8 @@ Moreover, the passage claims that … The lecturer validates the idea emphasizin
 Finally, the passage says that …. The lecturer supports this by holding the idea that …
 
 **General**
+
+Quarry the valuable metals from the surface of the asteroids
 
 Problem/trouble/challenge/concern
 
