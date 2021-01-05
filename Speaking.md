@@ -89,11 +89,12 @@ Another strategy is to...
 
 - **Children**
 
+- Youngsters are eligible to vote.
 - Parents should not constrain their children from doing what they want. They should incent them without incensing them.
 - Were I a father, I would never interfere in my children&#39;s lives and would let them do whatever they want at their own free will.Some parents want to project their unfulfilled dreams onto their children. My parents used to force me to be a doctor, which was utterly preposterous.
-- Parents who give their children preferential treatment are sowing the seeds of future problems.
-- Children who engage in competition earn critical social skills by interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
-- It will boost their ego.
+- Parents who give their children preferential treatment or they who constantly/continuously reprove their children are sowing the seeds of future problems. It will undermine their confidence.
+- Children who engage in competition earn critical people skills by interacting with others in addition to learning the value of hard work and developing self-confidence and self-esteem.
+- Rivalries of this kind will boost their ego.
 - This will gradually teach them how to take care of responsibilities a few years down the road and how to be disciplined.
 - It provides the opportunity to make friends with new people. They can socialize and get to know people with different perspectives and cultures which can be a real eye-opener.
 - Joining such activities will boost their self-confidence and self-esteem. It will bring them out of their shell.
@@ -108,7 +109,7 @@ Another strategy is to...
 
 - **Children should learn paint or draw**
 
-- It gives the children a head start by helping them to be good with their hands. The more you paint the better you can convey what in your mind is on the paper. They will brush up on their skills. When I was a child I was always painting and thankfully now my handwriting is acceptably neat.
+- It gives the children a head start by helping them to be good with their hands. The more you paint the better you can convey what in your mind is on the paper. They will brush up on/hone their skills. When I was a child I was always painting and thankfully now my handwriting is acceptably neat.
 - Besides, without a doubt having fun is every child&#39;s right. Painting is marvelously entertaining, it delights children. Children enjoy drawing and it makes them happy.
 
 - **Gifted children should be treated differently**
@@ -120,7 +121,7 @@ Another strategy is to...
 
 - Had I known about different subjects at an early age, I would have studied other majors like music which I fell in love with.
 - … arouse students&#39; curiosity.
-- They will gradually metamorphose to industrious people.
+- They will gradually metamorphose to industrious and indefatigable people. It will raise their stamina and boredom threshold.
 - Teachers should have patient to answer inquisitive children&#39;s question.
 
 - **Homework for students**
@@ -135,7 +136,7 @@ Another strategy is to...
 -   **Schools**
   - Schools should provide a **congenial** atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
   - **Student life** obviously encompasses a vast range of activities and is of bewildering complexity, which stresses them out and makes them tense.
-  - Student life is full of assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are intensely prevalent among students. For example, when I was a student, I was under an intense pressure to do my senior project, which turned into anxiety, and made me indulge myself in eating junk food and gain extra weight.
+  - Student life is full of traumatic assignments, homework, seminars, conferences, etc. Psycho **l** ogically speaking, stress-induced diseases are intensely prevalent among students. For example, when I was a student, I was under an intense pressure to do my senior project, which turned into anxiety, and made me indulge myself in eating junk food and gain extra weight.
   - **Joining such activities** will help student be in good spirits, and they will unwind and get the good vibes to study more efficaciously.
   - Quality is of more importance than quantity.
 
@@ -150,8 +151,9 @@ Another strategy is to...
 
 -   **Coed dormitory**
   - It is too improper for the university to establish single-gender dorms.
-  - The dormitory is a miniature society indeed where you will learn how to get along with people other than your family members. Students can make friends with new people or even find their **lifelong soulmates** whom they want to spend the rest of their life with.
+  - The dormitory is a miniature society indeed where you will learn how to get along with people other than your family members and be independent of them. Students can make friends with new people or even find their **lifelong soulmates** whom they want to spend the rest of their life with.
   - Students can get to know members of the opposite sex, and they will learn to get to grips with differences. It can be seen that **sexism** is more common in countries with segregated education systems.
+  - Resident hall
 
 -   **University require Students to buy their own laptops**
   - There are pros and cons to either route, but I think it&#39;s too improper for university to force students to buy their own laptops.
@@ -171,7 +173,7 @@ Another strategy is to...
 - **Internship**
 
 - New graduates often face a chatch-22 situation when they look to enter the job market. So they can gain **experience** doing an internship on the side. Furthermore, it could lead to an opportunity to get an entry-level job at the same company. Although you might start with minimum wage, if you do excellent work and be a good team player. You could get a promotion or get a raise, hopefully both. A friend of mine got an internship in a company in 2015 and now he works in the same company and continues to prosper.
-- Internship at a company would highly improve one&#39;s **versatility**. One would brush up on their social skills beside their education and stand a better chance of getting a job after graduation.
+- Internship at a company would highly improve one&#39;s **versatility**. One would brush up on their people skills beside their education and stand a better chance of getting a job after graduation.
 
 - **Part-time job before college**
 
@@ -182,7 +184,7 @@ Another strategy is to...
 - **Job**
 
 - Money is a factor, obviously. But seriously, it&#39;s not that important.The most significant factor to consider before choosing your major is your Interest. It doesn&#39;t matter how hard it is. If you wanna climb the ladder of success, you should do what you love, as the old saying goes. Thus you will have passion. And passion provokes effort, and effort is the only way to success.
-- On the other hand, don&#39;t disregard other factors like salary and job opportunities, as they will affect your future profoundly. We&#39;re living in a world where money talks, you should earn enough money to stay solvent. You should set aside enough money to persevere in the face of adversity and survive the vicissitudes of life.
+- On the other hand, don&#39;t disregard other factors like salary and job opportunities, as they will affect your future profoundly. We&#39;re living in a world where money talks, you should earn enough money to stay solvent/afloat. You should set aside enough money to persevere in the face of adversity and survive the vicissitudes of life.
 - Look for a job that keeps you motivated by its nature, not solely the paycheck. Because that wears off real fast.
 - The ability to look back at your life with satisfaction is more valuable than any number of digits in the bank.
 - According to a recent job-satisfaction survey, accountants are the most unhappy. But as far as careers go, accounting is considered one of the best.
@@ -198,6 +200,7 @@ Another strategy is to...
 
 - A person spends at least 8 hours a day in his workplace.
 - Libraries usually have tranquil environment compared to shops that are excruciatingly bustling.
+- Libraries usually have courteous staff.
 - You can stand a great chance to have good workmates. Librarians are usually well-read and cultured people. Libraries have a convivial and cordial atmosphere and you will have a nice time. I genuinely believe that having good colleagues is the most important quality of the work environment.
 - Children are the future citizens of a country, one can derive a sense of satisfaction by helping them and contribute to the future progress of a country.
 
@@ -226,7 +229,7 @@ Another strategy is to...
 - Many health problems appear as a result of poor diet and nutrition. Obesity is prevalent among students and junk food is the main culprit.
 
 - **NEWS &amp; Politics**
-  - Politics is enormously important, it profoundly impacts you and everyone around you like the amount of tax you pay for buying things. By being aware of the latest news on politics, you would be able to manage your life better.
+  - Politics is enormously important, it profoundly impacts you and everyone around you like the amount of tax you pay for buying things. People who have their fingers on the pulse of politics can make timely decisions in the nick of time.
   - Secondly,
   - Secondly, politics is marvelously entertaining. When you go out with your friends, you can talk for hours and get to know divergent perspectives.
   - Thanks to modern technology, … has become easier. This is because people can effortlessly use their electronic devices and have access to a wealth of information. Today, people have the Internet at their fingertips, the information is one click away.
@@ -236,13 +239,13 @@ Another strategy is to...
 
 - **Paper books or digital ones**
   - People don&#39;t show interest in reading books today because of the other sources of information available.
-  - With digital devices, you can **carry** a large number of books in a light-weight device with you wherever you want. For example, I have an e-reader with more than 53 books on it. I don&#39;t even have enough space in my room to hold this many books, let alone carrying them with me.
+  - Electronic devices will render books obsolete. With digital devices, you can **carry** a large number of books in a light-weight device with you wherever you want. For example, I have an e-reader with more than 53 books on it. I don&#39;t even have enough space in my room to hold this many books, let alone carrying them with me.
   - Furthermore, electronic devices allow you to easily **highlight** any part of the book, add text, and delete it whenever you want. You can also easily search for a phrase or subject that you want to read about in a book, which is utterly impossible in paper books.
 
 - **Environment**
 
   - Use reusable bags:
-  - It will reduce the use of **plastic**. The more plastic we use, the more dangers will occur in our environment, and the higher the risk of suffering from the negative effects of them. We have to prevent build up in landfill.
+  - It will reduce the use of **plastic**. The more plastic we use, the more dangers will occur in our environment, and the higher the risk of suffering from the overwhelmingly negative effects of them. We have to prevent build up in landfill.
 
 For example, look at the oceans that are fouled almost beyond recovery.
 
@@ -294,8 +297,8 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Regular exercise**
 
-- In this day and age, hustle and bustle of modern life lead us to a hectic lifestyle. We are preoccupied with our jobs. Some of us are overburden with their jobs. They work from dawn till dusk. So it&#39;s fairly difficult to open up your schedule for exercising. You know?
-- On the other hand, it&#39;d be better to exercise on a regular basis. Regular exercise helps you get rid of many health problems as well as being in shape. It will promote better sleep. You will fall asleep faster and deepen your sleep. Besides it can increase your life expectancy and boost your mood through being healthy and not having diseases.
+- In this day and age, hustle and bustle of modern life lead us to a hectic lifestyle. We are preoccupied with our jobs. Some of us are overburden with their jobs. They work from dawn till dusk to keep the body and soul together. So it&#39;s fairly difficult to open up your schedule for exercising. You know?
+- On the other hand, it&#39;d be better to exercise on a regular basis. Regular exercise helps you get rid of many health problems as well as being in shape. It will promote better sleep. You will fall asleep faster and deepen your sleep. Besides it can increase your life expectancy/longevity and boost your mood through being healthy and not having diseases.
 
 - **Indoor activity or outdoor activity**
 
@@ -318,8 +321,9 @@ For example, look at the oceans that are fouled almost beyond recovery.
 - **Spur of the moment decision or planning before**
 
 - In the majority of cases, you should mull over important things before doing anything. If you make decisions in haste, you might be full of remorse. For example, some years back I was always
-- In some instances, if you make a mistake, you might be forced to start from scratch and that takes a long time.
+- In some **instances** , if you make a mistake, you might be forced to start from scratch and that takes a long time.
 - In some situations, you need to be able to make timely decisions in the nick of time. You should think fast and take prompt action. For example, I once inadvertently pushed the accelerator instead of the brake in a panic and plowed into the car in front.
+- You should have the ability to plan in an ad-hoc basis.
 
 - **News**
 
@@ -372,7 +376,7 @@ For example, look at the oceans that are fouled almost beyond recovery.
 - **Rich people should help poor ones**
 
 - Affluent people should help poor ones in order to make society a better, more humane place.
-- The seeds of many social maladies can be traced back to poverty. If destitution is rife in a society, the crime rate will rise alarmingly, which profoundly affects all people&#39;s lives including the rich ones.
+- The seeds of many social maladies can be traced back to poverty. If destitution is rife in a society, the crime rate will rise alarmingly, which profoundly affects all people&#39;s lives including the rich ones adversely.
 - Help philanthropic organizations and do humanitarian activities and try to help the homeless, orphans, or disaster victims.
 
 - **Writing or speaking**
@@ -388,3 +392,36 @@ For example, look at the oceans that are fouled almost beyond recovery.
 - -----
 
 Speak in praise = extolling-extol
+
+190112SP
+When shopping in supermarkets, many citizens would prefer to bring their own shopping bags
+instead of buying new cloth bags or plastic bags. Talk about the advantage and/or
+disadvantage of taking your own shopping bags?
+
+190112SP
+When visiting museums to see the exhibitions, some people prefer to take some photos while
+some people prefer just to look around, which one do you prefer and why?
+
+190126SP
+Do you agree or disagree with the following statement?
+Being polite is more important than being truthful. Explain why.
+190202SP
+Sports have a positive impact on students&#39; academic performance.
+Do you agree or disagree?
+190216SP
+Do you agree or disagree with the following statement?
+Technology has made the world a better place to live.
+190223SP
+Parents should not be allowed to see children&#39;s grades without their permission.
+Do you agree or disagree?
+190223SP
+What is the most needed for government leaders to Improve society?
+Art
+Business
+Military
+190224SP
+Some people like to eat fast food at restaurants and street carts.
+Discuss the advantages and disadvantages.
+190224SP
+Do you agree or disagree with the following statement?
+Children can have a pet at home.
