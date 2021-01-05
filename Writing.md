@@ -166,13 +166,13 @@ all the aforementioned reasons lead us to the conclusion that
 
 all the above-enumerated reasons converge to the point that …
 
-Based on the aforementioned reasons, it can be surmised that … has deleterious/detrimental/devastating effects on ….
+Based on the aforementioned reasons, it can be surmised that … has deleterious/detrimental/devastating/irreparable effects on ….
 
-Other factors are also at work in the …
+Other factors are also at work, but are subsidiary to this one.
 
 unpleasantly surprising is the fact that …
 
-Obviously, … constitutes a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us in the not too distant future.
+Obviously, some acute problems would crop up that constitute a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us in the not too distant future.
 
 Otherwise, a spirit of hopelessness may pervade society.
 
@@ -184,11 +184,17 @@ It is highly anticipated that
 
 It is suggested that a thorough and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
 
-It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen if ... was ... .
+It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen in case ... was ... .
 
 It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
 
 **General:**
+
+Strict rules = stringent rules
+
+Irrespective of age
+
+In light of sth, we do blab blab la
 
 As pediatricians say, the more the children play video games, the more deteriorated their eyesight becomes.
 
@@ -206,13 +212,13 @@ Because -\&gt; for
 
 Children&#39;s emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount importance.
 
-Education, or the lack thereof, plays a prominent role in every society.
+Education, or the lack/paucity thereof, plays a prominent role in every society.
 
 Not only do the students benefit from it, but so do the professors.
 
 It is human nature to …, that is how our brain works.
 
-(5)enormously arduous/mammoth/formidable/daunting/unenviable task
+(5)enormously traumatic/rigorous/arduous/mammoth/formidable/daunting/unenviable task
 
 heavy workload/ work overtime
 
@@ -220,7 +226,7 @@ heavy workload/ work overtime
 
 do a menial job to earn a living
 
-(8) excruciatingly hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting homework/assignment
+(8) excruciatingly hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting/deadly dull homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -232,9 +238,9 @@ incredibly/outstandingly/extraordinarily/astonishingly/
 
 ... pales into insignificance when compared with ...
 
-The whole world experienced a phenomenal growth in population, and there are grave environmental warnings, which we ignore at our peril.
+According to global demographics, the whole world experienced a phenomenal growth in population, and there are grave environmental warnings, which we ignore at our peril.
 
-It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably/ Needless to say ....
+It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably/ Needless to say/ squarely....
 
 The team would make headway toward ...
 
@@ -288,13 +294,13 @@ The main essence of media should be to heighten the public awareness.
 
 Seek knowledge from the cradle to the grave, as the old saying goes.
 
-(As the biggest organization in the country,) governments had better impose stringent restrictions on … companies
+(As the biggest organization in the country,) governments had better impose/clamp stringent restrictions on … companies to circumscribe them.
 
 Governments had better use revenues from environmentally related taxes to provide incentives for green activities or to establish recycling companies.
 
 It takes an inordinate amount of time to ....
 
-Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some public figures are not bona fide and are prone to trick people to line their own pockets. Some celebrities are inveterate liars. They might have political affiliation and ….
+Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some public figures are not bona fide and are prone to trick people to line their own pockets. Some hypocrite celebrities are inveterate liars. They might have political affiliation and ….
 
 Had I known about ...., I would have been ...
 
@@ -342,7 +348,7 @@ In this regard, the article presents different factors that could have worked in
 
 **Contradict**
 
-The lecturer, however, finds the evidence brought up by the critics wholly **inadmissible** and allege that these ideas are **inconsistent with the truth**.
+The lecturer, however, finds the evidence brought up by the critics wholly **inadmissible/unpersuasive/unconvincing** and allege that these ideas are **inconsistent with the truth**.
 
 The lecturer, however, finds the ideas brought up by the critics wholly **implausible** and **categorically refutes them all**.
 
@@ -354,7 +360,7 @@ The lecturer, however, **discounts the possibility** of ... and asserts that the
 
 **Problem/Solution**
 
-The reading passage and the lecture mainly **discuss acute problems associated** with/induced from … (Problem)
+The reading passage and the lecture mainly **discuss acute problems associated** with/ensued from … (Problem)
 
 In this regard, the article states **that some acute problems have arisen** regarding/have arisen ensued from/ have been brought about by … .(Problem)
 
@@ -426,7 +432,7 @@ On the other side, the speaker propounds that … (Solution)
 
 **First**
 
-First, the passage says that … The lecturer, in addition, **corroborates** /supports/reinforces the claim by adding that …
+First, the passage says that … The lecturer, in addition, **corroborates** /supports/reinforces the claim by adding that … and finds the reason brought up by the author perfectly cogent.
 
 **Second**
 
@@ -438,7 +444,11 @@ Finally, the passage says that …. The lecturer supports this by holding the id
 
 **General**
 
-Quarry the valuable metals from the surface of the asteroids
+Heavenly body
+
+Eat/partake of/ ingest
+
+Prospect and Quarry the valuable metals from the surface of the asteroids
 
 Problem/trouble/challenge/concern
 
@@ -491,7 +501,7 @@ Such high is the ...
 
 **Support** :
 
-Corroborate, confirm, verify, substantiate author&#39;s claims, back up, As evidenced by, acknowledges,
+Corroborate, confirm, verify, **substantiate** author&#39;s claims, back up, As evidenced by, acknowledges,
 
 **Refutes** :
 
@@ -544,7 +554,7 @@ Claim = statement = assertion = contention
 # Brainstorm
 
 - **Playing sports can teach people lessons about life.**
-  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen &quot;for&quot; us, not &quot;to&quot; us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team in the second half and snatch victory from jaws of defeat.
+  - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen &quot;for&quot; us, not &quot;to&quot; us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team and take the lead in the second half and snatch victory from jaws of defeat.
   - Playing sports will **inculcate/instill** an attitude of teamwork spirit into individuals.-\&gt;
  When engaging in sports activities, one learns how to **avoid social** loafing and cooperate with others in order to achieve the common objective of the group -\&gt;
  this quality is a must-have and sought-after skill in the workplace -\&gt;
@@ -556,11 +566,11 @@ Claim = statement = assertion = contention
   - Shows broadcast by television convey some direct or indirect messages that represent every given country&#39;s social, political, and economic movements. The media are inextricably intertwined with the country&#39;s culture. Gone are the days when directors produce movies that could be summarized in the romantic relationships or arrival of aliens at the Earth&#39;s surface. Today&#39;s shows and movies, in fact, mirror current events. From a sociological standpoint, for example, European TV shows usually promote interracial marriage and egalitarianism in an effort to fight racism and xenophobia. This is mainly because of the prevalent racial segregation in these countries. Likewise, American directors glorify single parenthood and send out this message that being an unmarried mother does not carry the social stigma that it used to and is nothing to be ashamed of. Conservative Middle Eastern countries, on the other hand, attach importance to the value of traditional families. The contents of their TV shows rebel against carefree relationships in Western countries and emphasize marriage as a sacred institution.
 - **It is better for government to spend money on building modern housing than on preserving historic or traditional buildings and homes..**
   - These ancient constructions have educational values and represent the **rich cultural heritage** of a country. The data and information that these old sites represent range from invasion of a foreign country and the introduction of a new culture to the dominant religion and architecture in various periods. This information will make people proud of their country and appreciate their forefathers&#39; contribution to the glamorous history of their nation. A recently conducted research in the Ohio State University reveals that
-  - The archaic buildings serve as tourist hotspots and spawn a huge influx of domestic and foreign visitors to the place. There are a whole host of tourists around the world who have an **insatiable** desire to discover new historic places. They travel to **quench their curiosity** no matter how far they have to go or how hazardous the travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
+  - The archaic buildings serve as tourist hotspots and spawn a huge influx of domestic and foreign visitors to the place. Tourism is the mainstay of many countries There are a whole host of tourists around the world who have an **insatiable** desire to discover new historic places. They travel to **quench their curiosity** no matter how far they have to go or how hazardous the travel may be. Government funds dedicated to conserving old buildings will attract that potentially curious visitors and can make truckloads of money by this new source of revenue.
 - **Celebrities, such as actors, musicians and athletes, sometimes express their political views in public. Some people appreciate knowing the political views of celebrities. Others think it is not appropriate or useful to know the political views of celebrities. Which opinion do you agree with?**
   - Some celebrities are not averse to getting pecuniary advantages by deception. To rephrase, some of the public figures are not bona fide and are prone to trick people in order to line their own pockets. Rarely do celebrities provide something useful and objective in their perspectives or an idea they themselves believe in. They might have political affiliation and it is often seen that politicians give these famous personalities financial assistance or commencement certificate for their commercial activities as a quid pro quo to take part in their election campaign or to express their opinion against a special candidate to impugn their reputation. The same is true when it comes to colluding with businessmen to endorse their products. They offer public figures a bribe to represent their products way better than what they really are. In this case, gullible and susceptible people will be misled. They will change their criteria that they used to consider when voting or buy some fake products hardly live to their claimed quality and functions.
   - The overwhelming majority of famous personalities are not politically conscious and their opinions and beliefs should not be taken seriously. Needless to say, celebrities are more known for their wealth, fame, glamor, and attractive appearance. They have neither a superior academic credential nor valuable experience in important fields such as economics and politics. The only thing that has made them noted and celebrated is the hype surrounding them. Giving attention to this group of society and their ideologies will yield nothing but exposure to inaccurate and narrow perspectives. For example, so fascinated was I with a physically attractive actor that I ended up following his wrong political and social views blindingly. In retrospect, that cost me a lot: I was pushed aside by my friends and even family members because of following those wrong perspectives. If I could wind the clock back to my teenage years, I would not listen to that politically illiterate actor&#39;s ideologies.
-- **Which of the following choice do you think has the greatest impact on environmental protection?
+- **Which of the following choice do you think has the greatest/far-reaching/sweeping impact on environmental protection?
  a. Governmental Regulations
  b. Environmental Awareness Groups
  c. Individual Efforts.**
@@ -568,20 +578,20 @@ Claim = statement = assertion = contention
 
 A: Government regulation
 
-  - ✔As the biggest organization in the country, the government had better to impose stringent restrictions in order to curb the ever-growing contamination of big companies. They do so by:
-    - Prosecuting contaminative activities
+  - ✔As the biggest organization in the country, the government had better to impose stringent restrictions in order to curb the ever-growing contamination of big companies and circumscribe them. They do so by:
+    - Prosecuting contaminative activities in order to stem the rise in pollution.
     - Suspending companies&#39; commercial activities
     - adopting prohibitive measures such as the threat of shutting down the companies which exceed the imposed maximum level of pollution.
     - Not issuing the commencement certification for businesses that are not well-equipped with a proper waste disposal system.
     - Monetary punishment and levying a high tax on contaminative industries
     - Offering incentive packages such as giving low-interest loans, tax exemption, and tax costs if companies employ green technologies and modern waste disposal plants.
     - All these regulations will keep the gloomy clouds of exhaust spewed by factories in check.
-  - ✔✔The rules defined by governments have been assessed by well-rounded experts and are excellent measures to take, with the low risk of hurting the environment.
+  - ✔✔The rules defined by governments have been assessed by well-rounded experts and are excellent measures to take, thereby reducing the wastage of resources in addition to the low risk of hurting the environment.
 
 B: Environmental awareness groups
 
     - ✔environmentally-conscious organizations are usually non-profit and conduct their activities for the sake of nature itself. They expose companies and industries&#39; pollution and put the government under immense pressure to adopt proper measures to curb them. They foreground this important issue which might have otherwise gone unnoticed.
-    - ✔✔Launching such campaigns will promote public awareness about the environment. Many people unknowingly contaminate their surroundings because of a lack of proper education. These campaigns and groups can teach citizens the best ways of disposing of their trash such as waste segregation and using suitable trash cans. These groups may reduce the number of streets and beaches littered with cans, bottles, and papers by educating people.
+    - ✔✔Launching such campaigns will promote public awareness about the environment. Many people unknowingly contaminate their surroundings because of a paucity of proper education. These campaigns and groups can teach citizens the best ways of disposing of their trash such as waste segregation and using suitable trash cans. These groups may mitigate the number of streets and beaches littered with cans, bottles, and papers by educating people.
 
 C: Individual efforts
 
@@ -604,7 +614,7 @@ C: Individual efforts
  1. Being helpful
  2. Being honest
  3. Being well organized.**
-  - From a social standpoint, nothing better than sharing integrity and truthfulness can grow young children into God-fearing, law-abiding citizens when they attend the society a few years down the road. A child aged between 5 to 10 spends his formative years. In this period, the mind is like a sponge, soaking up and absorbing countless drops of the behaviors of its surroundings. Share honesty with the kid, see the fruits of this practice remaining forever; it—the fruit—neither spoils nor falls from the tree. It continues to grow to be the most distinguished characteristic of the person. The years of sharing integrity with children at their critical juncture of lives will teach them to stay true to their conscious and choose the right path when facing ethical quandaries. Once established and nurtured adequately, the honesty will carry over to one&#39;s adulthood, making his or her an ethical and morally competent person. There is the main reason behind this conclusion: an honest person has a monopoly on all acclaimed and acceptable dispositions and virtues.
+  - From a social standpoint, nothing better than sharing integrity and truthfulness can grow young children into God-fearing, law-abiding citizens when they attend the society a few years down the road. A child aged between 5 to 10 spends his formative years. In this period, the mind is like a sponge, soaking up and absorbing innumerable drops of the behaviors of its surroundings. Share honesty with the kid, see the fruits of this practice remaining forever; it—the fruit—neither spoils nor falls from the tree. It continues to grow to be the most distinguished characteristic of the person. The years of sharing integrity with children at their critical juncture of lives will teach them to stay true to their conscious and choose the right path when facing ethical quandaries. Once established and nurtured adequately, the honesty will carry over to one&#39;s adulthood, making his or her an ethical and morally competent person. There is the main reason behind this conclusion: an honest person has a monopoly on all acclaimed and acceptable dispositions and virtues.
   - Furthermore, sharing honesty and presenting it in a positive light means taking a promising step to meet one of the most consequential responsibilities toward little ones: ensuring emotional security. Early childhood is identified with the time of play, fooling around, and causing troubles. Children—these little, professional troublemakers—have the fear of punishment and being blamed for their wrongdoing. Whether they have permissive, overindulgent, or overprotective parents, children know that they cannot get away with everything; punishment or asking to be answerable lies ahead of them. To get around the punishment, they resort to concealing the truth by choosing to be dishonest. If this trend continues, it will be only a question of time before they fall into the spiral of hiding the truth. Escaping accountability by lying, children will end up suffering malignant emotional consequences. They constantly tear apart inside as they never receive emotional support or sympathy in the case of making mistakes because they have chosen to conceal the truth as the relief to their wounds. If children learn to be honest from an early age, they will always reveal the reality no matter what. They know that the emotional support, warmth, and sympathy of their family members, friends, or teachers will outweigh the pain of the possible punishment and accountability.
 - **The extended family (grandparents, cousins,aunts, and uncles) is less important now than it was in the past..**
   - People in this complicated life are notoriously preoccupied and pressed for time. They rarely communicate with their immediate family members, let alone with their distant relatives.
@@ -619,7 +629,7 @@ C: Individual efforts
  Just because we are called a lucky person does not mean that we have a tool named &#39;luck&#39; for removing barriers.
  It is beyond our control to use it. But this is not the case with hard work.
  When facing a challenge, we know that putting strenuous effort will solve the problem, no matter whether we are known as &#39;lucky&#39; or not.
-  - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the lack of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are excellent epitomes of how hard work can beat unluckiness.
+  - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the paucity of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are excellent epitomes of how hard work can beat unluckiness.
 - **it is important to learn about other cultures.**
   - In this globally interconnected world, one should learn about other cultures to climb the ladder of success. This sophisticated world is characterized by its opportunities and being a global village. People leave their homeland to find greener pastures in their job or academic career. Having information about other cultures can facilitate the process of this movement and modern immigration to a great extent. For example, for those who are inclined toward studying in the US, knowing about its culture, language, and dominant lifestyle can be of great help.
   - Since language and culture are inextricably connected, having a broad range of information about other cultures can boost one&#39;s job prospects. In this modern job market, being bilingual or even polyglot is the mandatory prerequisite of many professions. Acquiring knowledge about other cultures can equip you with what it takes to secure these kinds of positions.
@@ -713,7 +723,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  when time afflicts a limb with pain,
  other limbs at rest cannot remain,&quot; or so Sa&#39;adi is quoted as saying.
  Ex: people are deprived from education, food, etc.
-  - Reduce the gap between wealth and poverty. Alleviate destitution by doing philanthropic activities. The seeds of many social maladies can be traced back to poverty. Many social maladies stem from poverty. Poverty is a breeding ground for many social maladies. Destitution rife crime, affect all Ex: Research that shows link bet indigence and corruption
+  - lessen the gap between wealth and poverty. Alleviate destitution by doing philanthropic activities. The seeds of many social maladies can be traced back to poverty. Many social maladies stem from poverty. Poverty is a breeding ground for many social maladies. Destitution/indegence rife crime, affect all Ex: Research that shows link bet indigence and corruption
 - **Company should pay for employees to get university degree.**
   - Get required knowledge – find better solutions – lead to better productivity, more efficacy, greater profitability, and many other benefits. Ex: research that shows well-educated ppl are more successful
   - Boost their mental and intellectual abilities – devise creative ways – increase speed – reduce cost Ex: I worked as a sideline to make a living. Was not in line of my profession – I could see my colleagues who had been majored in pertinent areas worded much better.
@@ -726,7 +736,7 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - –
   - –
   - Ex: our city is devoid of amusement park. Entice customers to use reusable bags. The paucity of green areas in city.
-  - The cars that release a prodigious amounts of greenhouse gases.
+  - The cars that release a prodigious amounts/copious of greenhouse gases.
 - **After making a**  **presentation** **in class, you want to evaluate it. Which of the following do you think would be better for you?
  1. watch the recording by yourself
  2. invite other attenders to discuss and give opinions**
@@ -768,12 +778,12 @@ One of the most talked about things[** related to studying**](http://www.bellaku
  lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
   - Teammates observe and depend on the quality of each other&#39;s work. When one team member&#39;s performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
 - **pay fee to drive in busy streets**
-  - reduce # of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
+  - decrease # of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
   - use the revenue -\&gt; incentives for green activity, establish recycling companies
 - **secure job low pay or high salary not secure**
   - each of these cut both ways.
   - A secure job with a guaranteed monthly paycheck consistent, afford opp to make master plan rather than living in a haphazard way or being in a precarious position, reduce anxiety and facilitate control, life-long desires,
-  - unemployment rate is high – hard to find another job – possible to stay solvent – half a loaf is better than no bread
+  - unemployment rate is high – hard to find another job – possible to stay solvent/ stay afloat – half a loaf is better than no bread
 - **Stop reading or listening to news**
   - news is often about bad events – stressful because sometimes, try as one might, they cannot make any change – makes you tense – affect your life adversely – even may lead to mental disorder –
   - n the other hand, raise your awareness, dvlp realistic perspective on life and world – make better and timely decisions – tax , ...
