@@ -551,7 +551,7 @@ Claim = statement = assertion = contention
 # which in turn
  |
 
-# Brainstorm
+##  Brainstorm
 
 - **Playing sports can teach people lessons about life.**
   - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen &quot;for&quot; us, not &quot;to&quot; us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team and take the lead in the second half and snatch victory from jaws of defeat.
@@ -651,7 +651,7 @@ C: Individual efforts
 - **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
   - -----
   - -----
-- **Which one can make friendship stronger?**
+## - **Which one can make friendship stronger?**
 
 **-Having a good time with your friend (Enjoy good time)**
 
