@@ -152,9 +152,9 @@ To wrap it up,
 
 To bring everything into conclusion,
 
-It is far from straightforward/ too difficult to pinpoint (the cause of …)whether the role … plays is of more significance or that of …
+It is far from straightforward/ too difficult to squarely pinpoint (the cause of …)whether the role … plays is of more significance or that of …
 
-It is far from straightforward to pinpoint exactly what/how/why … (It is too difficult to pinpoint the cause of )
+It is far from straightforward to squarely pinpoint exactly what/how/why … (It is too difficult to squarely pinpoint the cause of )
 
 Whether … or not ~~,~~ need further considerations.
 
@@ -172,7 +172,7 @@ Other factors are also at work, but are subsidiary to this one.
 
 unpleasantly surprising is the fact that …
 
-Obviously, some acute problems would crop up that constitute a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us in the not too distant future.
+Alas, and obviously, some acute problems would crop up that constitute a serious threat to the future. Therefore, prompt action must be taken, otherwise, a terrible fate awaits us in the not too distant future.
 
 Otherwise, a spirit of hopelessness may pervade society.
 
@@ -189,6 +189,8 @@ It is suggested that an extensive body of research beconducted ~~carried out~~ t
 It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
 
 **General:**
+
+Use -\&gt; utilize
 
 Strict rules = stringent rules
 
@@ -240,7 +242,7 @@ incredibly/outstandingly/extraordinarily/astonishingly/
 
 According to global demographics, the whole world experienced a phenomenal growth in population, and there are grave environmental warnings, which we ignore at our peril.
 
-It is no secret that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably/ Needless to say/ squarely....
+It is no secret that/It is patently axiomatic that/It is patently obvious/ clearly/ unquestionably/ undeniably/ without doubt/ manifestly/ palpably/unmistakably/indisputably/ Needless to say/ squarely....
 
 The team would make headway toward ...
 
@@ -551,7 +553,7 @@ Claim = statement = assertion = contention
 # which in turn
  |
 
-##  Brainstorm
+# Brainstorm
 
 - **Playing sports can teach people lessons about life.**
   - Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen &quot;for&quot; us, not &quot;to&quot; us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team and take the lead in the second half and snatch victory from jaws of defeat.
@@ -616,7 +618,7 @@ C: Individual efforts
  3. Being well organized.**
   - From a social standpoint, nothing better than sharing integrity and truthfulness can grow young children into God-fearing, law-abiding citizens when they attend the society a few years down the road. A child aged between 5 to 10 spends his formative years. In this period, the mind is like a sponge, soaking up and absorbing innumerable drops of the behaviors of its surroundings. Share honesty with the kid, see the fruits of this practice remaining forever; it—the fruit—neither spoils nor falls from the tree. It continues to grow to be the most distinguished characteristic of the person. The years of sharing integrity with children at their critical juncture of lives will teach them to stay true to their conscious and choose the right path when facing ethical quandaries. Once established and nurtured adequately, the honesty will carry over to one&#39;s adulthood, making his or her an ethical and morally competent person. There is the main reason behind this conclusion: an honest person has a monopoly on all acclaimed and acceptable dispositions and virtues.
   - Furthermore, sharing honesty and presenting it in a positive light means taking a promising step to meet one of the most consequential responsibilities toward little ones: ensuring emotional security. Early childhood is identified with the time of play, fooling around, and causing troubles. Children—these little, professional troublemakers—have the fear of punishment and being blamed for their wrongdoing. Whether they have permissive, overindulgent, or overprotective parents, children know that they cannot get away with everything; punishment or asking to be answerable lies ahead of them. To get around the punishment, they resort to concealing the truth by choosing to be dishonest. If this trend continues, it will be only a question of time before they fall into the spiral of hiding the truth. Escaping accountability by lying, children will end up suffering malignant emotional consequences. They constantly tear apart inside as they never receive emotional support or sympathy in the case of making mistakes because they have chosen to conceal the truth as the relief to their wounds. If children learn to be honest from an early age, they will always reveal the reality no matter what. They know that the emotional support, warmth, and sympathy of their family members, friends, or teachers will outweigh the pain of the possible punishment and accountability.
-- **The extended family (grandparents, cousins,aunts, and uncles) is less important now than it was in the past..**
+- **The extended family (grandparents, cousins, aunts, and uncles) is less important now than it was in the past..**
   - People in this complicated life are notoriously preoccupied and pressed for time. They rarely communicate with their immediate family members, let alone with their distant relatives.
   - Given that family members, whether they are immediate or extended, are sometimes annoyingly inquisitive about one&#39;s matters, today&#39;s people are inclined toward being away from their distant relatives whose meddling in personal matters interferes with one&#39;s very independence and self-confidence.
 - **Some people prefer to go and visit tourist attractions where there are many people. Others like the tourist attractions with fewer people.**
@@ -631,17 +633,18 @@ C: Individual efforts
  When facing a challenge, we know that putting strenuous effort will solve the problem, no matter whether we are known as &#39;lucky&#39; or not.
   - Luck cannot contribute to success. If it could, the most successful persons in the world would be perceived as the luckiest. The reality, however, is completely different. When we read the biography of highly successful people, one thing that strikes us the most is the fact that these people didn&#39;t have the basic possessions that we take for granted. For example, Hellen Keller did not speak, nor could she hear. But the paucity of these faculties didn&#39;t hinder her success. Steve Jobs also was given to adoption while he was a little child. Abraham Lincoln is also said to be a bad looking person, and Lionel Messi had Hormone deficiencies problem. These people are excellent epitomes of how hard work can beat unluckiness.
 - **it is important to learn about other cultures.**
-  - In this globally interconnected world, one should learn about other cultures to climb the ladder of success. This sophisticated world is characterized by its opportunities and being a global village. People leave their homeland to find greener pastures in their job or academic career. Having information about other cultures can facilitate the process of this movement and modern immigration to a great extent. For example, for those who are inclined toward studying in the US, knowing about its culture, language, and dominant lifestyle can be of great help.
+  - In this globally interconnected world, one should learn about other cultures to climb the ladder of success. This sophisticated world is characterized by its opportunities and being a global village. People leave their homeland to seek greener pastures in their job or academic career. Having information about other cultures can facilitate the process of this movement and modern immigration to a great extent. For example, for those who are inclined toward studying in the US, knowing about its culture, language, and dominant lifestyle can be of great help.
   - Since language and culture are inextricably connected, having a broad range of information about other cultures can boost one&#39;s job prospects. In this modern job market, being bilingual or even polyglot is the mandatory prerequisite of many professions. Acquiring knowledge about other cultures can equip you with what it takes to secure these kinds of positions.
   - Learning about other cultures, one can find similarities between the customs and traditions of those cultures with theirs. This may change your possible prejudgment, negative preconceived notion, or even blatant hostility against other minority groups. Understanding similarities while respecting unique differences can lead to an inclusive and ethnically and racially diverse society, without discriminative and racially prejudiced feelings toward minorities. Maybe, if Edinson Cavani had learned about British culture, he would not have hurt black-skinned people&#39;s feelings by his racially stereotyped comments.
 - **It is important to read or watch the news presented by people whose views are different from your own or presented by people whose views are similar to your own?**
   - Exposure to news presented by someone cherishing opposite views to one&#39;s ideologies and perspectives can foster out of the box thinking. over-consumption of favorable news is an impediment to viewing problems, situations, and realities from different perspectives. It never helps one to think critically. On the other hand, in the case of being exposed to opposite views, one learns how to see the world from the lens of someone cherishing beliefs completely conflicting with those of one. This situation is a contributor to developing a big-picture perspective.
+  - Being exposed to news presented by different people, one would be enormously open-minded. Should one person only listen to news from one-oriented sources, they cannot be aware of various angle of the matter. As a result, they are incapable of making proper judgements of the events happening around them. Extraordinarily eye-opener is the act of receiving information from miscellaneous sources that helps one make hear toward in their everyday life.
   - Embracing opposite views is a promising step toward enhancing the level of tolerance and accepting differences. Sad but true, in today&#39;s modern life, founded on individualism, &quot;my own view&quot; and &quot;my preference&quot; are phrases we hear frequently every day. People don&#39;t make a compromise, nor do they go beyond their selfish views. This autocratic and intransigent attitude is the byproduct of turning a deaf ear to opposite opinions. Listening to and reading news represented by people with whom we are not on the same page can make us more tolerant of different beliefs. We will no longer insult others&#39; uniqueness and will appreciate their unique views and principles. Maybe this practice can eradicate the hostility and contemptuous feelings prevalent in modern society.
   - **Famous entertainers and athletes deserve to have more privacy than they have now.**
   - What makes celebrities a &quot;celebrity&quot; is media scrutiny and gossips. They owe the fame and adulation that they enjoy to these gossips and rumors. They know that media surveillance is like a double-edged sword: on the bright side, they get pleasure from the popularity and truckloads of money they make by means of being in the limelight. On the flip side, they should accept encroachment to their personal space. They do not have any right to complain about the circulation of their embarrassing images or rumors.
   - Public figures have an insatiable desire to flaunt and show off, which justifies their violated privacy. When they post their photos to brag about their immaculate sense of dressing, flamboyant lifestyle, chauffeur-driven limousine, and their expansive mansion full of golden accessories they themselves invite intrusion in their personal life. They knowingly get their privacy violated and they do not deserve privacy.
   - Everyone, be it a famous figure such as luminaries of stage and screen, icons of the music industry, and sports personalities or an ordinary citizen, needs privacy. It is a gross violation of human rights to get celebrities&#39; well-deserved personal space violated only for a simple reason: to quench our insatiable desire to learn more about their personal matters. Public figures are human beings too. They need to live a normal life with their families, children, and friends. But unfortunately, the inquisitive society has taken away this chance from them. We get their privacy violated to such an extent that they cannot step outside without security personnel because they are constantly subject to paparazzi or even terrorists and criminals. By respecting their privacy we may help them live a normal life just like any of us.
-  - Given the physically and intellectually demanding nature of athletes and artists&#39; profession, they deserve uninterrupted privacy to focus on their training. As convenient as it may seem, being a professional actor or an athlete requires one to put their strenuous effort every day. This can be done only by allowing them to concentrate on their performance and daily training. We only see the tip of the iceberg, not what is beneath. Celebrities, unfortunately, resort to drug and drinking to cope with the pressure they endure because we encroach on their personal space while practicing. We owe a debt of gratitude to public figures because of making us happy and entertained. Maybe, respecting their personal life is the best way to compensate for their
+  - Given the physically and intellectually demanding nature of athletes and artists&#39; profession, they deserve uninterrupted privacy to focus on their training. As convenient as it may seem, being a professional actor or an athlete requires one to put their strenuous effort every day. This can be done only by allowing them to concentrate on their performance and daily training. We only see the tip of the iceberg, not what is beneath. Celebrities, alas, resort to drug and drinking to cope with the pressure they endure because we encroach on their personal space while practicing. We owe a debt of gratitude to public figures because of making us happy and entertained. Maybe, respecting their personal life is the best way to compensate for their
 - **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
   - -----
   - -----
@@ -651,7 +654,7 @@ C: Individual efforts
 - **Some people like to keep a record of their own experiences by uploading pictures and other information to social-networking sites. Other people prefer not to create such records. Which approach do you prefer, and why?.**
   - -----
   - -----
-## - **Which one can make friendship stronger?**
+- **Which one can make friendship stronger?**
 
 **-Having a good time with your friend (Enjoy good time)**
 
@@ -677,9 +680,9 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
   - Universities offer diversity of teachers and profs.
   - Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students. Ex: I was enrolled in a class whose instructor had a wealth of experience in conducting industrial projects and explained minute details about his projects. That course was, without exaggeration, the best course in my undergraduate years, and I learned a lot in that lesson.
   - More institutions will commission him to do other researches; know you -\&gt; opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
-- **It is important to have rules about the types of clothes that people wear in their
+  - **It is important to have rules about the types of clothes that people wear in their
  workplace and at school.**
-  - No; improper to force people what to wear; wear whatever they want to feel comfortable; from pedagogically standpoint increase productivity; school uniform; inconvenient I couldn&#39;t understand well in class
+  - No; improper to force people to wear a specific kind of cloth; wear whatever they want to feel comfortable; from pedagogically standpoint increase productivity; school uniform; inconvenient I couldn&#39;t understand well in class
   - Feel free; different tastes; based on their temperament; I wear fashion but casual ; look approachable; don&#39;t spent a lot of time in front of the mirror
 - **Some people think it is the best approach for students to learn if school start the day
  at an early time in the morning. But someone think the school should start the day at
@@ -688,13 +691,13 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
 
 One of the most talked about things[** related to studying**](http://www.bellakulture.com/2015/04/the-best-study-tips-for-finals.html) is when exactly is the best time to hit the books? While this is most certainly affected by lifestyle and preferences, they are some pretty good reasons why as a college student you should study in the mornings.
 
-  - Morning; after a tiring day it is hard to retain what you studied; eventful day, read the matters more than one; the later you study, the more tired your brain is; the less you understand; in morning you had the chance to clear your mind and is easy to maintain focus; Ex: I am a morning person,
-  - As imp as brain condition is you physical condition, Mornings are great because you are at the most energetic level you&#39;ll be for the rest of the day. The more energetic you are, the more you are able to concentrate. One night I was studying I was sleepy next day I start reading the rest of the book I read about 10 pages and sud
+  - Morning; after a tiring day it is hard to retain what you studied; eventful day, read the matters more than once; the later you study, the more tired your brain is; the less you understand; in morning you had the chance to clear your mind and is easy to maintain focus; Ex: I am a morning person, and I perform immensely better in the morning. I will work doubly more from 6 a.m. to 9 a.m. than from 6 p.m. to 9 p.m. in the afternoon.
+  - As imp as brain condition is you physical condition, Mornings are great because you are at the most energetic level you&#39;ll be for the rest of the day. The more energetic you are, the more you are able to concentrate. I stayed up one whole night to study in order that I was sleepy next day I start reading the rest of the book I read about 10 pages and suddenly I recognized that I had read them the night before.
 - **Which one of the following is the best approach to reduce living expense?
  A. share the rent with roommate
  B. do not buy the latest technology products like cellphone frequently
  C. cook food at home.**
-  - House costs are exceedingly high. Difficult for people to afford rentals. Share house with others is a cost-effective decision
+  - House costs are exceedingly and exorbitantly high. Difficult for people to afford rentals. Share house with others is a cost-effective decision
   - It is not impossible to live w/o having latest tech products, so we do not usually spend a stupefying amount of money on them. There are local restaurants that sell economical food or you can use TV-dinner. I lived in dorm and I ate out most of the time, whereas I was student and did not have a great deal of money.
 - **Students do reading by their own personality is as important as, or more important
  than reading assigned by teachers.**
@@ -706,8 +709,8 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - People can create many jobs by buying products in their own country. Unemployment rate is high. Young people need job.
 - **When working on a project, it&#39;s better for classmates or colleagues to communicate
  face to face than sending emails**
-  - Convey better -\&gt; obviates the risk of misunderstanding, assemble together, deliberation make collective decisions -\&gt; Ex: work on the same tasks
-  - If only one member does not have access to net -\&gt; project will be stopped, lead to project postponement -\&gt; meet the deadlines -\&gt; fall behind on their works and lose the market.
+  - Convey better -\&gt; obviates the risk of misunderstanding, assemble together, deliberation make collective/joint/combined decisions -\&gt; Ex: work on the same tasks
+  - If only one member does not have access to net -\&gt; project will be stopped, lead to project postponement -\&gt; meet the deadlines -\&gt; fall behind on their work and lose the market.
   - Email/video conference obviates the need to collocate members and reduces ambiguity in commander&#39;s intention.
 - **It&#39;s better to complete a project and then start another one than to do several things at
  the same time.**
@@ -816,8 +819,8 @@ One of the most talked about things[** related to studying**](http://www.bellaku
   - sig fact b4 chsing mjr is interest – hard ok – successful , passion, effort. You will be able to achieve anything providing that you keep plugging away at it.
   - ther factors
 - **know how your donation to a charity is going to be spent**
-  - no; trust org, manifest rubric, experts know better, not as wasy as you might thing,
-  - live your life and let them do their work, just find a good org, dont interfere, anonymous,
+  - no; trust org, manifest rubric, experts know better, not as easy as you might thing,
+  - live your life and let them do their work, just find a good org, don&#39;t interfere, anonymous,
 - **prepare children for school;**
   - communication -\&gt; ess skills
   - It will help them to enjoy higher self-confidence and self-esteem, which in turn may affect their social relationship positively.
