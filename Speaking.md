@@ -124,6 +124,24 @@ Another strategy is to...
 - They will gradually metamorphose to industrious and indefatigable people. It will raise their stamina and boredom threshold.
 - Teachers should have patient to answer inquisitive children&#39;s question.
 
+- **End-of-course evaluation**
+
+- End-of-semester evaluations are enormously useful. Not only do the students benefit from this, but so do the professors.
+- It will help teachers to make improvements to their courses. They will be aware of the positive and negative aspects of their teaching. For example a teacher whose handwriting is not acceptably neat had better use slides to teach in the class.
+- Furthermore, students will be able to provide their feedback anonymously, so they will give their feedback honestly. And this will not affect their final grade at all.
+
+- **Best decisions are made by a group**
+
+- The decisions that are made by a group are enormously better than decisions made by an individual.
+- First, in a group different people will look at the matters from different angles. People need to use other&#39;s specialty to consider different factors that are at play in a process. The more diverse the group, the better the decision.
+- When it comes to make a timely decision in the nick of time. Decisions will be made faster in a group. The more people in a group, the faster the decision is made.
+
+- **Complex surroundings or simple one**
+
+- I genuinely love plain and simple spaces. I even hate hanging frames on the wall.
+- I am not, nor have I ever been a proponent of consumerism. Thus I really avoid buying unnecessary things like decorative objects. You will be obsessed to update your surrounding by buying more and more object which will eventually clutter you room.
+- Besides, the less decorations, the more concentration. Those objects will distract you and you cant focus on your work efficaciously. You might not be able to resist the temptation for playing with a fidget spinner on your table for example.
+
 - **Homework for students**
 
 - It&#39;ll help students **study throughout the semester** , on a regular basis, and avoid procrastination and keep track of class discussions, thus consolidate the lessons and store the information in their long-term memory. As a result, their lessons will not accumulate and they won&#39;t need to cram before the exams. When I was a freshman, I always crammed before exams. So not only did I get bad grades, but I also had terrible nights back then.
@@ -131,7 +149,8 @@ Another strategy is to...
 
 - **Study in the morning**
 
-- It&#39;s easier to maintain focus in the morning. For some demanding courses, it&#39;s enormously important to fully focus. I&#39;m a morning person
+- It&#39;s easier to maintain focus in the morning. For some demanding courses, it&#39;s enormously important to fully focus. I&#39;m a morning person and perform immensely better in morning classes.
+- People are usually tired in the afternoon and afternoon classes are usually boring. This is why students are sleepy in such classes. and not only do students
 
 -   **Schools**
   - Schools should provide a **congenial** atmosphere, not an oppressive one. The more delight intermingles with education, the better the students learn the lessons.
@@ -241,6 +260,7 @@ Another strategy is to...
   - People don&#39;t show interest in reading books today because of the other sources of information available.
   - Electronic devices will render books obsolete. With digital devices, you can **carry** a large number of books in a light-weight device with you wherever you want. For example, I have an e-reader with more than 53 books on it. I don&#39;t even have enough space in my room to hold this many books, let alone carrying them with me.
   - Furthermore, electronic devices allow you to easily **highlight** any part of the book, add text, and delete it whenever you want. You can also easily search for a phrase or subject that you want to read about in a book, which is utterly impossible in paper books.
+  - Additionally, books cannot keep pace with changes in technology. sput
 
 - **Environment**
 
@@ -292,12 +312,12 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Cooking at home**
 
-- There are benefits to cooking at home, you can save money compared to ordering from a restaurant or using TV-dinners as well as using healthier ingredients and setting portions to a reasonable size. When I was living in dorm while studying my masters I hardly cooked myself and ate out most of the times and it made me seriously sick.
+- There are innumerable benefits to cooking at home, you can save money compared to ordering from a restaurant or using TV-dinners as well as using healthier ingredients and setting portions to a reasonable size, to name but a few. When I was living in dorm while studying my masters I hardly cooked myself and ate out most of the times and it made me seriously sick.
 -
 
 - **Regular exercise**
 
-- In this day and age, hustle and bustle of modern life lead us to a hectic lifestyle. We are preoccupied with our jobs. Some of us are overburden with their jobs. They work from dawn till dusk to keep the body and soul together. So it&#39;s fairly difficult to open up your schedule for exercising. You know?
+- In this day and age, hustle and bustle of modern life lead us to a hectic lifestyle. We are preoccupied with our jobs. Some of us are overburden with their jobs. They work **from dawn till dusk** to keep the body and soul together. So it&#39;s fairly difficult to open up your schedule for exercising. You know?
 - On the other hand, it&#39;d be better to exercise on a regular basis. Regular exercise helps you get rid of many health problems as well as being in shape. It will promote better sleep. You will fall asleep faster and deepen your sleep. Besides it can increase your life expectancy/longevity and boost your mood through being healthy and not having diseases.
 
 - **Indoor activity or outdoor activity**
@@ -320,9 +340,9 @@ For example, look at the oceans that are fouled almost beyond recovery.
 
 - **Spur of the moment decision or planning before**
 
-- In the majority of cases, you should mull over important things before doing anything. If you make decisions in haste, you might be full of remorse. For example, some years back I was always
+- In the majority of cases, you should mull over important things before doing anything. If you make precipitate decisions in haste, you might be full of remorse. For example, some years back I was always
 - In some **instances** , if you make a mistake, you might be forced to start from scratch and that takes a long time.
-- In some situations, you need to be able to make timely decisions in the nick of time. You should think fast and take prompt action. For example, I once inadvertently pushed the accelerator instead of the brake in a panic and plowed into the car in front.
+- In some **instances** , you need to be able to make timely decisions in the nick of time. You should think fast and take prompt action. For example, I once inadvertently pushed the accelerator instead of the brake in a panic and plowed into the car in front.
 - You should have the ability to plan in an ad-hoc basis.
 
 - **News**
