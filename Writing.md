@@ -1,12 +1,12 @@
-**Task2 - Independent**
+# **Task2 - Independent**
 
-**Tips** :
+## **Tips** :
 
-- 27-23-16-8-4
-- Planningis of utmost/crucial importance
-- agree/disagree, reasons, words
+- It'd be better to divide the time and move on to the next part at specfic minutes: 27-23-16-8-4 resectively for Planning-Intro-1st Body paragraph-2nd Body paragraph-Conclusion
+- Planningis of utmost importance
+- For Planning your just need to write a couple of things on paper: agree/disagree/choice, reasons, words that help you remember
 
-**Introduction:**
+### **Introduction:**
 
 - General statement
 
@@ -16,15 +16,15 @@ What is the field of the question?
 
 - Topic restatement
 
-Paraphrase =\&gt; Intro + Conclusion
+Paraphrase: You need the skill of paraphrasing in Intro and Conclusion
 
-State all the alternatives
+State all the alternatives mentioned in the question
 
 Suppose that the reader does not know about the question
 
 - Thesis statement
 
-Choose 1 side
+Choose one side
 
 Should be very clear
 
@@ -34,39 +34,39 @@ All of the alternatives should be mentioned
 
 Use a simple template
 
-**Topic sentence:**
+### **Topic sentence:**
 
-1. Reader should guess the question from topic sentence.
-2. No pronoun in topic sentence
-3. Not long
-4. Not lead-in and point at the main thing
-5. Every reason that you will explain in the paragraph should be mentioned in the topic
-6. Topic sentence should not be fact
+1. Reader should be able to guess the question from topic sentence.
+2. Do not use pronoun in topic sentence(Take it into consideration especially for second reason)
+3. Thesis statement should not be long.
+4. Thesis statement should not be lead-in or warm-up sentences, and it should point to the main idea.
+5. Every reason that you will explain in the paragraph should be mentioned in the topic.
+6. Topic sentence should not be fact. It should be something disputable or provable. 
 
 supporting sentences could be facts and examples.
 
-supporting sentences: major &amp; minor
+supporting sentences had be better to be possibly dividable into major and minor supporting sentences.
 
 concluding sentence is rephrased of topic sentence or summary of major sentences.
 
 There should be no irrelevant sentence.
 
 Concluding sentences transitions:
-**All in all, In short, Consequently, In summ**** a ****ry**
+**All in all, In short, Consequently, In summary**
 
-**Conclusion:**
+### **Conclusion:**
 
-Read the question before writing the conclusion
+Read the question before writing the conclusion (because you did not write about conclusion in Planning)
 
-Paraphrase your Thesis again
+Paraphrase your Thesis statement again
 
-Only mention the reasons again
+Only mention the reasons again(Or you can simply say "aforementioned reasons")
 
 It is possible to end the conclusion with a suggestion or rhetorical question.
 
 conclusion should be reviewing two reasons.
 
-**Intro** :
+### **Intro** :
 
 In modern era,
 
@@ -82,7 +82,7 @@ Whether ... or not **is a matter of opinion** ; some people are of the opinion t
 
 Others, on the other hand, take a radically different point of view and allege that …
 
-Opinions are divided as to whether the role … plays is of more significance or that of …
+Opinions(opinion=school of thought) are divided as to whether the role … plays is of more significance or that of …
 
 The question which has been raised since the advent of … is ~~that~~ what constitutes …
 
@@ -92,19 +92,21 @@ A vexed question amongst the myriad of questions which arise here is ~~that~~ �
 
 But whose relative importance is still debatable /is open to debate/ is a matter of debate.
 
+
 My impression is that …
 
 In my opinion …
 
 I am of the opinion that both … and … have their own merits and demerits.
 
-I don&#39;t subscribe to the theory that …
+I do not subscribe to the theory that …
 
 I am not, nor have I ever been an opponent of .../ a proponent of ...
 
-3 options: Although … and … are important, my impression is that … is of utmost significance/of essence.
-
+Questions that have 3 options:
+Although … and … are important, my impression is that … is of utmost significance/of essence.
 Notwithstanding the fact that … cannot be disregarded/cannot be considered insignificant , it is my firm conviction that …
+
 
 The following explanations will further elaborate **on** this perspective.
 
@@ -118,7 +120,7 @@ In following paragraphs, my viewpoint will be elucidated.
 
 In what follows, I will boil this down to a couple of main reasons.
 
-**First Body:**
+### **First Body:**
 
 First, and most obvious,
 
@@ -128,11 +130,12 @@ First of all,
 
 To begin with,
 
+
 This exemplar will suffice to illustrate the point that ...
 
 A case in point is ...
 
-**Second Body:**
+### **Second Body:**
 
 Another equally important factor to take into consideration is …
 
@@ -140,9 +143,10 @@ Another worthwhile reason to be mentioned here is (the fact that)…
 
 On the other hand,
 
+
 Examples of this abound in the world.
 
-**Conclusion:**
+### **Conclusion:**
 
 In conclusion,
 
@@ -188,15 +192,15 @@ It is suggested that an extensive body of research beconducted ~~carried out~~ t
 
 It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
 
-**General:**
+## **General collocations:**
 
-Use -\&gt; utilize
+Use -> utilize
 
 Strict rules = stringent rules
 
 Irrespective of age
 
-In light of sth, we do blab blab la
+In light of sth, we do …
 
 As pediatricians say, the more the children play video games, the more deteriorated their eyesight becomes.
 
@@ -210,7 +214,7 @@ There are a number of factors at play, most of which we have no control over.
 
 The number of people studying tertiary education is more than all in history.
 
-Because -\&gt; for
+Because -> for
 
 Children&#39;s emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount importance.
 
@@ -220,7 +224,7 @@ Not only do the students benefit from it, but so do the professors.
 
 It is human nature to …, that is how our brain works.
 
-(5)enormously traumatic/rigorous/arduous/mammoth/formidable/daunting/unenviable task
+(7)enormously traumatic/rigorous/arduous/mammoth/formidable/daunting/unenviable task
 
 heavy workload/ work overtime
 
@@ -228,7 +232,7 @@ heavy workload/ work overtime
 
 do a menial job to earn a living
 
-(8) excruciatingly hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting/deadly dull homework/assignment
+(9) excruciatingly hard/wearing/enervating/boring/grueling/tiring/fatiguing/exhausting/deadly dull homework/assignment
 
 increase/augment/escalate/enlarge/boost/develop
 
@@ -324,9 +328,9 @@ I wouldn&#39;t be seen dead doing ….
 
 If you do not give the wrong people in your life a wide berth, you will never meet the right ones.
 
-**Task 1 – Integrated**
+# **Task 1 – Integrated**
 
-**Tips**
+## **Tips**
 
 - Split the page into two sections. Write gender options.
 - Write what you&#39;ve got from reading and listening.
@@ -338,7 +342,7 @@ If you do not give the wrong people in your life a wide berth, you will never me
 - Think grammatically to use advanced structures.
 - Do not forget to conclude in every paragraph.
 
-**Intro**
+### **Intro**
 
 The reading passage and the lecture mainly discuss ... and its attendant/and its causes .... In this regard, the article states that …. With this in mind, the author cites/sets out three supportive/dissenting reasons/troubles in order to elucidate ~~s~~ it.
 
@@ -348,7 +352,7 @@ In this regard, the article presents some evidence which indicates that …
 
 In this regard, the article presents different factors that could have worked in concert to account for …
 
-**Contradict**
+### **Contradict**
 
 The lecturer, however, finds the evidence brought up by the critics wholly **inadmissible/unpersuasive/unconvincing** and allege that these ideas are **inconsistent with the truth**.
 
@@ -360,7 +364,7 @@ The lecturer, however, **gainsays** the **conjectures** brought up by the author
 
 The lecturer, however, **discounts the possibility** of ... and asserts that there is only **scanty evidence** of ...
 
-**Problem/Solution**
+### **Problem/Solution**
 
 The reading passage and the lecture mainly **discuss acute problems associated** with/ensued from … (Problem)
 
@@ -368,7 +372,7 @@ In this regard, the article states **that some acute problems have arisen** rega
 
 **In an accordance with** the problems mentioned by the author, the lecturer propounds some possible/viable solutions.(Solution)
 
-**Support**
+### **Support**
 
 Consistent with/In an accordance with the points mentioned in the passage, the lecture...
 
@@ -378,9 +382,9 @@ The lecturer agrees in principle, but he/she finds the reasons brought up by the
 
 While acknowledging the fact that ..., the lecturer asserts that ...
 
-**Contradict**
+### **Contradict**
 
-**First**
+### **First**
 
 First, the reading **brings up/puts forward the idea** that …
 
@@ -390,7 +394,7 @@ In contrast, the lecturer finds the claim unfounded/groundless, and he/she furth
 
 **This directly refutes the reading passage which states that**
 
-**Second**
+### **Second**
 
 Moreover, the reading **highlights the idea** that …
 
@@ -400,7 +404,7 @@ Moreover, the author mentioned …, an idea which the lecturer excludes as a rea
 
 **Again this contradicts what is claimed in the reading which states that…**
 
-**Third**
+### **Third**
 
 Finally, the author **argues** that …
 
@@ -410,41 +414,41 @@ Finally, both the reading passage and the lecture discuss …. While the author 
 
 **, an assertion/a statement that seems to be at odds with (author&#39;s claim)(…).**
 
-**Problem/reason**
+### **Problem/reason**
 
-**First**
+### **First**
 
 The first serious problem mentioned by the author is …. (Problem)
 
 To tackle/ To combat this crucial problem, the professor states that….(Solution)
 
-**Second**
+### **Second**
 
 Moreover, the reading highlights… as another concern. (Problem)
 
 As a feasible/viable solution, the speaker asserts that … should be taken into account(sol)
 
-**Third**
+### **Third**
 
 The final challenge mentioned by the writer is….(Problem)
 
 On the other side, the speaker propounds that … (Solution)
 
-**Support**
+### **Support**
 
-**First**
+### **First**
 
 First, the passage says that … The lecturer, in addition, **corroborates** /supports/reinforces the claim by adding that … and finds the reason brought up by the author perfectly cogent.
 
-**Second**
+### **Second**
 
 Moreover, the passage claims that … The lecturer validates the idea emphasizing that …
 
-**Third**
+### **Third**
 
 Finally, the passage says that …. The lecturer supports this by holding the idea that …
 
-**General**
+## **General**
 
 Heavenly body
 
@@ -501,15 +505,15 @@ Such high is the ...
  suggests | NotesOpposeChallenge | argues
  alleges |
 
-**Support** :
+### **Support** :
 
 Corroborate, confirm, verify, **substantiate** author&#39;s claims, back up, As evidenced by, acknowledges,
 
-**Refutes** :
+### **Refutes** :
 
 gainsay the author(&#39;s claims), **contradicts** , negates author&#39;s claim, discounts the possibility of, rejects, repudiates, dismisses, refute, rebut
 
-**solution** :
+### **solution** :
 
 propound, propose, suggest,
 
