@@ -2,9 +2,9 @@
 
 ## **Tips** :
 
-- It'd be better to divide the time and move on to the next part at specfic minutes: 27-23-16-8-4 resectively for Planning-Intro-1st Body paragraph-2nd Body paragraph-Conclusion
-- Planningis of utmost importance
-- For Planning your just need to write a couple of things on paper: agree/disagree/choice, reasons, words that help you remember
+- It'd be better to divide the time and move on to the next part at specific minutes: 27-23-16-8-4 respectively for Planning-Intro-1st Body paragraph-2nd Body paragraph-Conclusion
+- Planning is of utmost importance
+- For Planning you just need to write a couple of things on paper: agree/disagree/choice, reasons, words that help you remember
 
 ### **Introduction:**
 
@@ -36,7 +36,7 @@ Use a simple template
 
 ### **Topic sentence:**
 
-1. Reader should be able to guess the question from topic sentence.
+1. The reader should be able to guess the question from topic sentence.
 2. Do not use pronoun in topic sentence(Take it into consideration especially for second reason)
 3. Thesis statement should not be long.
 4. Thesis statement should not be lead-in or warm-up sentences, and it should point to the main idea.
