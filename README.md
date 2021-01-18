@@ -1,8 +1,8 @@
-# Teofl
+---
+description: Instruction
+---
 
-This repo is designed to practice Toefl
+# Instruction
 
-I will try to focus on Writing for now, but we may continue to develop materials for other skills too.
-
-You can find this as a book on [Dehghanni.gitbook.io/toefl](https://dehghanni.gitbook.io/toefl/)
+Please check out the main branch. Click on 1.0.0.
 
