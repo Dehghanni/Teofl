@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Writing](README.md)
+* [Instruction](README.md)
 
 ## Writing
 
