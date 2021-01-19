@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Instruction](README.md)
-
-## Writing
+* [Teofl](README.md)
+* [Writing](writing.md)
+* [Speaking](speaking.md)
 
