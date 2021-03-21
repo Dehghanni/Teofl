@@ -781,7 +781,7 @@ One of the most talked about things[ **related to studying**](http://www.bellaku
   * A leader should never shirk his responsibilities.
 * **Teamwork**
   * The importance of teamwork is essential in today's multidisciplinary world. In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
-  * Teamwork enables the members to split an enormously mammoth task into simpler ones -\&gt; every person develops specialized skills and avoids multitasking, therefore there would be the best person for each task that can accomplish it in a more excellent way, and the work will not be daunting and wearing anymore. -\&gt; lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
+  * Teamwork enables the members to split an enormously mammoth task into simpler ones -> every person develops specialized skills and avoids multitasking, therefore there would be the best person for each task that can accomplish it in a more excellent way, and the work will not be daunting and wearing anymore. -> lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
   * Teammates observe and depend on the quality of each other's work. When one team member's performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
 * **pay fee to drive in busy streets**
   * decrease \# of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
@@ -820,7 +820,7 @@ One of the most talked about things[ **related to studying**](http://www.bellaku
   * no; trust org, manifest rubric, experts know better, not as easy as you might thing,
   * live your life and let them do their work, just find a good org, don't interfere, anonymous,
 * **prepare children for school;**
-  * communication -\&gt; ess skills
+  * communication -> ess skills
   * It will help them to enjoy higher self-confidence and self-esteem, which in turn may affect their social relationship positively.
 * **how to know a new city in short time**
 * **use elec devices in class**
@@ -842,9 +842,11 @@ The importance of teamwork is essential in today's multidisciplinary world.
 
 In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
 
-**Teamwork enables the members to split an enormously mammoth task into simpler ones -\&gt; every person develops specialized skills, therefore there would be the best person for each task that can accomplish it in a more excellent way. -\&gt; lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.**
+There is no "I" in a team.
 
-Teammates observe and depend on the quality of each other's work. When one team member's performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
+**Teamwork enables the members to split an enormously mammoth task into simpler ones -> every person develops specialized skills, therefore there would be the best person for each task that can accomplish it in a more excellent way. -> lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.**
+
+Teammates observe and depend on the quality of each other's work. When one team member's performance declines, others have the knowledge and motivation to help them improve. -> smoother and looser structure, convivial and cordial atmosphere ->
 
 Approach your colleague with friendly questions, rather than accusations.
 
