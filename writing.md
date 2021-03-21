@@ -1,6 +1,4 @@
-test 
-
-# Writing
+<h1> Writing </h1>
 
 ## **Task2 - Independent**
 
@@ -489,7 +487,17 @@ It requires prodigious amounts of energy to...
 
 Such high is the ...
 
-\| believes claims thinkspoints to \| states says points out mentionspositsputs forth \| contends asserts insistsmaintains \| \| --- \| --- \| --- \| \| proposes suggests \| NotesOpposeChallenge \| argues alleges \|
+| Doubtful      |  Natural    |   Certain    |
+| :---          |    :----:   |     ----:   |  
+| believes      | states      | contends   | 
+| claims        | says        | asserts    | 
+| thinks        | points out  | insists    |             
+| points to     | posits      | maintains  |
+| proposes      | pus forth   | argues     |
+| suggests      | notes       | alleges   |
+| ---           | oppose      | ---  |
+| ---           | challenge   | --- |
+
 
 #### **Support** :
 
@@ -505,55 +513,21 @@ propound, propose, suggest,
 
 Claim = statement = assertion = contention
 
-\|
 
-## Therefore
-
-\| \| --- \| \|
-
-## Hence
-
-\| \|
-
-## Thus
-
-\| \|
-
-## As a consequence
-
-\| \|
-
-## For this reason
-
-\| \|
-
-## This means that
-
-\| \|
-
-## As a result
-
-\| \|
-
-## So
-
-\| \|
-
-## Therefore
-
-\| \|
-
-## Consequently
-
-\| \|
-
-## Thereby
-
-\| \|
-
-## which in turn
-
-\|
+If you need not to repeat "therefore" many times:
+| Therefore |
+| ---       |
+| hence |
+|thus|
+|as a consequence|
+|for this reason|
+|this means that|
+|as a result|
+|so|
+|therefore|
+|consequently|
+|thereby|
+|which in turn|
 
 ## Brainstorm
 
