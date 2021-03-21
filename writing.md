@@ -5,7 +5,7 @@
 ### **Tips** :
 
 * It'd be better to divide the time and move on to the next part at specific minutes: 27-23-16-8-4 resectively for Planning-Intro-1st Body paragraph-2nd Body paragraph-Conclusion
-* Planningis of utmost importance
+* Planning is of utmost importance
 * For Planning you just need to write a couple of things on paper: agree/disagree/choice, reasons, words that help you remember
 
 #### **Introduction:**
