@@ -533,11 +533,11 @@ If you need not to repeat "therefore" many times:
 
 * **Playing sports can teach people lessons about life.**
   * Playing sports will teach you success and defeats are two sides of the same coin—twins, but not enemies. It teaches us that failure can be turned into success if we bounce back higher than we fall. Failures happen "for" us, not "to" us, and nothing more than losing hope can sabotage our success. For example, it has been seen many times that in a football match, the losing team was able to get the better of the opposing team and take the lead in the second half and snatch victory from jaws of defeat.
-  * Playing sports will **inculcate/instill** an attitude of teamwork spirit into individuals.-\&gt;
+  * Playing sports will **inculcate/instill** an attitude of teamwork spirit into individuals.->
 
-    When engaging in sports activities, one learns how to **avoid social** loafing and cooperate with others in order to achieve the common objective of the group -\&gt;
+    When engaging in sports activities, one learns how to **avoid social** loafing and cooperate with others in order to achieve the common objective of the group ->
 
-    this quality is a must-have and sought-after skill in the workplace -\&gt;
+    this quality is a must-have and sought-after skill in the workplace ->
 
     lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
 
@@ -646,7 +646,7 @@ C: Individual efforts
 
 **-Supporting each other**
 
-* **Supporting each other.** Supporting each other will make both friends successful, and they will enjoy their friendship. One can count on their supportive friend whenever they run into difficulties. -\&gt; supportive friends subordinate their interests to those of their friends and help them to climb the ladder of success -\&gt; reciprocally their friend will keep their hand and help them be successful, which would be like snowball effect. Eventually they would be more successful and enjoy their relationship.
+* **Supporting each other.** Supporting each other will make both friends successful, and they will enjoy their friendship. One can count on their supportive friend whenever they run into difficulties. -> supportive friends subordinate their interests to those of their friends and help them to climb the ladder of success -> reciprocally their friend will keep their hand and help them be successful, which would be like snowball effect. Eventually they would be more successful and enjoy their relationship.
 * Supportive friends will never be green with envy, and they never cause conflicts. They are happy to help. Supportive friends are not jealous, so they will never lead their friends astray. They will never misguide their friends with wrong information. Therefore, there would not be any conflict among them; on the contrary this will cement the bond between them. For example: studying with your friend at school.
   * \*\*Which one do you think is important to long-lasting friendship?
 
@@ -663,7 +663,7 @@ Human beings have perpetually been seeking a way to communicate with others. Fri
 * **Which kind of professors will you choose when selecting the courses? 1. Some professors who are voted to be the most popular one 2. Some professors who \*\*** are rewarded of outstanding research\*\*
   * Universities offer diversity of teachers and profs.
   * Research; the more research the more knowledge; you will palpably learn more; Experienced teachers are capable of demystifying the matters in a more excellent way, The professor shares his research experiences with the students. Ex: I was enrolled in a class whose instructor had a wealth of experience in conducting industrial projects and explained minute details about his projects. That course was, without exaggeration, the best course in my undergraduate years, and I learned a lot in that lesson.
-  * More institutions will commission him to do other researches; know you -\&gt; opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
+  * More institutions will commission him to do other researches; know you -> opportunity to work for him; you will stand a better chance of getting a job. My roommate. A prof who published a paper in Nature; he was working on different projects simultaneously. He got a rewarding job in petroleum ministry with high salary.
   * \*\*It is important to have rules about the types of clothes that people wear in their
 
     workplace and at school.\*\*
@@ -703,8 +703,8 @@ One of the most talked about things[ **related to studying**](http://www.bellaku
   * \*\*When working on a project, it's better for classmates or colleagues to communicate
 
     face to face than sending emails\*\*
-* Convey better -\&gt; obviates the risk of misunderstanding, assemble together, deliberation make collective/joint/combined decisions -\&gt; Ex: work on the same tasks
-* If only one member does not have access to net -\&gt; project will be stopped, lead to project postponement -\&gt; meet the deadlines -\&gt; fall behind on their work and lose the market.
+* Convey better -> obviates the risk of misunderstanding, assemble together, deliberation make collective/joint/combined decisions -> Ex: work on the same tasks
+* If only one member does not have access to net -> project will be stopped, lead to project postponement -> meet the deadlines -> fall behind on their work and lose the market.
 * Email/video conference obviates the need to collocate members and reduces ambiguity in commander's intention.
   * \*\*It's better to complete a project and then start another one than to do several things at
 
@@ -782,10 +782,10 @@ One of the most talked about things[ **related to studying**](http://www.bellaku
 * **Teamwork**
   * The importance of teamwork is essential in today's multidisciplinary world. In this day and age, most of the projects/jobs involve interacting with others that are not even in the same line of profession. The need for effective teamwork is critical for any business.
   * Teamwork enables the members to split an enormously mammoth task into simpler ones -> every person develops specialized skills and avoids multitasking, therefore there would be the best person for each task that can accomplish it in a more excellent way, and the work will not be daunting and wearing anymore. -> lead to better productivity, more efficacy, reduced costs, greater profitability, and many other benefits.
-  * Teammates observe and depend on the quality of each other's work. When one team member's performance declines, others have the knowledge and motivation to help them improve. -\&gt; smoother and looser structure, convivial and cordial atmosphere -\&gt;
+  * Teammates observe and depend on the quality of each other's work. When one team member's performance declines, others have the knowledge and motivation to help them improve. -> smoother and looser structure, convivial and cordial atmosphere ->
 * **pay fee to drive in busy streets**
   * decrease \# of cars that produce prodigious amounts of GH gases signfcl – not reasonable to pay – encourage public transportation – reduce the pollution
-  * use the revenue -\&gt; incentives for green activity, establish recycling companies
+  * use the revenue -> incentives for green activity, establish recycling companies
 * **secure job low pay or high salary not secure**
   * each of these cut both ways.
   * A secure job with a guaranteed monthly paycheck consistent, afford opp to make master plan rather than living in a haphazard way or being in a precarious position, reduce anxiety and facilitate control, life-long desires,
@@ -793,9 +793,9 @@ One of the most talked about things[ **related to studying**](http://www.bellaku
 * **Stop reading or listening to news**
   * news is often about bad events – stressful because sometimes, try as one might, they cannot make any change – makes you tense – affect your life adversely – even may lead to mental disorder –
   * n the other hand, raise your awareness, dvlp realistic perspective on life and world – make better and timely decisions – tax , ...
-* **company -\&gt; better working env or technologies**
-  * better env -\&gt; comfortable – convival and cordial atmos – willing to work, boost employees morale – retain their employees , lower turnover - passion ..
-  * more meeting rooms -\&gt; more meeting – collective decisions – common goals – passionate – solve individual prblms together – more eager
+* **company -> better working env or technologies**
+  * better env -> comfortable – convival and cordial atmos – willing to work, boost employees morale – retain their employees , lower turnover - passion ..
+  * more meeting rooms -> more meeting – collective decisions – common goals – passionate – solve individual prblms together – more eager
 * **long assgnmnt for young students**
 * **people who always criticize are not good team members**
   * They do not work enthusiastically because of social loafing. People who always criticize Colleagues are in the habit of making their teammates the scapegoat for their mistakes. They are Toxic and notoriously hard-to-get-along-with and will be ostracized.
