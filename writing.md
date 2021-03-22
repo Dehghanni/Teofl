@@ -181,7 +181,7 @@ It is highly anticipated that
 
 It is suggested that a thorough and comprehensive survey beconducted ~~carried out~~ to appraise the efficacy/efficiency/effectiveness of this policy.
 
-It is suggested that an extensive body of research beconducted ~~carried out~~ to ascertain exactly what would happen in case ... was ... .
+It is suggested that an extensive body of research be conducted ~~carried out~~ to ascertain exactly what would happen in case ... was ... .
 
 It would be palpably unwise to draw firm conclusions from the results of a few pieces of research.
 
@@ -207,7 +207,7 @@ There are a number of factors at play, most of which we have no control over.
 
 The number of people studying tertiary education is more than all in history.
 
-Because -&gt; for
+Because -> for
 
 Children's emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount importance.
 
@@ -307,7 +307,7 @@ it is monumental for every individual to be
 
 It is axiomatic that …
 
-The more … the more …. Such a relationship can be discerned in a recent research that shows …
+The more … the more …. Such a relationship can be discerned in a recent research that shows/indicates …
 
 To exemplify, …
 
