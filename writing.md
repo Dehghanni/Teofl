@@ -299,7 +299,7 @@ Governments had better use revenues from environmentally related taxes to provid
 
 It takes an inordinate amount of time to ....
 
-Some celebrities are not averse/ have no aversion to getting pecuniary advantages by deception. To rephrase, some public figures are not bona fide and are prone to trick people to line their own pockets. Some hypocrite celebrities are inveterate liars. They might have political affiliation and ….
+Some celebrities are not averse/ have no aversion to/ are not shy about getting pecuniary advantages by deception. To rephrase, some public figures are not bona fide and are prone to trick people to line their own pockets. Some hypocrite celebrities are inveterate liars. They might have political affiliation and ….
 
 Had I known about ...., I would have been ...
 
