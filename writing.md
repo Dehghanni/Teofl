@@ -44,7 +44,7 @@ Use a simple template
 6. Topic sentence should not be fact. It should be something disputable or provable. 
 
 supporting sentences could be facts and examples.
-
+ 
 supporting sentences had be better to be possibly dividable into major and minor supporting sentences.
 
 concluding sentence is rephrased of topic sentence or summary of major sentences.
