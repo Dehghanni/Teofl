@@ -209,7 +209,7 @@ The number of people studying tertiary education is more than all in history.
 
 Because -> for
 
-Children's emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount importance.
+Children's emotional development depends to a great extent on their relationships in their formative years, which is why the bond between children and their parents or caregivers is of paramount/particular importance.
 
 Education, or the lack/paucity thereof, plays a prominent role in every society.
 
